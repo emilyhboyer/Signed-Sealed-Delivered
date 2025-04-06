@@ -6,8 +6,8 @@
             <titleStmt>
                 <title xml:id="MD_CC_PRO_036_1669_Allen" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
-                <author></author>
-                <editor></editor>
+                <author>Charles County</author>
+                <editor>Emily Boyer</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>Signed Sealed Delivered</publisher>
@@ -22,10 +22,80 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">Charles County</head>
+                <head rend="align(center)">William Allen Will</head>
+                <p>In the name of God Amen I William Allen of <placeName>Charles County</placeName> in the 
+                    <lb/><placeName>province of maryland</placeName> and being weak in body but of perfect minde memory.
+                    <lb/>prasied be God for the same doe make &amp; ordaine this my last will &amp;
+                    <lb/>testament I hereby working all farmer [mills?] whatsoever This [unclear] day of 
+                    <lb/>January in the year of our Lord <date>one thousand six hundred sixty nine</date>
+                    <lb/>and first of all I bequeath my soule into the hands of almighty God who 
+                    <lb/>gave it and my body unto the ground from where it came and for–
+                    <lb/>what small estate it haith please God to lend me I desire it may be–
+                    <lb/>bestowed in manner following–
                 </p>
+                <p><unclear reason="illegible"></unclear>I give and bequeath all my Estate hereafter <unclear></unclear> unto my Daughter
+                    <lb/><persName type="daughter">Elizabeth <surname>Allen</surname></persName>.</p>
+                <p>Item. I will and bequeath that my wife <persName type="spouse">Martha <surname>Allen</surname></persName> may enjoy my said Estate  
+                    <lb/>untill my said Daughter comes to age and if it please God to take her before 
+                    <lb/>she comes to age I give and bequeath it unto my wife Martha Allen and her heirs 
+                    <lb/>Item I give and bequeath unto my goddaughter <persName type="goddaughter">Mary <surname>Harrison</surname></persName> Daughter of 
+                    <lb/><persName>Joseph Harrison</persName> <measure commodity="livestock" unit="1">one brown cow</measure> commonly called by the name <name>Mealey</name>
+                    <lb/>now <unclear reason="illegible"></unclear> about the plantation of <persName>John <surname>Wheeler</surname></persName> together with all her 
+                    <lb/>future increase the said cow is <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> on the right ear &amp;
+                    <lb/>to her the said [many the heirs?] forever</p> 
+                <p>Item  I give and bequeath unto <persName>Luke <surname>Greene</surname></persName> of <placeName>Charles County</placeName> <measure commodity="livestock" unit="1">one red heifer</measure> age 
+                    <lb/>about two years <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> of the same age being marked with the abovesaid 
+                    <lb/>ear mark now <unclear reason="illegible"></unclear> at or about the plantation of <persName>John <surname><unclear reason="illegible">Ash</unclear></surname></persName>
+                    <lb/>to him the said Luke Greene &amp; his heirs forever.
+                </p>
+                <p>Item I give and bequeath unto <persName type="nephew">John <surname>Mun</surname></persName> son of <persName type="brother-in-law">John <surname>Mun</surname></persName> <measure commodity="livestock" unit="1">one brown cow</measure> called 
+                    <lb/>by the name of <name>Double <unclear reason="illegible"></unclear></name> of the <unclear reason="illegible"></unclear> ear mark to him the said John 
+                    <lb/>Mun this &amp; his heirs forever. </p>
+                    <p>Item I give and bequeath my <measure commodity="firearm" unit="1">Gun</measure> &amp; <measure commodity="papergoods">Bible</measure> unto <persName>Roger <surname></surname><unclear reason="illegible">Veritas</unclear></persName>- </p>
+                    <p>Item I make &amp; ordaine my brother in Law John Mun Executor of thus my Last 
+                    <lb/><catchwords>and</catchwords> 
+                    <lb/>and Testament <unclear reason="illegible"></unclear> him to be careful to see it performed In Testimony 
+                    <lb/>hereof I have hereunto set my hand &amp; seal the day &amp; year above is written</p>
+                    <p>Signed sealed and Delivered 
+                    <lb/>In presents of us…						
+                    <lb/><persName type="witness">Matthew <surname>Moopher</surname></persName>
+                    <lb/>Mark of
+                    <lb/><persName type="witness">Charles <surname>Mooley</surname></persName>
+                    <lb/><signatures>William Allen</signatures></p>
+                    <p>On the back of the foregoing will was this Endorsed to will 
+                    <lb/><date>July 13th</date> Know all <unclear reason="illegible">new</unclear> by these presents that I John Mun of <placeName>Charles
+                    <lb/>County</placeName> doe freely &amp; of my <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> all the Interest and 
+                    <lb/>last <unclear reason="illegible"></unclear> unto me by brother in law <persName type="brother-in-law">Will <surname>Allen</surname></persName> of this his last 
+                    <lb/>will and Testament unto <persName><unclear>Gerrard</unclear><surname> Bronner</surname></persName> as <unclear reason="illegible"></unclear> my hand and 
+                    <lb/>Seal
+                    </p>
+                <p>Signed sealed and Delivered
+                    <lb/>In the presents of us-
+                    <lb/><persName type="witness">Mary M A <surname>Allen</surname></persName>
+                    <lb/>mark
+                    <lb/><persName type="witness">Peter B <surname><unclear reason="illegible"></unclear></surname></persName>
+                </p>
+                <p>By virtue of a <unclear reason="illegible">Comm.</unclear> from the hand of Mr. William Talbot Baronet Chief
+                    Judge in Testimony causes within This province of Maryland leaving 
+                    take the eleventh day of August in the [unclear] year of the Dominion of 
+                    [unclear] &amp;c. Army from 1621 to me [unclear] and me [un…?]
+                    to call before me John Mun the Executor of the last will and testament
+                    of William Allen late of Charles County deceased and take his acknowledgement 
+                    of his [unknown] of the trust of an Executor [unclear] in him by the said 
+                    deceased [unclear] to call the [unclear two words] and cause  the same 
+                    by their paths to be from these are humbly to certify that on the thirteenth 
+                    day of September in the year above. Came before me John Mum. 
+                    [unclear] Executor above [unclear] and did acknowledge the [unclear] of the 
+                    Trust
+                    
+                </p>
+                    
+                    
+               
+                    
+                  
+                
             </div>
         </body>
     </text>
