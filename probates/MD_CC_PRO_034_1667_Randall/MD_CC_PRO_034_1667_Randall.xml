@@ -4,8 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
-                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <title xml:id="MD_CC_PRO_034_1667_Randall" xml:lang="en">Richard Randalls Will</title>
+                
                 <author>Charles County</author>
                 <editor>Emily Boyer</editor>
             </titleStmt>
