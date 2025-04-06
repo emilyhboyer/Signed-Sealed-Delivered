@@ -6,6 +6,7 @@
             <titleStmt>
                 <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author>Charles County</author>
             </titleStmt>
             <publicationStmt>
                 <publisher>Signed Sealed Delivered</publisher>
@@ -77,7 +78,6 @@
                     <lb/>5 sides
                     <lb/><signatures rend="align(right)">John Lumbrozo</signatures>
                 </p>
-              
             </div>
         </body>
     </text>
