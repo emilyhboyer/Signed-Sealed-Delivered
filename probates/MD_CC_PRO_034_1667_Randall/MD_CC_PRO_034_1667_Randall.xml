@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author>Charles County</author>
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Richard Randalls Will</head>
+                <p><date>August 3rd 1667</date>. The last will and testament of <persName type="author">Richard <surname>Randlaa</surname></persName> of <placeName>Charles
+                <lb/>County</placeName> in the <placeName>province of Maryland</placeName>.
+                    <lb/>In the Name of God Amen. I Richard Randall of the county above
+                    <lb/>said being very sick and weak in body but of sound and perfect memory.
+                    <lb/>doe make constitute and appoint this my last wll and testament <unclear reason="illegible">recognizing</unclear>
+                    <lb/>and by these presents annulling all forever wills and testaments by mee <unclear reason="illegible">most</unclear>
+                    <lb/>either by word or writing and this only to stand on my last will and 
+                    <lb/>testament.--
+                </p>
+                <p><unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> I command my soul unto the hands of God my creator where
+                    <lb/>it shall please him to call me to his <unclear reason="illegible">mercy</unclear> <unclear reason="illegible"></unclear> to be saved in and 
+                    <lb/>throughout the only meritts and mediations of our lands and favour Jesus-
+                    <lb/>Christ and my body to the ground to be decently eneterd by my Executor
+                    <lb/>Item I desire that all my <unclear reason="illegible">Land</unclear> debts may bee duly and truly satisfied whereof-
+                    <lb/>that of <persName>Mr. William <surname>Tadons</surname></persName> of <placeName>New England</placeName> <unclear reason="illegible">being</unclear> <measure commodity="currency" quantity="10" unit="pounds">ten pounds</measure> be first paid
+                    <lb/>by <unclear reason="illegible"></unclear> of <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> are at <persName>Mr. Anthony <surname>Bridges</surname></persName> in <placeName>Virginia</placeName> and at
+                    <lb/><persName>Stephen <surname>Montagues</surname></persName> in <placeName>Maryland</placeName> and if they cannot be <unclear reason="illegible">transfronted</unclear> then
+                    <lb/>to be sold and the <unclear reason="illegible">proceeds</unclear> to be <unclear reason="illegible"></unclear> and if the produce do not ballance
+                    <lb/>the Debts the remainder to be satisfied of the rest of my Estate.--
+                </p>
+                <p>Item one <measure commodity="crop"></measure>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
