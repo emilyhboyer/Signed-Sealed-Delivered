@@ -4,8 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="MD_CC_PRO_036_1669_Allen" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
-                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <title xml:id="MD_CC_PRO_036_1669_Allen" xml:lang="en">William Allen Will</title>
                 <author>Charles County</author>
                 <editor>Emily Boyer</editor>
             </titleStmt>
@@ -76,19 +75,28 @@
                     <lb/>mark
                     <lb/><persName type="witness">Peter B <surname><unclear reason="illegible"></unclear></surname></persName>
                 </p>
-                <p>By virtue of a <unclear reason="illegible">Comm.</unclear> from the hand of Mr. William Talbot Baronet Chief
-                    Judge in Testimony causes within This province of Maryland leaving 
-                    take the eleventh day of August in the [unclear] year of the Dominion of 
-                    [unclear] &amp;c. Army from 1621 to me [unclear] and me [un…?]
-                    to call before me John Mun the Executor of the last will and testament
-                    of William Allen late of Charles County deceased and take his acknowledgement 
-                    of his [unknown] of the trust of an Executor [unclear] in him by the said 
-                    deceased [unclear] to call the [unclear two words] and cause  the same 
-                    by their paths to be from these are humbly to certify that on the thirteenth 
-                    day of September in the year above. Came before me John Mum. 
-                    [unclear] Executor above [unclear] and did acknowledge the [unclear] of the 
-                    Trust
-                    
+                <p>By virtue of a <unclear reason="illegible">Comm.</unclear> from the hand of <persName>Mr. William Talbot Baronet Chief
+                    <lb/>Judge in Testimony</persName> causes within This <placeName>province of Maryland</placeName> leaving 
+                    <lb/>take the <date>eleventh day of August</date> in the <unclear reason="illegible"></unclear> year of the Dominion of 
+                    <lb/><unclear reason="illegible"></unclear> &amp;c. Army from <date>1621</date> to me <unclear reason="illegible"></unclear> and me <unclear reason="illegible"></unclear>
+                    <lb/>to call before me John Mun the Executor of the last will and testament
+                    <lb/>of William Allen late of <placeName>Charles County</placeName> deceased and take his acknowledgement 
+                    <lb/>of his <unclear reason="illegible"></unclear> of the trust of an Executor <unclear reason="illegible"></unclear> in him by the said 
+                    <lb/>deceased <unclear reason="illegible"></unclear> to call the <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> and cause the same 
+                    <lb/>by their paths to be from these are humbly to certify that on the <date>thirteenth 
+                    <lb/>day of September</date> in the year above. Came before me John Mum. 
+                    <lb/><unclear reason="illegible"></unclear> Executor above <unclear reason="illegible"></unclear> and did acknowledge the <unclear reason="illegible"></unclear> of the 
+                    <lb/><catchwords>Trust</catchwords>
+                    <pb/>
+                    <lb/>Trust of an Exectutor <unclear reason="illegible"></unclear> in him by Mr. Allen deceased as above written–
+                    <lb/>Likewise then came <persName>Charles<surname> <unclear reason="illegible">Molly</unclear></surname></persName> one of the <unclear reason="illegible">nitne</unclear> to the within written will–
+                    <lb/>and made oath that he saw the within writing signed sealed and–
+                    <lb/>published by the within named William Allen as his last will and 
+                    <lb/>Testament, and further that the <unclear reason="illegible">unclear</unclear> Mr. William Allen was in sound <unclear reason="illegible">senee</unclear> and 
+                    <lb/>memory when he <unclear reason="illegible"></unclear> the same
+                    <lb/>End
+                    <lb/>6 sides
+                    <lb/><signatures>Benj. Roger</signatures>..-
                 </p>
                     
                     
