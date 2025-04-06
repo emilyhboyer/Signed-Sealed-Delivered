@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+            </titleStmt>
+            <publicationStmt></publicationStmt>
+            <sourceDesc></sourceDesc>
+            
+        </fileDesc>
+    </teiHeader>
+    
+    
+    <text>
+        <body>
+            <div>
+                <head></head>
+                <p>
+                    <lb/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
