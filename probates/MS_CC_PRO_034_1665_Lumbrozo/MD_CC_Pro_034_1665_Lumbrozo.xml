@@ -19,8 +19,12 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
+                <head rend="align(center)">John Lumbrozo. Will</head>
+                <p>In the name of God amen, the <date>24th day of February 1665</date>
+                    <lb/>I <persName type="author">John Lumbrozo</persName> of <unclear reason="illegible">Mangemil</unclear> in the <placeName>province of Maryland</placeName> being
+                    <lb/>in <unclear reason="illegible">perfect</unclear> sound health &amp; memory &amp; calling to mind the
+                    <lb/>Transitory estate of all <unclear reason="illegible">sublunary</unclear> things do make and <unclear reason="illegible">dulane</unclear>
+                    <lb/>this to be my last will and testament in manner and form
                     <lb/>
                 </p>
             </div>
