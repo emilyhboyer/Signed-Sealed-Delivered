@@ -4,10 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
-                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <title xml:id="MD_CC_PRO_038_1669_Bayne" xml:lang="en">Walter Bayne Will</title>
+                
                 <author></author>
-                <editor></editor>
+                <editor>Emily Boyer</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>Signed Sealed Delivered</publisher>
@@ -22,9 +22,22 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">Walter Bayne Will</head>
+                <p>In the name of God Ame. I <persName type="author">Walter <surname>Beane</surname></persName> of <placeName>Charles County</placeName>
+                    <lb/>in the <placeName>provenance of Maryland</placeName> planter being weak in body but <unclear reason="illegible"></unclear> be
+                    <lb/>God of a perfect and sound mind and memory do make and constitute 
+                    <lb/>this to be my last will testament hereby nulling and revoking all other 
+                    <lb/>heretofore made by me committing my body to the dust and my soule into
+                    <lb/>the hands of my mereceful and faithfull Creator and redeemour and
+                    <lb/>disposing of my worldly Estate as followeth
+                </p>
+                <p><unclear reason="illegible"></unclear> I give and bequeath unto my sonne <placeName type="son">John</placeName> <surname>Beane</surname> all that <unclear reason="illegible">parallel</unclear> and portion
+                    <lb/>of land now in my <unclear reason="illegible">possession</unclear> &amp; in the present, occupation of <persName>Edward <surname>Aplebey</surname></persName>
+                    <lb/>and <persName>Thomas <surname>Bellenby</surname></persName> situate and lying in <placeName>St. Maries County</placeName> by Estimation 
+                    <lb/><measure commodity="land" quantity="1000" unit="acre">one thousand acres</measure> and that the said John shall have the full <unclear reason="illegible"></unclear>
+                    <lb/>of it when he shall arrive at the full age of one and twenty years
+                    <lb/>I give unto my sonne John that which is my now <measure type="estate"></measure>dwelling
+                    <lb/>Plantation by estimation 4 hundred and 50 acres of land provided
                 </p>
             </div>
         </body>
