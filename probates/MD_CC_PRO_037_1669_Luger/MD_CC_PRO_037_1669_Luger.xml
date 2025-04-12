@@ -4,10 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
-                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <title xml:id="MD_CC_PRO_037_1669_Luger" xml:lang="en">John Luger. Will</title>
+                
                 <author></author>
-                <editor></editor>
+                <editor>Emily Boyer</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>Signed Sealed Delivered</publisher>
@@ -22,9 +22,48 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">John Luger. Will</head>
+                <p>In the name of God Amen. The <date>twentieth day of November in the year
+                <lb/>of our Lord God one thousand six hundred sixtie and nine</date> I <persName type="author">John <surname>Luger</surname></persName>-
+                    <lb/>of <placeName>Charles County</placeName> in the <placeName>province of Maryland</placeName> being suck of body but of
+                    <lb/>good and perfect memory praised be god do make and ordain this my
+                    <lb/>last will and testament in manner and form following
+                </p>
+                
+                <p><unclear reason="illegible"></unclear> I recommend my soul into the hands of God my Creator <unclear reason="illegible"></unclear>
+                    <lb/>through the <unclear reason="illegible"></unclear> of Jesus Christ my redeemer to be made <unclear reason="illegible"></unclear>
+                    <lb/>of life everlasting and I commend my body to the earth where of it <unclear reason="illegible">tis</unclear> made
+                    <lb/>desiring it may be <unclear reason="illegible">enterned</unclear> in a Christian manner and for the small Estate
+                    <lb/>which it hath pleased God to find me and my will and <unclear reason="illegible">require</unclear> is it be
+                    <lb/>dispersed in manner following I will and desire is that my two <unclear reason="spelling">soons</unclear>
+                    <lb/><persName type="son">John <surname>Luger</surname></persName> and <persName type="son">Thomas <surname>Luger</surname></persName> shall have my manor of <measure commodity="estate" quantity="1000" unit="acre">one thousand acres
+                    <lb/>called by Paten St. Barbany Manner</measure> and my desire is likewise that my
+                    <lb/>Daughter <persName type="daughter">Elizabeth <surname>Luger</surname></persName> shall have <measure commodity="land" quantity="300" unit="acre">three hundred acres</measure> joing to the
+                    <lb/>manner on the North side and my will and bequeath is that my said Daughter
+                    <lb/>shall have my <measure commodity="livestock" quantity="1">cow called <name>mealy mouth</name></measure> with all her inrease and I will and
+                    <lb/>bequeath that my loving wife shall have and enjoy <measure type="livestock" quantity="1">one cow called <name>mully</name></measure>-
+                    <lb/>with all her increase my will and bequeath is that <placeName type="witness">Thomas <surname>Gully</surname></placeName> and <placeName type="overseer">John 
+                    <lb/><surname>Ward</surname></placeName> be overseers of my <unclear reason="illegible">Cheloreno</unclear> Estate my will and bequeath is that my
+                    <lb/>Dear and Loving wife <placeName type="spouse">Martha <surname>Luger</surname></placeName> shall have and enjoy all the rest
+                    <lb/>of my Estate and I do hereby revoke and null very other forms <catchwords>wills</catchwords>
+                    <pb/>
+                    <lb/>Testaments Legacies bequeaths and died of <unclear reason="illegible"></unclear> promises or Grants whatsoever
+                    <lb/>In <unclear reason="illegible"></unclear> whereof I have <unclear reason="illegible"></unclear> set my hand and seal this the <date>26th
+                    <lb/>day of November 1669</date>. 
+                </p>
+                <p>Signed Sealed and Delivered
+                    <lb/>In the presents of us-
+                    <lb/>the
+                    <lb/>Thomas <unclear reason="illegible"></unclear> Gully
+                    <lb/>mark of
+                    <lb/><persName type="witness">George <surname>Ledge</surname></persName>
+                </p>
+                <p>At the bottom of the forgoing will was the following <unclear reason="illegible"></unclear> to <unclear reason="illegible"></unclear>
+                    <lb/><date>December the 9th 1669</date> the above written will by the oaths of Thomas
+                    <lb/>Gully and George Ledge witness thereunto in solem forme proved
+                    <lb/>before me
+                    <lb/><signatures><persName>Jn. <surname>Blomfield</surname></persName></signatures>
+                    
                 </p>
             </div>
         </body>
