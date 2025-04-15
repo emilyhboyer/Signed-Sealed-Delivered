@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <p>In the name of the Lord God Everlasting Amen. I <persName type="author">Alexander
+                    <lb/><surname>Simpson</surname></persName> of <placeName>Port Tobacco in the province of Maryland</placeName> planter being at this 
+                    <lb/>present time very sick and weak but of sound and perfect memory <unclear reason="illegible">blessed</unclear> be 
+                    <lb/>God for the same do make appoint and ordain to be my last will 
+                    <lb/>and testament hereby <unclear reason="illegible">working</unclear> <unclear reason="illegible">Disannulling</unclear> &amp; making void all other will 
+                    <lb/>and testemenat by me thereforeafter made either by word or writing 
+                    <lb/><unclear reason="illegible">following</unclear> &amp; ordaining this sole my lasy will and testament and no other 
+                    <lb/>whatsoever.
+                </p>
+                <p>I <unclear reason="illegible"></unclear> commint my soul into the hand of God that gave it hoping through 
+                    <lb/>the <unclear reason="illegible">miracle</unclear> of my dear Lord and savior Jesus Christ for a glorious resurrection 
+                    <lb/>and my body to the ground to buried in decent manner according to the 
+                    <lb/>will &amp; discussion of my <unclear reason="illegible">Executor</unclear> underneath specified and for all my 
+                    <lb/>worldly goods I do give and bequeath them in manner and form following
+                    <lb/>after my <unclear reason="illegible">true</unclear> and lawful debts that I have to any person or persons <unclear reason="illegible">be</unclear>will
+                    <lb/>and truly paid satisfied &amp; discharged.
+                    <pb/>
+                </p>
+                <p>Item I do fully &amp; bequeath unto my God Daughter <persName type="goddaughter">Margret <surname>Mahol</surname></persName> daughter of <persName><unclear reason="illegible"></unclear>Arehball
+                <lb/></persName>
+                    Wahol all that dividend or parcel of land lying between her fathers plantation
+                    and the plantation that I now live upon by estimation one hundred and
+                    twenty acres to have and to hould to her and her heirs forever but if the said
+                    Margrett Mahol die without heirs lawfully begotten of her body then I do give 
+                    the above said hundred twenty acres of land to her sister Elizabeth Mahol 
+                    to have &amp; to hould to her and her heirs forever. 
+                    
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
