@@ -4,12 +4,7 @@ SSD begins in Charles County, Maryland, as this county was one of the largest du
 It is SSD goal to transcribe every probate record from Charles County and St. Mary's County by the end of 2026, and in the future hopes that all of colonial Maryland will be transcribed. 
 In addition to probate records, it is the goal of SSD to further transcribe corresponding inventory records as to show the cost of the items bequeathed to individuals in the probate records.
 
-About enslaved individuals
 
-The probate records used in these transcriptions and encodings are sourced from FamilySearch, and can be found here:
-
-The folders are organized using...
-Tracking
 
 
 ![alt text](signedsealeddelivered.png)
