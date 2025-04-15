@@ -4,8 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
-                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <title xml:id="MD_CC_PRO_039_1669_Simpsons" xml:lang="en">Alexander Simpsons Will</title>
+                
                 <author></author>
                 <editor></editor>
             </titleStmt>
@@ -22,7 +22,7 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <head rend="align(center)">Alexander Simpsons Will</head>
                 <p>In the name of the Lord God Everlasting Amen. I <persName type="author">Alexander
                     <lb/><surname>Simpson</surname></persName> of <placeName>Port Tobacco in the province of Maryland</placeName> planter being at this 
                     <lb/>present time very sick and weak but of sound and perfect memory <unclear reason="illegible">blessed</unclear> be 
