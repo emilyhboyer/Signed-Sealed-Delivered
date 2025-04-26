@@ -22,48 +22,76 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <head rend="align(center)"></head>
                 <p>In the name of God amen. In the year of our Lord God 1670 March 20th 
-                    <lb/>I Nicholas Emanson of Charles County in the province of Maryland being sick and 
+                    <lb/>I <persName type="author">Nicholas <surname>Emanson</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> being sick and 
                     <lb/>weak in body but of good and perfect memory thank be to god do make this my 
                     <lb/>last will and testament in manner and form following that is to say 
-                    <lb/>first I bequeath my soul and [unclear] into the hand of the almighty God my heavenly father
-                    <lb/>by [u?] home of his [unclear] and only grace I trust to be saved and [n?] unto eternal 
-                    <lb/>[trust?] though the Death of my savior and redeemer Jesus Chrust in whose [precious?]
-                    <lb/>blood I sell the whole and only hope of my salvation my [weathered?] body in hope 
+                    <lb/>first I bequeath my soul and <unclear reason="illegible"></unclear> into the hand of the almighty God my heavenly father
+                    <lb/>by <unclear reason="illegible">u</unclear> home of his <unclear reason="illegible"></unclear> and only grace I trust to be saved and <unclear reason="illegible">n</unclear> unto eternal 
+                    <lb/><unclear reason="illegible">trust</unclear> though the Death of my savior and redeemer Jesus Chrust in whose <unclear reason="illegible">precious</unclear>
+                    <lb/>blood I sell the whole and only hope of my salvation my <unclear reason="illegible">weathered</unclear> body in hope 
                     <lb/>of a joyful resurrection I commit to the earth to be with such charge
-                    <lb/>and in such place as my Executor hereafter named shall think [till?] and 
-                    <lb/>[touching?] the distribution of my mortall goods I disperse of the same a followith
+                    <lb/>and in such place as my Executor hereafter named shall think <unclear reason="illegible">till</unclear> and 
+                    <lb/><unclear reason="illegible">touching</unclear> the distribution of my mortall goods I disperse of the same a followith
                 </p>
                 <p>
-                 <lb/><list>
+                 <lb/><list type="ordered">
                      <item>First I will that all such Debts as I owe shall be truly paid. 
                      </item>
                      
-                     <item>Secondly I give unto my Daughter [unclear] one thousand two hundred pounds of 
-                         Tobacco to be [paid?] to her or her heirs by my Executor hereafter named.
+                     <item>Secondly I give unto my Daughter <unclear reason="illegible"></unclear> one thousand two hundred pounds of 
+                         Tobacco to be <unclear reason="illegible">paid</unclear> to her or her heirs by my Executor hereafter named.
                      </item>
                      
                      <item>All of the rest of my Estate reall and pesonal lands goods cattles and chattels 
-                         Whatsoever I give and bequeath unto my loving wife Elizabeth and my 
-                         Daughter Mary Emanson to be equally divided between them and my Daughter
-                         Marys share to be delivered unto her when she comes to be [sixteen?] years of age 
+                         whatsoever I give and bequeath unto my loving wife <persName type="spouse"></persName>Elizabeth and my 
+                         Daughter <persName type="daughter">Mary <surname>Emanson</surname></persName> to be equally divided between them and my Daughter
+                         Marys share to be delivered unto her when she comes to be <unclear reason="illegible">sixteen</unclear> years of age 
                      </item>
                      
                      <item>I will and ordaine that the part and portion of my Daughter Mary remain in 
-                         The hands of my wife Elizabeth Emanson during the time of her minority 
-                         And that my Executor out of the profits to be got by the use of the said 
+                         the hands of my wife Elizabeth Emanson during the time of her minority 
+                         and that my Executor out of the profits to be got by the use of the said 
                          Marys part or portion become die to her and if she dye before the said part or portion 
-                         Become due to her then the said part portion and legacy of her [unclear] dying 
-                         Shall be all the disposal of my Executor.
+                         become due to her then the said part portion and legacy of her <unclear reason="illegible"></unclear> dying 
+                         shall be all the disposal of my Executor.
                      </item>
                  </list> 
                 </p>
                 <p>Lastly I make and ordaine the said Elizabeth Emanson my wife to be full 
-                    Hole and sole Executor of this my last will and testament by me in any [waife?] heretofore made 
-                    Or declared I [witness?] whereof I have hereunto set my hand and seal the day
-                    
-                    
+                    hole and sole Executor of this my last will and testament by me in any <unclear reason="illegible">waife</unclear> heretofore made 
+                    or declared I <unclear reason="illegible">witness</unclear> whereof I have hereunto set my hand and seal the day
+                    <lb/><catchwords>and</catchwords>
+                    <pb/>
+                    <lb/>And year above written. 
+                    <lb/>Signed sealed declared and Delivered [unclear] by the said [name]
+                    <lb/><persName type="witness"></persName>Nicholas <surname>Emanson</surname> in the presents of 
+                    <lb/><persName type="witness">James <surname>Martin</surname></persName>
+                    <lb/><persName type="witness">Stephen <surname>Montague</surname></persName>
+                    <lb/><persName type="witness">William <surname><unclear reason="illegible">Marrit</unclear></surname></persName>
+                    <lb/>Niel Emanson<signatures></signatures>
+                </p>
+                <p>Amended to and on the back of the aforegoing was the following <unclear reason="illegible"></unclear> &amp; 
+                    <lb/>endorsement by the <date>8th day of september 1671</date>. Came the above named James Martin and made
+                    <lb/>oath that he saw the above named Nicholas Emanson sign seal deliver &amp; publish 
+                    <lb/>the above writing as his last will and testament and further that he was in 
+                    <lb/>perfect sense and memory when he Executed the same sworn before me the day 
+                    <lb/>and year above said. 
+                    <lb/><signatures rend="align(right)">Robert Ridgley</signatures>
+                </p>
+                <p>By virtue of a <unclear reason="illegible">confirmation</unclear> from the honorable <persName>Sr. William Talbot <surname>Baronett</surname></persName> Chief Judge in
+                    <lb/>testamentary Causes within the <placeName>province of Maryland</placeName> hearing <date>date the eighth 
+                        <lb/>day of September in the 40th year of the Dominion of Celsius &amp;c <unclear reason="illegible">among</unclear> Dom.
+                    <lb/>1671</date> to me directed and Im empowering to call before me the several <unclear reason="illegible"></unclear>
+                    <lb/>to the last will and testament of Nicholas Emanson late of <placeName>Charles County</placeName> deceased
+                    <lb/>that on the <date>fourteenth day of Sept. in the year of our Lord 1671</date>. Came before me
+                    <lb/>Stephen Montague and William Manill two of the witnesses to the within 
+                    <lb/>written will and made oath that they saw the within mentioned Nicholas 
+                    <lb/>Emanson sign seal and publish the within writing as his last will and testament
+                    <lb/>and further that he saw in present sense &amp; memory when he did the same.
+                    <lb/>6 ¼ sides 
+                    <lb/><signatures rend="align(right)">Benj.a Roger</signatures>
                 </p>
             </div>
         </body>
