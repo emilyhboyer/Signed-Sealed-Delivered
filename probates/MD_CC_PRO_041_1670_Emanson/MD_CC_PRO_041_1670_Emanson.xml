@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <p>In the name of God amen. In the year of our Lord God 1670 March 20th 
+                    <lb/>I Nicholas Emanson of Charles County in the province of Maryland being sick and 
+                    <lb/>weak in body but of good and perfect memory thank be to god do make this my 
+                    <lb/>last will and testament in manner and form following that is to say 
+                    <lb/>first I bequeath my soul and [unclear] into the hand of the almighty God my heavenly father
+                    <lb/>by [u?] home of his [unclear] and only grace I trust to be saved and [n?] unto eternal 
+                    <lb/>[trust?] though the Death of my savior and redeemer Jesus Chrust in whose [precious?]
+                    <lb/>blood I sell the whole and only hope of my salvation my [weathered?] body in hope 
+                    <lb/>of a joyful resurrection I commit to the earth to be with such charge
+                    <lb/>and in such place as my Executor hereafter named shall think [till?] and 
+                    <lb/>[touching?] the distribution of my mortall goods I disperse of the same a followith
+                </p>
+                <p>
+                 <lb/><list>
+                     <item>First I will that all such Debts as I owe shall be truly paid. 
+                     </item>
+                     
+                     <item>Secondly I give unto my Daughter [unclear] one thousand two hundred pounds of 
+                         Tobacco to be [paid?] to her or her heirs by my Executor hereafter named.
+                     </item>
+                     
+                     <item>All of the rest of my Estate reall and pesonal lands goods cattles and chattels 
+                         Whatsoever I give and bequeath unto my loving wife Elizabeth and my 
+                         Daughter Mary Emanson to be equally divided between them and my Daughter
+                         Marys share to be delivered unto her when she comes to be [sixteen?] years of age 
+                     </item>
+                     
+                     <item>I will and ordaine that the part and portion of my Daughter Mary remain in 
+                         The hands of my wife Elizabeth Emanson during the time of her minority 
+                         And that my Executor out of the profits to be got by the use of the said 
+                         Marys part or portion become die to her and if she dye before the said part or portion 
+                         Become due to her then the said part portion and legacy of her [unclear] dying 
+                         Shall be all the disposal of my Executor.
+                     </item>
+                 </list> 
+                </p>
+                <p>Lastly I make and ordaine the said Elizabeth Emanson my wife to be full 
+                    Hole and sole Executor of this my last will and testament by me in any [waife?] heretofore made 
+                    Or declared I [witness?] whereof I have hereunto set my hand and seal the day
+                    
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
