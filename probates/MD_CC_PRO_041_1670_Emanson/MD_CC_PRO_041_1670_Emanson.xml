@@ -4,7 +4,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_041_1670_Emanson" xml:lang="en">Nicholas Emanson. Will
+                </title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -22,7 +23,7 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"></head>
+                <head rend="align(center)">Nicholas Emanson. Will</head>
                 <p>In the name of God amen. In the year of our Lord God 1670 March 20th 
                     <lb/>I <persName type="author">Nicholas <surname>Emanson</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> being sick and 
                     <lb/>weak in body but of good and perfect memory thank be to god do make this my 
@@ -40,8 +41,8 @@
                      <item>First I will that all such Debts as I owe shall be truly paid. 
                      </item>
                      
-                     <item>Secondly I give unto my Daughter <unclear reason="illegible"></unclear> one thousand two hundred pounds of 
-                         Tobacco to be <unclear reason="illegible">paid</unclear> to her or her heirs by my Executor hereafter named.
+                     <item>Secondly I give unto my Daughter <persName type="daughter">Phebe</persName> <measure commodity="crop" quantity="1200" unit="pounds">one thousand two hundred pounds of
+                         Tobacco</measure> to be <unclear reason="illegible">paid</unclear> to her or her heirs by my Executor hereafter named.
                      </item>
                      
                      <item>All of the rest of my Estate reall and pesonal lands goods cattles and chattels 
