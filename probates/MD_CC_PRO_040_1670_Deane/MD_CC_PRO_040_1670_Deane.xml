@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="MD_CC_PRO_040_1670_Deane" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_040_1670_Deane" xml:lang="en">Edward Deane Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -22,7 +22,7 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <head rend="align(center)">Edward Deane Will</head>
                 <p>In the name of God Amen I<persName type="author">Edward <surname>Deane</surname></persName> being now very weak and <unclear reason="illegible">weake</unclear>
                     <lb/>but yet sound and perfect memory do in the presents of these ministers make this 
                     <lb/>my latest and last will and testament first bequeathing my soul to god 
@@ -42,27 +42,42 @@
                     <lb/><unclear reason="illegible"><surname>Wheelers</surname></unclear></persName> and one small <unclear reason="illegible"></unclear> that with <unclear reason="illegible">name</unclear> and my <unclear reason="illegible"></unclear> which is at 
                     <lb/><catchwords></catchwords>
                     <pb/>
-                    <lb/>Bennet [Maguires?] as also [unknown] and frying pan that is there therase and all other 
-                    Things that doath belong unto me Edward Deane I doe this sixth day of April 
-                    In the year of our Lord Anno Domini One Thousand six hundred and twenty 
-                    Bequeath unto the said Elizabeth Lindsey after she shall come of age and her first 
-                    Marriage to enjoy and [prosper?] for she and her heirs forever [unknown] James &
-                    Mary Lindsey the father and mother of the said Elizabeth to enjoy and [profits or prosper]
-                    All the contents of the above specified untill the said Elizabeth shall come of age 
-                    Or be marryed and then to surrender the same unto the said Elizabeth and if 
-                    The said Elizabeth shall die before she shall come of age or be marryed then the 
-                    Nearest of her kindred to enjoy the same sae committing my soule unto God I do 
-                    Here in the presents of these [ministers?] confine? My last will and testament 
-                    And set to my hand and seal this day and year above written
-                    
-                    
-                    
-                    
-                    
-                    
-                    
-                    <lb/>
+                    <lb/><persName>Bennet <unclear reason="illegible"><surname>Maguires</surname></unclear></persName> as also <unclear reason="illegible"></unclear> and frying pan that is there therase and all other 
+                    <lb/>Things that doath belong unto me Edward Deane I doe this <date>sixth day of April 
+                    <lb/>in the year of our Lord Anno Domini One Thousand six hundred and twenty</date> 
+                    <lb/>bequeath unto the said Elizabeth Lindsey after she shall come of age and her first 
+                    <lb/>marriage to enjoy and <unclear reason="illegible">prosper</unclear> for she and her heirs forever <unclear reason="illegible"></unclear> James &amp;
+                    <lb/><persName>Mary <surname>Lindsey</surname></persName> the father and mother of the said Elizabeth to enjoy and <unclear reason="illegible">profits</unclear>
+                    <lb/>all the contents of the above specified untill the said Elizabeth shall come of age 
+                    <lb/>or be marryed and then to surrender the same unto the said Elizabeth and if 
+                    <lb/>the said Elizabeth shall die before she shall come of age or be marryed then the 
+                    <lb/>nearest of her kindred to enjoy the same sae committing my soule unto God I do 
+                    <lb/>here in the presents of these <unclear reason="illegible">ministers</unclear> <unclear reason="illegible">confine</unclear> My last will and testament 
+                    <lb/>and set to my hand and seal this day and year above written
+                    <lb/>In the presents of us					
+                    <lb/><persName type="witness">Ralph <surname>Coates</surname></persName>		
+                    <lb/><persName type="witness">John <surname>Gosling</surname></persName>
+                    <lb/><persName type="witness">Richard R <unclear reason="illegible"><surname>Wall</surname></unclear></persName> 
+                    <lb/>Mark
+                    <lb/>his mark
+                    <lb/><signatures rend="align(right)">Edward X Deane</signatures>
                 </p>
+                <p>On the back of the forgoing was the forgoing was thus endorsed to <unclear reason="illegible">weit</unclear>
+                    <lb/>To the honorable <persName type="endorsement">Mr. William <unclear reason="illegible">Fattoll</unclear> <surname>Baronett</surname></persName> Chief Judge of Testamentary causes 
+                    <lb/>within the provinace of Maryland by virtue of a <unclear reason="illegible">commision</unclear> from his hon. <unclear reason="illegible">bearing</unclear>
+                    <lb/>date y. <date>eight day of september in the <unclear reason="illegible">40th</unclear> year of the Dominion of <unclear reason="illegible">julius</unclear> <unclear reason="illegible"></unclear>
+                    <lb/>anno domini 1671</date> to me directed and me <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> to call before me the several
+                    <lb/>witnesses to the last will and testament of Edward Deane <unclear reason="illegible">late</unclear> of <placeName>Charles County</placeName> deceased and by this oaths to <unclear reason="illegible">eause</unclear> the same to be approved these are humbly to <unclear reason="illegible">certifee</unclear> that on the 
+                    <lb/><date>fourteenth day of september</date> in the year above came before me <persName>Ralph Bates</persName> 
+                    <lb/>and <persName>Richard Wall</persName> two of the witnesses to the within written will and made oath 
+                    <lb/>that they saw the written named Edward Deane sign seal and publish the within 
+                    <lb/>writing as his last will and testament that he was in perfect <unclear reason="illegible"></unclear> &amp;
+                    <lb/>memory when he Executed the same.
+                    <lb/>5 2/4 sides
+                    <signatures>Benj.a Roger</signatures>
+                    </p>
+                    
+                
             </div>
         </body>
     </text>
