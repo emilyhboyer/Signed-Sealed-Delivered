@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_042_1675_Crefsey" xml:lang="en">Samuel Crefsey. Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -22,9 +22,21 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p>
-                    <lb/>
+                <head rend="align(center)">Samuel Crefsey. Will</head>
+                <p>In the name of God Amen. I Samuel Crefset of Charles County being very
+                    <lb/>sick and weake of body but praised be good for the same of sound and perfect
+                    <lb/>emory do make ordaine &amp; constitute this my last will and testament in
+                    <lb/>manner and form following first I bequeath my soul into the hands of almighty
+                    <lb/>God that give it and my bpdy to the earth to be desently buried as shall please my
+                    <lb/>Executor hereafter named trusting through the merrits of my Lord &amp;
+Savior
+<lb/><catchwords>Jesus</catchwords>
+                    
+                    <pb/>
+                    
+                    <lb/>Jesus Christ to obtain pardon and <unclear reason="illegible">profession</unclear> of all my offenses next I give and
+                    <lb/>bequeath unto <persName type="beneficiary"></persName>
+                    
                 </p>
             </div>
         </body>
