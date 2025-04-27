@@ -23,29 +23,51 @@
         <body>
             <div>
                 <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p>In the name of God Amen, this twenty fourth day of December anno 1672
+                <p>In the name of God Amen, this <date>twenty fourth day of December anno 1672</date>
                 <lb/>I <persName type="author">Matthew <surname>Stone</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> planter being sick of 
                 <lb/>body but of good and perfect memory thanks bee to God and calling to mind 
                 <lb/>the <unclear reason="illegible"></unclear> Estate of this transitory life and that all flesh must yield unto
                 <lb/><catchwords>Death</catchwords>
                     
                     <pb/>
-                    <lb/>Death [unknown] it shall please God to call do make Constitute ordaine and 
-                    Declare this to bee my last will and testament in manner and form 
-                    Following First being [pertinant?] and [unclear] from the bottom of my heart 
-                    For my [sens?] past humbly desiring forgiveness for the same I give and 
-                    Commit my soule unto Allmighty God my savior and redeemer in 
-                    whome and by the merits of Jesus Christ Death and passion 
-                    [unclear] and inherit the Kingdom of Heaven prepared for his Elect and 
-                    [Chosen?] amd my body to bee buried in such place where it shall please my
-                    Executors hereafter named to appoint, and for the settleing of my temporal 
-                    Estate. I do order give disperse of the same in manner and form following 
-                    That is to say first I will that all those Debts which I owe in right or 
-                    [Conocieve?] to any manner of person or persons whatsoever shall be well 
-                    And truly satisfied contented and paid in som Convenient time after my 
-                    [unclear] by my Executor hereafter named.
                     
-               
+                    <lb/>Death when it shall please God to call do make Constitute ordaine and 
+                    <lb/>declare this to bee my last will and testament in manner and form 
+                    <lb/>following First being <unclear reason="illegible">pertinant</unclear> and <unclear reason="illegible"></unclear> from the bottom of my heart 
+                    <lb/>for my <unclear reason="illegible">sens</unclear> past humbly desiring forgiveness for the same I give and 
+                    <lb/>Commit my soule unto Allmighty God my savior and redeemer in 
+                    <lb/>whome by the merits of Jesus Christ Death and passion 
+                    <lb/>profits and inherit the Kingdom of Heaven prepared for his Elect and 
+                    <lb/>chosen amd my body to bee buried in such place where it shall please my
+                    <lb/>Executors hereafter named to appoint, and for the settleing of my temporal 
+                    <lb/>Estate. I do order give disperse of the same in manner and form following 
+                    <lb/>that is to say first I will that all those Debts which I owe in right or 
+                    <lb/><unclear reason="illegible">Conocieve</unclear> to any manner of person or persons whatsoever shall be well 
+                    <lb/>and truly satisfied contented and paid in som Convenient time after my 
+                    <lb/>desease by my Executor hereafter named.
+                </p>
+                <p>Item. I give and bequeath to <persName type="beneficiary">William Marshall <surname>Senior</surname></persName> <measure commodity="livestock" quantity="1">one <unclear reason="illegible"></unclear> gray horse</measure> 
+                    <lb/>aged two years or there <unclear reason="illegible">atouts</unclear> likewise I give and bequeath unto William
+                    <lb/>Marshall Junior <measure commodity="livestock" quantity="1">one cowe called <name><unclear reason="illegible">Braunsing</unclear></name></measure> Likewise I give <persName type="beneficiary">John
+                        <surname><unclear reason="illegible">Tenely</unclear></surname></persName> he only sonn of <persName>Francis <surname><unclear reason="illegible">Fereuly</unclear></surname></persName> <measure commodity="livestock" quantity="1">one cowe known and called by the name
+                    <lb/>of <name>Ould Coale</name></measure> Likewise I give and bequeath unto <persName type="beneficiary">Jonathan <surname>Marker</surname></persName> <measure commodity="livestock" quantity="1">one cowe
+                    <lb/>known &amp; commonly called by the name <name>young Coale</name></measure>. Item I give &amp; bequeath unto 
+                    <lb/><persName type="beneficiary">Elizabeth <surname>Cormichill</surname></persName> <measure commodity="livestock" quantity="1">one bat mare aged five years</measure> or the afords 
+                    <lb/>likewise I give to the said Elizabeth Cormichill <measure commodity="livestock" quantity="1">one young bay filly with a tan
+                    <lb/>in it forehead</measure> further I give to the said Elizabeth Cormichill <measure commodity="livestock" quantity="1">one cow called
+                    <lb/>and <unclear reason="illegible"></unclear> by the name of black bird</measure>.
+                </p>
+                <p>Item I give and bequeath <measure commodity="livestock" quantity="1">one young heifer</measure> and <measure commodity="livestock" quantity="3">three sterns</measure> for the use and behest 
+                   of she Elizabeth Cormihill
+                </p>
+                <p>I give also one cow at <persName type="beneficiary">Thomas <surname>Bakers</surname></persName> I purchase of him and all the <unclear reason="illegible"></unclear>
+                    and residence of my Estate whatsoever
+                </p>
+                <p>I give and bequeath to Elizabeth Cormichill, likewise it is my will and desire
+                    in this my last will and testament that William Marshall herein and 
+                    Jonathan [Marlen?] whom I have chosen to be my true and lawful Executors of 
+                    
+                    
                 </p>
             </div>
         </body>
