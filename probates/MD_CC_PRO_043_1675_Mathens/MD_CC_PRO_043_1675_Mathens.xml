@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="MD_CC_PRO_043_1675_Mathens" xml:lang="en">Thomas Matt</title>
+                <title xml:id="MD_CC_PRO_043_1675_Mathens" xml:lang="en">Thomas Mathens Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -22,7 +22,7 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <head rend="align(center)">Thomas Mathens Will</head>
                 <p>In the Name of God Amen. This ninth day of January ano. One thousand 
                     <lb/>Six hundred and seventy five and  in the 44th year of the Dominion of the right 
                     <lb/>honorable [Cecilius] absolute Lord and proprietor of the province of Maryland I Thomas 
