@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Giles Cole. Will.</head>
+                <p>In the name of God Amen. I <persName type="author">Giles Cole</persName> of <placeName>Charles County</placeName> in the
+                    <lb/>provence of maryland planter being disparaleley wounded by the Susquehanna
+                    <lb/>Indians but of sound and perfect memory praised bee unto almighty God and 
+                    <lb/><catchwords>Knowing</catchwords>
+                    <pb/>
+                    <lb/>knowing that all flesh must yeild unto Death when it shall please God
+                    <lb/>Almighty to call do make this my last will and testament in manner and form
+                    <lb/>following that is to say first and principally I commit my soul into the hands of
+                    <lb/>Almighty God my maker who gave it <unclear reason="illegible">hoping</unclear> through the <unclear reason="illegible">meritorious</unclear>
+                    <lb/>Death and passion of our blessed Savior Jesus Christ to receive free pardon
+                    <lb/>for all my sins past and my body to the earth to be desently buried from where
+                    <lb/>it Came and as for what wordly Estate God of his infinite goodness hath been
+                    <lb/>pleased to make me <unclear reason="illegible"></unclear> and of in this testimony I give and bequeath in
+                    <lb/>manner and form following. 
+                </p>
+                <p>First I give and bequeath unto <persName type="beneficiary">John <surname>Hawkins</surname> Jun.</persName> one young stone horse of two
+                    <lb/>years and hald old to be delivered unto him after my decrease
+                </p>
+                <p>Secondly. I give and bequeath unto <persName type="beneficiary">Henry <surname>Hawkins</surname></persName> brother of the above said John <measure commodity="horse" quantity="1">one gray mare
+                    <lb/>marked with HH</measure> together with all her future increase to him and his heirs forever
+                    <lb/>to be delivered unto him immedietly after my decease.
+                </p>
+                <p>Thirdly I give 
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
