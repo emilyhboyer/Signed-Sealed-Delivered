@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_043_1675_Mathens" xml:lang="en">Thomas Matt</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <p>In the Name of God Amen. This ninth day of January ano. One thousand 
+                    <lb/>Six hundred and seventy five and  in the 44th year of the Dominion of the right 
+                    <lb/>honorable [Cecilius] absolute Lord and proprietor of the province of Maryland I Thomas 
+                    <lb/>[Mathens] of Charles County in the province of aforesaid [Gentry?] being sick and weake 
+                    <lb/>in body but of sound and perfect memory praise be to god for the same and 
+                    <lb/>Knowing the uncertainty of this life and being
+                    <lb/>the uncertainty of this life and being desirous to sell <unclear reason="illegible"></unclear> things in order doe
+                    <lb/>make this my last will and testament in manner and form following that is to say
+                    <lb/>first and principally I comend my soule to god my creator <unclear reason="illegible"></unclear> believing that
+                    <lb/>I shall recieve full pardon and <unclear reason="illegible"></unclear> of all my sins and be saved by the
+                    <lb/>precious Death and merits of our beloved Savior and reademer Christ Jesus
+                    <lb/>and my body to the earth from where it came to be buried in such decent and
+                    <lb/>Christian manner as to my Execturos thereafter named shall be thought <unclear reason="illegible"></unclear> and
+                    <lb/>Convenient and as touching such wordle Estate as god hath lent me my will
+                    <lb/>and meaning is the same shall be imformed and bestowed as hereafter by this
+                    <lb/>my will is <unclear reason="illegible">exchanged</unclear> and first and principally. I do will and require that all
+                    <lb/>my Just Debts be truly satisfied discharged and paid and I doe hereby revoke
+                    <lb/>renounce <unclear reason="illegible">frustrait</unclear> and make void all wills by me formely made ad declare
+                    <lb/>and appoint this my last will and testament.
+                </p>
+                <p>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
