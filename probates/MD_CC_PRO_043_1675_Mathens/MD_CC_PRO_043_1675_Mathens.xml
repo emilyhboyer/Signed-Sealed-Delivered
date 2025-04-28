@@ -23,10 +23,10 @@
         <body>
             <div>
                 <head rend="align(center)">Thomas Mathens Will</head>
-                <p>In the Name of God Amen. This ninth day of January ano. One thousand 
-                    <lb/>Six hundred and seventy five and  in the 44th year of the Dominion of the right 
-                    <lb/>honorable [Cecilius] absolute Lord and proprietor of the province of Maryland I Thomas 
-                    <lb/>[Mathens] of Charles County in the province of aforesaid [Gentry?] being sick and weake 
+                <p>In the Name of God Amen. <date>This ninth day of January ano. One thousand 
+                    <lb/>Six hundred and seventy five</date> and  in the 44th year of the Dominion of the right 
+                    <lb/>honorable <persName>Cecilius</persName> absolute Lord and proprietor of the <placeName>province of Maryland</placeName> I <persName type="author">Thomas 
+                    <lb/>Mathers</persName> of <placeName>Charles County</placeName> in the province of aforesaid Gentry being sick and weake 
                     <lb/>in body but of sound and perfect memory praise be to god for the same and 
                     <lb/>Knowing the uncertainty of this life and being
                     <lb/>the uncertainty of this life and being desirous to sell <unclear reason="illegible"></unclear> things in order doe
@@ -43,7 +43,7 @@
                     <lb/>renounce <unclear reason="illegible">frustrait</unclear> and make void all wills by me formely made ad declare
                     <lb/>and appoint this my last will and testament.
                 </p>
-                <p><unclear reason="illegible"></unclear> I givr and bequeath unto my wife <placeName type="spouse">Jane <unclear reason="illegible"><surname>Mathuse</surname></unclear></placeName> my holl personal Estate that is at
+                <p><unclear reason="illegible"></unclear> I give and bequeath unto my wife <placeName type="spouse">Jane <unclear reason="illegible"><surname>Mathuse</surname></unclear></placeName> my holl personal Estate that is at
                     <lb/><placeName>Port Tobacco</placeName> that is to say all manner of things for the good of her and my childring
                     <lb/>and I do give and bequeath to her my wife <measure commodity="land" quantity="300" unit="acre">Three hundred acres of Land called the
                     <lb/><unclear reason="illegible">Lunchelbury Swamp</unclear></measure> or <unclear reason="illegible">bulky </unclear> lying in <placeName>Charles County</placeName> and I give and bequeath
@@ -58,8 +58,8 @@
                     <lb/><surname>Borman</surname></persName> <measure commodity="land" quantity="255" unit="acre">two hundred and fifty five acres of Land</measure> lying at <placeName>St. Maries
                     <lb/>Hill</placeName> threshold <unclear reason="illegible">Early</unclear> to be divided between them to them and their heirs
                     <lb/>forever and I give to my wife Jane Mathews <measure commodity="land" quantity="400" unit="acre">four hundred acres of
-                    <lb/>Land</measure> lying at Capt. Bonman three cows and three yearling calved and five
-                    <lb/>stears about four years of that belongs to the plantation of <placeName>S. Ellins</placeName>
+                    <lb/>Land</measure> lying at Capt. Bonman <measure commodity="livestock" quantity="3">three cows</measure> and <measure commodity="livestock" quantity="3">three yearling calves</measure> and <measure commodity="livestock" quantity="5">five
+                    <lb/>stears about four years</measure> of that belongs to the plantation of <placeName>S. Ellins</placeName>
                     <lb/>and to my wife I give and bequeath all the other things that belongs to
                     <lb/>the said plantation of <placeName>St. Ellins</placeName> that is Tobacco Debts or other things
                     <lb/>whatsoever that shall be due to mee. and I doe further make Constitute
