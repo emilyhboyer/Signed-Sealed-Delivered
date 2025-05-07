@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_045_1676_Lilly" xml:lang="en">Elizabeth Lilly. Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Elizabeth Lilly. Will.</head>
+                <p>In the name of God Amen. The 15th day of November 1676. in
+                    <lb/>the 28th of the Reigne &amp;c I Elizabeth Lilly of Charles County in the pronvince of
+                    <lb/>maryland sick of body but of sound and perfect memory praise be given to god
+                    <lb/>for the <unclear reason="illegible">fame</unclear> and knowing the uncertainty of this life on earth and being 
+                    <lb/>desirous to settle things in order do make this my last will and testament
+                    <lb/>in manner and form following <unclear reason="illegible">viz.</unclear> First and princpally I commend my soule
+                    <lb/>to God Almighty my Creator and <unclear reason="illegible">afoundly</unclear> believing that I shall receive full
+                    <lb/>pardon and <unclear reason="illegible"></unclear> of my sins and be saved by the merits and <unclear reason="illegible"></unclear>
+                <lb/>Death of my beloved Savior and redeemer Jesus Christ and my body to the
+                    <lb/>earth from where it were taken to be buried in decent Christian manner
+                    <lb/>and as touching such worldly good, as the Lord in <unclear reason="illegible"></unclear> merry hath sent me my will
+                    <lb/>and meaning is that it be bestowed as hereafter by this my will is <unclear reason="illegible"></unclear>
+                <lb/>First I doe revoke and make said all former wills by me made &amp; declare &amp;
+                    <lb/>appoint this my last will and testament
+                </p>
+                <p>List
+                    <lb/>Item I will that all those Debts that I have of right or <unclear reason="illegible">conceince</unclear> to any manner of person
+                    <lb/>shall be well and truly paid in convenient time after my decease by my Executor
+                    <lb/>beneath named.
+                </p>
+                <p>Item I give and bequeath to my lo. father in law <persName type="father-in-law">Peter <surname>Carr</surname></persName> all &amp; all manner of Estate
+                    <lb/>virg. Lands chattles moveables &amp; Immoveables whatsoever to him and his heirs forever 
+                </p>
+                <p>Item I nominate and appoint my aforesaid father in law Peter Carr my whole and 
+                    <lb/>Sole executor In testimony whereof I have hereunto set my hand and seal
+                    <lb/>the day and year above.
+                </p>
+                <p>Signed Sealed &amp; Deliv. as my last will
+                    <lb/>&amp; Testimony in the presents of us
+                    <lb/><persName type="witness">Anthony <surname>Bridges</surname></persName>.- <persName type="witness">Joseph <unclear reason="illegible">B</unclear></persName>
+                    <lb/>sign
+                    <lb/><signatures>Elizabeth Lilly</signatures>
+                </p>
+                <pb/>
+                <p>On the back of the aforegoing was enforsed the following probit (to will)
+                    <lb/><date>December 30th 1676</date> By virtue of a commision from the Judge for Probate of
+                    <lb/>C. Mills &amp;c. dated the 30th day of November 1676 to me <unclear reason="illegible">discreeted</unclear> and I called before me
+                    <lb/><persName type="witness">Joseph <unclear reason="illegible">Bullettt</unclear></persName> one of the witnesses to the within written will who on the day above
+                    <lb/>written by his oath proved the within written will <persName>Anthony <unclear reason="illegible">Bredges</unclear></persName> the other witness
+                    <lb/>in Virginia I could not call before me
+                    <lb/>4 sides
+                    <lb/><signatures>Benj. A Rogers</signatures>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
