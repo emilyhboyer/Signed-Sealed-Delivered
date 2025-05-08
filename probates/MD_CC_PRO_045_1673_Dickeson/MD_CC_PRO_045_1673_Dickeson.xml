@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_045_1673_Dickeson" xml:lang="en">Jeremiah Dickeson Will.</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -22,8 +22,8 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
+                <head rend="align(center)">Jeremiah Dickeson Will.</head>
+                <p>
                     <lb/>
                 </p>
             </div>
