@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_047_1676_Cage" xml:lang="en">John Cage Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">John Cage Will</head>
+                <p>In the name of God Amen. I <persName type="author">John Cage</persName> of <placeName>Charles County in the
+                    <lb/>province of Maryland</placeName> planter though sick and weak in body yet sound 
+                    <lb/>and perfect in memory bequeath my soule to God that gave me it &amp; my
+                    <lb/>body to the earth and for my temporal Estate what God hath been pleased
+                    <lb/>to endow me with all I desire it may be dispersed as followeth
+                </p>
+                <p><unclear reason="illegible"></unclear> my will and desire is that my dear and well beloved wife <persName type="spouse">Susannah       
+                <lb/><surname>Cage</surname></persName> should be my sole Executor of all my personal Estate and after my
+                    <lb/>Just and lawfull Debts be paud to disperse of it as she shall think fit
+                    <lb/><catchwords>secondly</catchwords>
+                    <pb/>
+                </p>
+                <p>Secondly I give and bequeath unto my Executor before named my now Dwelling
+                    <lb/>plantation situated &amp; lying upon the <unclear reason="illegible"></unclear> of <placeName>Nicheocomics River</placeName> by estimation
+                    <lb/>Layd out for <measure commodity="plantation" quantity="300" unit="acre">three hundred acres more or less</measure> for <unclear reason="illegible"></unclear> &amp; <unclear reason="illegible"></unclear> to profit
+                    <lb/>and enjoy during her natural life and after her decrease unto my beloved 
+                    <lb/>son <persName type="eldestson">John <surname>Cage</surname></persName> unto him and his heirs forever but if the said John Cage shall
+                    <lb/>die without heirs Lawfully begotten by him or before he come to the age of one
+                    <lb/>&amp; twenty years then my will is that the aforementioned land goe unto my
+                    <lb/>younger son <persName type="youngestson">Willaim <surname>Cage</surname></persName> him and his heirs forever.
+                </p>
+                <p>Thirdly I give unto my Daughter <persName type="daughter">Margery <surname>Rowland</surname></persName> <measure commodity="horse" quantity="1">one young bay horse <unclear reason="illegible"></unclear> &amp; marked
+                    <lb/>on the rear buttock with G two years old or thereabouts</measure>
+                </p>
+                <p>Fourthly I give and bequeath unto my Daughter <persName type="daughter"><unclear reason="illegible">Voider</unclear></persName> <measure commodity="livestock" quantity="2">two chicekn</measure> each of them one <measure commodity="livestock" quantity="2"></measure>two
+                    <lb/>year old heffer marked with my one proper mark and to be delivered this spring
+                    <lb/>In oewing with all their increase.
+                </p>
+                <p>Fifthly my will and desire is that the Remand of my personal Estate remaine in the
+                    <lb/>hands and <unclear reason="illegible"></unclear> of my Executor first named untill my Daughter <persName type="daughter">Ann</persName>
+                    <lb/>Comes to the ahe of sixteen or day of marriage and then an Equal division be 
+                    <lb/>made of all my personal Estate amongst my sonn John and William
+                    <lb/>aforementioned and my Daughter Ann and the child my wife nowe goeth <unclear reason="illegible"></unclear>
+                    <lb/>going afrom one to another and the longeth liver <unclear reason="illegible">profets</unclear> all and <unclear reason="illegible">these</unclear>
+                    <lb/>presens make void &amp; <unclear reason="illegible"></unclear> all former wills by me made <unclear reason="illegible"></unclear> &amp;
+                    <lb/>&amp; seal this 12th day of February anno Domino 1676.
+                </p>
+                <p>In the presents of us...
+                    <lb/><persName type="witness">John <surname>Faming</surname></persName>-<persName type="witness">Henry <surname>Reynolds</surname></persName>
+                    <lb/>John X <surname>Cage</surname><signatures></signatures>
+                </p>
+                <p>On the nack of the foregoing was Endorsed the following probit (to will)
+                    <lb/>July 9th 1677. Then was the within written will probated in commmon form
+                    <lb/>oaths of John Faming and Henry Reynolds witness to the same.
+                    <lb/>4 1/4 sides <signatures>Benj. Rogers</signatures>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

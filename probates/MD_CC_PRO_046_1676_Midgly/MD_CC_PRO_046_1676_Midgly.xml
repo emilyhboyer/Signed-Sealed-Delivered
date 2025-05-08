@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_046_1676_Midgly" xml:lang="en">Richard Midgly Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Richard Midgly Will</head>
+                <p>November 18th, 1676 In the name of God Amen I Richard Midgly of
+                    <lb/>Charles County in the province of Maryland being at present very sick &amp; weak of body
+                    <lb/>but of sound &amp; perfect memory, and knowing the uncertainty of this transitory Life
+                    <lb/>for such one Estate as it hath Please the almighty God to bestow upon me I am 
+                    <lb/>willing to disperse of it in manner &amp; form of following-
+                </p>
+                <p><unclear reason="illegible"></unclear> I doo bequeath my soul unto the Almighty God that gave it me &amp; <unclear reason="illegible"></unclear> by the merits
+                    <lb/>of my <unclear reason="illegible">beloved</unclear> savioru Jesus Christ for to be saved I hereby <unclear reason="illegible">next</unclear> my body unto the Earth
+                    <lb/>from were it came there to be Handsomly &amp; decently Buried in Christian manner
+                </p>
+                <p>Secondly. It is my whole will &amp; desire that all my goods &amp; Chattles that can be lawfully proved
+                  <lb/>mine my be brough into an appointment and alsoe that all such Debts as can
+                  <lb/>bee lawfully made appear for to be <unclear reason="illegible">d</unclear> from me bee fully satisfied &amp; paid out
+                  <lb/>of my said Estate
+                </p>
+                <p>Thirdly It my will &amp; desire that the plantation &amp; land that are belonging which 
+                    <lb/>I did leese of <persName>Mr. Matthew <surname>Stone</surname></persName>  be sold for wheat.
+                </p>
+                <p>Fourthly It is my will &amp; desire that after all my Just Debts is paid I do fully &amp; bequeath
+                    <lb/><catchwords>unto</catchwords>
+                    <pb/>
+                    <lb/>unto my wife <persName type="spouse">Elizabeth <surname>Midgly</surname></persName> to her heis Executors Aministrators
+                    <lb/>and <unclear reason="illegible"></unclear> and half of my Estate <unclear reason="illegible">clare</unclear> of all Charges only if that it be
+                    <lb/>the pleasure of almighty good tht I shall dee my wife for to pay for
+                    <lb/>half my funeral charges &amp; also the other half of my estate I doe fully
+                    <lb/>give unto <persName>John <surname>Hanson</surname></persName> to him <unclear reason="illegible"></unclear> Executors Administrators &amp; <unclear reason="illegible"></unclear>
+                    <lb/>forever the said John Hanson for to make the most of my Estate and toe
+                    <lb/>see that my wife Elizabeth Midgly neither of my Creditors bee not depraved
+                    <lb/>of what is their just doo.
+                </p>
+                <p>Fifthly. I doe give unto Elizabeth Midgly my wife a <unclear reason="illegible">mayd</unclear> servant named <persName><unclear reason="illegible">Bellsie</unclear>
+                    <lb/><surname>Clark</surname></persName> &amp; also my <measure commodity="furniture" quantity="1">chest</measure> &amp; unto my Brother in law <persName type="brother-in-law">Thomas Luger</persName> my <unclear reason="illegible"></unclear>
+                    <lb/>&amp; <measure commodity="weapon" quantity="1"></measure>pistall I doe utterly revoke all former wills made by me and doe affirm
+                    <lb/>this for to be my last will and testament as witness my hand &amp; seal this
+                    <lb/>day and year above written
+                </p>
+                <p>witnessed by
+                    <lb/><persName type="witness">Ed. <surname>Maddock</surname></persName>-<persName type="witness">Lewis I. <surname>Jones</surname></persName>
+                    <lb/>sign
+                </p>
+                <p>On the back of the aforegoing will was the following probit (to will)
+                    <lb/>December 22d day 1676 Lewis Hones Being sworn sayth that he did see the
+                    <lb/>within mentioned Richard Midgly sign seal and publish this within mentioned
+                    <lb/>will and finder saith not-as witness
+                    <lb/>4 1/4 sides
+                    <lb/><signatures>John Stone</signatures>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

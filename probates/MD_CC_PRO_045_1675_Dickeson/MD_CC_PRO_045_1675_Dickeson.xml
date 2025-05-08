@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="MD_CC_PRO_045_1673_Dickeson" xml:lang="en">Jeremiah Dickeson Will.</title>
+                <title xml:id="MD_CC_PRO_045_1675_Dickeson" xml:lang="en">Jeremiah Dickeson Will.</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -74,12 +74,32 @@
                 </p>
                 <p>Signed &amp; sealed
                     <lb/>In the presence of us
-                    <lb/>John <unclear reason="illegible"></unclear> Gray-Matter his M <unclear reason="illegible"></unclear>
+                    <lb/><persName type="witness">John <unclear reason="illegible"></unclear> <surname>Gray</surname></persName>-<persName type="witness">Matter his M <unclear reason="illegible"></unclear></persName>
                     <lb/>mark 
                 </p>
                 <p>On the back of the aforegoing was the following Endorsements (to will)
-                    <lb/>Maryland <unclear reason="illegible">Js.</unclear> 
-                    
+                    <lb/>Maryland <unclear reason="illegible">Js.</unclear> By virtue of a commission from the Judge for probate of
+                    <lb/>wills and granting administration wiithin the province to me directed 
+                    <lb/>and me Im proving bearing date the <date>20th day of April in the 48th year
+                    <lb/>of the Dominion of Cecelius &amp;c anno Dom. 1675</date> I called before me <unclear reason="illegible">Matter</unclear>
+                    <lb/><unclear reason="illegible"></unclear> &amp; John Gray two witness to the within written will who proved the
+                    <lb/>same in common form in the <date>14th day of may 1675</date>.
+                    <lb/>before <persName>Benj. Rogers</persName>                    
+                </p>
+                <pb/>
+                <p>By Virtue of the Commission above mentioned on the <date>14th day of May <unclear reason="illegible"></unclear>
+                    <lb/>1675</date> I administrated by the Oath of an Executor unto Nicholas Brody ono
+                    <lb/>of the Executor Named in the within written will According to the form
+                    <lb/>in the saif Commission <unclear reason="illegible"></unclear>
+                    <lb/><signatures>Benj. Roger</signatures>
+                </p>
+                <p><date>May 14th 1675</date>
+                    <lb/><unclear reason="illegible">Then</unclear> administered the Oath of <unclear reason="illegible">springer</unclear> to <persName>Zachariah <surname>Wade</surname></persName> &amp; <persName>John <surname>Ward</surname></persName>, to
+                    <lb/>appraise the Estate of Jeremiah Dickeson Decreased by Virue of a Commission 
+                    <lb/>from the Judge in testontary cause. to me <unclear reason="illegible"></unclear> Dated the <date>20th of April
+                        <lb/>1675</date>
+                    <lb/>8 1/4 sides
+                    <lb/><signatures>Benja. Rogers</signatures>
                 </p>
             </div>
         </body>
