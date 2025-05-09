@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_050_1676_Smoot" xml:lang="en">Richard Smoot. Will.</title>
+                
+                <author></author>
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Richard Smoot. Will.</head>
+                <pb/>
+                <p>In the name of God Amen. I <persName type="author" xml:id="RichardSmoot">Richard <surname>Smoot</surname></persName> of <placeName>Charles County in the
+                <lb/>province of Maryland</placeName> being weake of body but of perfect memory have made and 
+                    <lb/>ordained this my last will and testament in manner and form following
+                    <lb/>I commit my soule to God that gave it and my body to the ground to be buried in
+                    <lb/>Christian buriel.
+                </p>
+                <p>I give and beqeauth unto my eldest sonn <persName type="eldestson" xml:id="RichardSmoot">Richard <surname>Smoot</surname></persName> that <measure commodity="plantation">plantation</measure>
+                    <lb/>that I am dwelling upon when he shall come to the full age of one and
+                    <lb/>twenty years.
+                </p>
+                <p>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
