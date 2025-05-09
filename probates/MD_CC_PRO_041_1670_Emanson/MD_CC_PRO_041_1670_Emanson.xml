@@ -25,7 +25,7 @@
             <div>
                 <head rend="align(center)">Nicholas Emanson. Will</head>
                 <p>In the name of God amen. In the year of our Lord God 1670 March 20th 
-                    <lb/>I <persName type="author">Nicholas <surname>Emanson</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> being sick and 
+                    <lb/>I <persName type="author" xml:id="NicholasEmanson">Nicholas <surname>Emanson</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> being sick and 
                     <lb/>weak in body but of good and perfect memory thank be to god do make this my 
                     <lb/>last will and testament in manner and form following that is to say 
                     <lb/>first I bequeath my soul and <unclear reason="illegible"></unclear> into the hand of the almighty God my heavenly father
@@ -41,13 +41,13 @@
                      <item>First I will that all such Debts as I owe shall be truly paid. 
                      </item>
                      
-                     <item>Secondly I give unto my Daughter <persName type="daughter">Phebe</persName> <measure commodity="crop" quantity="1200" unit="pounds">one thousand two hundred pounds of
+                     <item>Secondly I give unto my Daughter <persName type="daughter" xml:id="PhebeEmanson">Phebe</persName> <measure commodity="crop" quantity="1200" unit="pounds" xml:id="PhebeEmanson">one thousand two hundred pounds of
                          Tobacco</measure> to be <unclear reason="illegible">paid</unclear> to her or her heirs by my Executor hereafter named.
                      </item>
                      
                      <item>All of the rest of my Estate reall and pesonal lands goods cattles and chattels 
-                         whatsoever I give and bequeath unto my loving wife <persName type="spouse"></persName>Elizabeth and my 
-                         Daughter <persName type="daughter">Mary <surname>Emanson</surname></persName> to be equally divided between them and my Daughter
+                         whatsoever I give and bequeath unto my loving wife <persName type="spouse" xml:id="ElizabethEmanson">Elizabeth</persName> and my 
+                         Daughter <persName type="daughter" xml:id="MaryEmanson">Mary <surname>Emanson</surname></persName> to be equally divided between them and my Daughter
                          Marys share to be delivered unto her when she comes to be <unclear reason="illegible">sixteen</unclear> years of age 
                      </item>
                      

@@ -23,7 +23,7 @@
         <body>
             <div>
                 <head rend="align(center)">Giles Cole. Will.</head>
-                <p>In the name of God Amen. I <persName type="author">Giles Cole</persName> of <placeName>Charles County</placeName> in the
+                <p>In the name of God Amen. I <persName type="author" xml:id="GilesCole">Giles Cole</persName> of <placeName>Charles County</placeName> in the
                     <lb/>provence of maryland planter being disparaleley wounded by the Susquehanna
                     <lb/>Indians but of sound and perfect memory praised bee unto almighty God and 
                     <lb/><catchwords>Knowing</catchwords>
@@ -38,27 +38,27 @@
                     <lb/>pleased to make me <unclear reason="illegible"></unclear> and of in this testimony I give and bequeath in
                     <lb/>manner and form following. 
                 </p>
-                <p>First I give and bequeath unto <persName type="beneficiary">John <surname>Hawkins</surname> Jun.</persName> <measure commodity="horse" quantity="1">one young stone horse of two
+                <p>First I give and bequeath unto <persName type="beneficiary" xml:id="JohnHawkinsJr">John <surname>Hawkins</surname> Jun.</persName> <measure commodity="horse" quantity="1" xml:id="JohnHawkinsJr">one young stone horse of two
                     <lb/>years</measure> and hald old to be delivered unto him after my decrease
                 </p>
-                <p>Secondly. I give and bequeath unto <persName type="beneficiary">Henry <surname>Hawkins</surname></persName> brother of the above said John <measure commodity="horse" quantity="1">one gray mare
+                <p>Secondly. I give and bequeath unto <persName type="beneficiary" xml:id="HenryHawkins">Henry <surname>Hawkins</surname></persName> brother of the above said John <measure commodity="horse" quantity="1" xml:id="HenryHawkins">one gray mare
                     <lb/>marked with HH</measure> together with all her future increase to him and his heirs forever
                     <lb/>to be delivered unto him immedietly after my decease.
                 </p>
-                <p>Thirdly I give and bequeath unto <persName type="beneficiary">Elizabeth <surname>Hawkins</surname></persName> sister unto the aforesaid brothers <measure commodity="livestock" quantity="1">one
+                <p>Thirdly I give and bequeath unto <persName type="beneficiary" xml:id="ElizabethHawkins">Elizabeth <surname>Hawkins</surname></persName> sister unto the aforesaid brothers <measure commodity="livestock" quantity="1" xml:id="ElizabethHawkins">one
                     <lb/>yearling cow calf</measure> to be delivered unto her after my decrease.
                 </p>
-                <p>Fourthly I give and bequeath unto Thomas Hawkins Junior one stone cald of one years old next
+                <p>Fourthly I give and bequeath unto <persName type="beneficiary" xml:id="ThomasHawkinsJr">Thomas Hawkins Junior</persName> <measure commodity="livestock" quantity="1" xml:id="ThomasHawkinsJr">one stone calf of one years old</measure> next
                     <lb/><unclear reason="illegible">grafs</unclear> to be delivered unto him as above said.
                 </p>
-                <p>Fifthly I give and bequeath unto my loving friend <persName type="beneficiary">Stephen <surname>Coward</surname></persName> two hog. de of Tobacco go
-                    <lb/>Contayne eight hundred pounds <unclear reason="illegible"></unclear> to be paid him him out of my Crop after my
+                <p>Fifthly I give and bequeath unto my loving friend <persName type="beneficiary" xml:id="StephemCoward">Stephen <surname>Coward</surname></persName> two hog. de of Tobacco
+                    <lb/>Contayne <measure commodity="crop" quantity="800" unit="pounds" xml:id="StephenCoward">eight hundred pounds</measure> <unclear reason="illegible"></unclear> to be paid him him out of my Crop after my
                     <lb/>decease and one new Cloath waste of <unclear reason="illegible">nusey</unclear> one w. of <unclear reason="illegible"></unclear> emily Drawers one holland <unclear reason="illegible">shirt</unclear>
-                    <lb/>One holland <unclear reason="illegible">neecloth</unclear> and one shall.
+                    <lb/>One holland <unclear reason="illegible">neecloth</unclear> and one shall. <!-- unsure of this sentence -->
                 </p>
-                <p>Sixthly I give unto <persName type="beneficiary">John <surname>Klumer</surname></persName> <measure commodity="crop" quantity="800" unit="pounds">eight hundred pounds of tobacco</measure>.
+                <p>Sixthly I give unto <persName type="beneficiary" xml:id="JohnKlumer">John <surname>Klumer</surname></persName> <measure commodity="crop" quantity="800" unit="pounds" xml:id="JohnKlumer">eight hundred pounds of tobacco</measure>.
                 </p>
-                <p>Seventhly I give unto <persName type="beneficiary">Joseph the shoemaker</persName> all the rest of my <measure commodity="clothes"><unclear reason="illegible">warming</unclear> cloths</measure>.
+                <p>Seventhly I give unto <persName type="beneficiary" xml:id="Joseph">Joseph the shoemaker</persName> all the rest of my <measure commodity="clothes" xml:id="Joseph"><unclear reason="illegible">warming</unclear> cloths</measure>.
                 </p>
                 <p>Eightly I do make <persName type="executor">Mr. Henry <surname>Hawkins</surname></persName> Exs. of this my last will and testament to see it duly
                     <lb/>performed for this <unclear reason="illegible">pairs</unclear> &amp; are leaving after my Debts and Legacies being duly paid

@@ -23,8 +23,8 @@
         <body>
             <div>
                 <head rend="align(center)">Jeremiah Dickeson Will.</head>
-                <p>In the name of God Amen. The twenty ninth day of September in the year of our 
-                    <lb/>Lord one Thousand six hundred and twenty three I <persName type="author">Jeremiah Dickeson</persName> of <placeName>Charles County</placeName>
+                <p>In the name of God Amen. The <date>twenty ninth day of September in the year of our 
+                    <lb/>Lord one Thousand six hundred and seventy three</date> I <persName type="author" xml:id="JeremiahDickeson">Jeremiah Dickeson</persName> of <placeName>Charles County</placeName>
                     <lb/>thanks be to God for the fame and calling to remembrance the uncertain Estate of
                     <lb/>this Transitory life and  that all flesh must yeild unto Death when it shall please 
                     <lb/>God to call those make Constitute Ordaine and Declare this my last will and
@@ -45,25 +45,25 @@
                     <lb/>truly Contented &amp; paid on Ordaine to be paid weither Convenient Time after my
                     <lb/>decrease by my Executor hereafter named.
                 </p>
-                <p>Item I give and bequeath to my Godaughter <persName type="goddaughter">Elizabeth <surname>Harrison</surname></persName> <measure commodity="livestock" quantity="1">one cow calf</measure> to be delivered
+                <p>Item I give and bequeath to my Godaughter <persName type="goddaughter" xml:id="ElizabethHarrison">Elizabeth <surname>Harrison</surname></persName> <measure commodity="livestock" quantity="1" xml:id="ElizabethHarrison">one cow calf</measure> to be delivered
                     <lb/><catchwords>to</catchwords>
                     <pb/>
                     <lb/>to her the next spring after my Decease.
                 </p>
                 <p>Item. I give and bequeath unto each of my servants <measure commodity="livestock" quantity="1"></measure>one cow and calf to be delivered to them as they are free.
                 </p>
-                <p>Item. I give and bequeath unto my Loving friend <persName><unclear reason="illegible">Leche</unclear></persName> <surname>Greene</surname> <measure commodity="crop" quantity="400" unit="pounds">four hundred pounds
+                <p>Item. I give and bequeath unto my Loving friend <persName><unclear reason="illegible" xml:id="Leche">Leche</unclear></persName> <surname>Greene</surname> <measure commodity="crop" quantity="400" unit="pounds" xml:id="Leche">four hundred pounds
                 <lb/>of tobacco &amp; <unclear reason="illegible"></unclear></measure>.
                 </p>
-                <p>Item. I gvr and bequeath all the rest of my Estate both real and personal to my
-                    <lb/>Sonne <persName type="son">Thomas <surname>Dickeson</surname></persName> to him and his heirs forever whome I wil &amp; desire my
+                <p>Item. I give and bequeath all the rest of my Estate both real and personal to my
+                    <lb/>Sonne <persName type="son" xml:id="ThomasDickeson">Thomas <surname>Dickeson</surname></persName> to him and his heirs forever whome I wil &amp; desire my
                     <lb/>be brought up and be at the <unclear reason="illegible">tuition</unclear> of my Executors hereafter named until
                     <lb/>he come to the age of three &amp; twenty years &amp; not to enjoy the Estate before
                     <lb/>and after the he shall not sell or anywise make away with the Land but
                     <lb/>shall fall to the heris begotten lawfully of his body which if he die wihtout
                   <lb/>or before he come to the foresaid age I give and bequeath the personal Estate
-                    <lb/>unto my <unclear reason="illegible">trusty</unclear> &amp; well loved friend <persName type="executor">Mr. Thomas Dent</persName> of <placeName>S. Maries County</placeName>
-                    <lb/>and <persName type="executor">Mr. Nicholas Proddly</persName> of <placeName>Charles County</placeName> whome also I nominate ordaine &amp;
+                    <lb/>unto my <unclear reason="illegible">trusty</unclear> &amp; well loved friend <persName type="executor" xml:id="ThomasDent">Mr. Thomas Dent</persName> of <placeName>S. Maries County</placeName>
+                    <lb/>and <persName type="executor" xml:id="NicholasProddly">Mr. Nicholas Proddly</persName> of <placeName>Charles County</placeName> whome also I nominate ordaine &amp;
                     <lb/>appoint Executors and overseers of this my lasy will &amp; testament and my
                     <lb/>Land and I give unto the poore of <placeName>Charles County</placeName> to be dispersed of and ordered at the
                     <lb/>dispersion of my foresaid Executors &amp; it is my desire that my said sonne Thomas

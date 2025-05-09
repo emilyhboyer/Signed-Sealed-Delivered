@@ -22,7 +22,7 @@
         <body>
             <div>
                 <head rend="align(center)">Richard Randalls Will</head>
-                <p><date>August 3rd 1667</date>. The last will and testament of <persName type="author">Richard <surname>Randlaa</surname></persName> of <placeName>Charles
+                <p><date>August 3rd 1667</date>. The last will and testament of <persName type="author" xml:id="RichardRandalls">Richard <surname>Randalls</surname></persName> of <placeName>Charles
                 <lb/>County</placeName> in the <placeName>province of Maryland</placeName>.
                     <lb/>In the Name of God Amen. I Richard Randall of the county above
                     <lb/>said being very sick and weak in body but of sound and perfect memory.
@@ -37,43 +37,43 @@
                     <lb/>Christ and my body to the ground to be decently eneterd by my Executor
                     <lb/>Item I desire that all my <unclear reason="illegible">Land</unclear> debts may bee duly and truly satisfied whereof-
                     <pb/>
-                    <lb/><catchwords>that</catchwords> that of <persName>Mr. William <surname>Tadons</surname></persName> of <placeName>New England</placeName> <unclear reason="illegible">being</unclear> <measure commodity="currency" quantity="10" unit="pounds">ten pounds</measure> be first paid
+                    <lb/><catchwords>that</catchwords> that of <persName type="beneficiary" xml:id="WilliamTadons">Mr. William <surname>Tadons</surname></persName> of <placeName>New England</placeName> <unclear reason="illegible">being</unclear> <measure commodity="currency" quantity="10" unit="pounds" xml:id="WilliamTadons">ten pounds</measure> be first paid
                     <lb/>by <unclear reason="illegible"></unclear> of <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> are at <persName>Mr. Anthony <surname>Bridges</surname></persName> in <placeName>Virginia</placeName> and at
                     <lb/><persName>Stephen <surname>Montagues</surname></persName> in <placeName>Maryland</placeName> and if they cannot be <unclear reason="illegible">transfronted</unclear> then
                     <lb/>to be sold and the <unclear reason="illegible">proceeds</unclear> to be <unclear reason="illegible"></unclear> and if the produce do not ballance
                     <lb/>the Debts the remainder to be satisfied of the rest of my Estate.--
                 </p>
-                <p>Item <measure commodity="crop" quantity="1000" unit="pounds">one Thousand pounds of Tobacco</measure> to be transformed to one <persName>John <surname><unclear reason="illegible">Pinke</unclear></surname></persName> of
+                <p>Item <measure commodity="crop" quantity="1000" unit="pounds" xml:id="JohnPinke">one Thousand pounds of Tobacco</measure> to be transformed to one <persName type="beneficiary" xml:id="JohnPinke">John <surname><unclear reason="illegible">Pinke</unclear></surname></persName> of
                     <lb/><placeName>Boston in New England</placeName> a shoe maker
                     <lb/>Item I give and bequeath to the Church towards the maintenance of a Protestant 
                     <lb/>minister forever <measure commodity="land" quantity="200" unit="acre">two hundred acres of land</measure> <unclear reason="illegible"></unclear> taken up by me called 
                     <lb/>the addition being surveyed by <persName>Mr. Benjamin Roger</persName> for me.
                 </p>
-                <p>Item tis my last will nd desire that John Robinson be fully satisfied for the 
+                <p>Item tis my last will and desire that <persName>John <surname>Robinson</surname></persName> be fully satisfied for the 
                     <lb/>land I bought of him provided he make the title sure and good two 
                     <lb/><unclear reason="illegible"></unclear> more to be paid until the title be made clear that what is–
                     <lb/>Already paid which I leave to my Executor hereafter named to see it 
                     <lb/>performed.--</p>
-                <p>Item  I give to <persName>Mr. Anthony <surname>Bridges</surname></persName> <measure commodity="crop" quantity="100" unit="pounds">one hundred pounds of sugar</measure>. 
-                    <lb/>Item  I give my Boy <persName type="dependent">Thomas Cooper</persName> one year of his time and my old 
-                    <lb/><unclear reason="illegible"></unclear> namely my cloth clothes and my old <measure commodity="clothes" quantity="1">serge suit</measure> and last
+                <p>Item  I give to <persName type="beneficiary" xml:id="AnthonyBridges">Mr. Anthony <surname>Bridges</surname></persName> <measure commodity="crop" quantity="100" unit="pounds" xml:id="AnthonyBridges">one hundred pounds of sugar</measure>. 
+                    <lb/>Item  I give my Boy <persName type="dependent" xml:id="ThomasCooper">Thomas <surname>Cooper</surname></persName> one year of his time and my old 
+                    <lb/><unclear reason="illegible"></unclear> namely my <measure commodity="clothes" xml:id="ThomasCooper">clothes</measure> and my old <measure commodity="clothes" quantity="1" xml:id="ThomasCooper">serge suit</measure> and last
                     <lb/>bequeath him to <persName>Mr. <unclear>Liddy <surname>Michins</surname></unclear></persName> in <placeName>north Hampton County</placeName> in 
-                    <lb/><unclear reason="illegible"></unclear> as also <measure commodity="jewlery" quantity="1">one gold ring</measure> in my chest and <measure commodity="currency" quantity="5" unit="shillings">five shilling</measure> <unclear reason="illegible"></unclear>
-                    <lb/>Item  I give unto <persName type="executor">Stephen <surname>Montague</surname></persName> my <measure commodity="houseware" quantity="1">silver cup</measure> my <unclear reason="illegible">Rapairs</unclear> and my 
-                    <lb/><measure commodity="transportation" quantity="1">boate</measure> and <measure commodity="equipment" quantity="1">oares</measure> <unclear reason="illegible"></unclear> I give unto <persName type="executor">Mr. Joseph <surname>Harrison</surname></persName> <measure commodity="crop" quantity="100" unit="pounds">one hundred 
+                    <lb/><unclear reason="illegible"></unclear> as also <measure commodity="jewelry" quantity="1" xml:id="ThomasCooper">one gold ring</measure> in my chest and <measure commodity="currency" quantity="5" unit="shillings" xml:id="ThomasCooper">five shilling</measure> <unclear reason="illegible"></unclear>
+                    <lb/>Item  I give unto <persName type="executor" xml:id="StephenMontague">Stephen <surname>Montague</surname></persName> my <measure commodity="houseware" quantity="1" xml:id="StephenMontague">silver cup</measure> my <unclear reason="illegible">Rapairs</unclear> and my 
+                    <lb/><measure commodity="transportation" quantity="1" xml:id="StephenMontague">boate</measure> and <measure commodity="equipment" quantity="1" xml:id="StephenMontague">oares</measure> <unclear reason="illegible"></unclear> I give unto <persName type="executor" xml:id="JosephHarrison">Mr. Joseph <surname>Harrison</surname></persName> <measure commodity="crop" quantity="100" unit="pounds" xml:id="JosephHarrison">one hundred 
                     <lb/>pound of sugar</measure> and <unclear reason="illegible"></unclear> by these presents make and appoint the 
                     <lb/>said Mr. Joseph Harrion and Stephen Montague my hole and sole 
                     <lb/>Executor, giving them full <unclear reason="illegible"></unclear> to sell and disperse of all my lands, 
                     <lb/>and goods, and after the payment of my Just Debts and Legasies–
                     <lb/>herein mentioned to return what is left of my father <persName type="father">Richard <surname>Randall</surname></persName>
                     <lb/>and to a<persName>Anne Randall</persName> and to their heir forever 
-                    <lb/>Item I give unto my Executor Stephen Montague all my <measure commodity="papergoods">Books, writings</measure>
+                    <lb/>Item I give unto my Executor Stephen Montague all my <measure commodity="papergoods" xml:id="StephenMontague">Books, writings</measure>
                     <lb/>whereof I have hereunto set my hand seal the day and year find above 
                     <lb/>Written–
                     <lb/>Signed sealed and Delivered 
                     <lb/>In the presents of us—
-                    <lb/><persName>Samuel Hanis</persName>, <persName>William Hills</persName> 
-                    <lb/><signatures rend="align(right)">R. Randall</signatures>
+                    <lb/><persName type="witness">Samuel Hanis</persName>, <persName type="witness">William Hills</persName> 
+                    <lb/><signatures>R. Randall</signatures>
                     </p>
             </div>
         </body>

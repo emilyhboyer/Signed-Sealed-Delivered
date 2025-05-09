@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="xx" xml:lang="en">Matthew Stone Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -22,9 +22,9 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
+                <head rend="align(center)">Matthew Stone Will</head>
                 <p>In the name of God Amen, this <date>twenty fourth day of December anno 1672</date>
-                <lb/>I <persName type="author">Matthew <surname>Stone</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> planter being sick of 
+                <lb/>I <persName type="author" xml:id="MatthewStone">Matthew <surname>Stone</surname></persName> of <placeName>Charles County in the province of Maryland</placeName> planter being sick of 
                 <lb/>body but of good and perfect memory thanks bee to God and calling to mind 
                 <lb/>the <unclear reason="illegible"></unclear> Estate of this transitory life and that all flesh must yield unto
                 <lb/><catchwords>Death</catchwords>
@@ -46,21 +46,21 @@
                     <lb/>and truly satisfied contented and paid in som Convenient time after my 
                     <lb/>desease by my Executor hereafter named.
                 </p>
-                <p>Item. I give and bequeath to <persName type="beneficiary">William Marshall <surname>Senior</surname></persName> <measure commodity="horse" quantity="1">one <unclear reason="illegible"></unclear> gray horse</measure> 
-                    <lb/>aged two years or there <unclear reason="illegible">atouts</unclear> likewise I give and bequeath unto William
-                    <lb/>Marshall Junior <measure commodity="livestock" quantity="1">one cowe called <name><unclear reason="illegible">Braunsing</unclear></name></measure> Likewise I give <persName type="beneficiary">John
-                        <surname><unclear reason="illegible">Tenely</unclear></surname></persName> he only sonn of <persName>Francis <surname><unclear reason="illegible">Fereuly</unclear></surname></persName> <measure commodity="livestock" quantity="1">one cowe known and called by the name
-                    <lb/>of <name>Ould Coale</name></measure> Likewise I give and bequeath unto <persName type="beneficiary">Jonathan <surname>Marker</surname></persName> <measure commodity="livestock" quantity="1">one cowe
+                <p>Item. I give and bequeath to <persName type="beneficiary" xml:id="WilliamMarshall">William Marshall <surname>Senior</surname></persName> <measure commodity="horse" quantity="1" xml:id="WilliamMarshall">one <unclear reason="illegible"></unclear> gray horse</measure> 
+                    <lb/>aged two years or there <unclear reason="illegible">atouts</unclear> likewise I give and bequeath unto <persName type="beneficiary" xml:id="WilliamMarshallJr">William</persName>
+                    <lb/>Marshall Junior <measure commodity="livestock" quantity="1" xml:id="WilliamMarshallJr">one cowe called <name><unclear reason="illegible">Braunsing</unclear></name></measure> Likewise I give <persName type="beneficiary" xml:id="JohnFereuly">John
+                        <surname><unclear reason="illegible">Fereuly</unclear></surname></persName> his only sonn of <persName type="beneficiary" xml:id="FrancisFereuly">Francis <surname><unclear reason="illegible">Fereuly</unclear></surname></persName> <measure commodity="livestock" quantity="1" xml:id="FrancisFereuly">one cowe known and called by the name
+                    <lb/>of <name>Ould Coale</name></measure> Likewise I give and bequeath unto <persName type="beneficiary" xml:id="JonathanMarker">Jonathan <surname>Marker</surname></persName> <measure commodity="livestock" quantity="1" xml:id="JonathanMarker">one cowe
                     <lb/>known &amp; commonly called by the name <name>young Coale</name></measure>. Item I give &amp; bequeath unto 
-                    <lb/><persName type="beneficiary">Elizabeth <surname>Cormichill</surname></persName> <measure commodity="horse" quantity="1">one bat mare aged five years</measure> or the afords 
+                    <lb/><persName type="beneficiary" xml:id="ElizabethCormichill">Elizabeth <surname>Cormichill</surname></persName> <measure commodity="horse" quantity="1" xml:id="ElizabethCormichill">one bat mare aged five years</measure> or the afords 
                     <lb/>likewise I give to the said Elizabeth Cormichill <measure commodity="horse" quantity="1">one young bay filly with a tan
-                    <lb/>in it forehead</measure> further I give to the said Elizabeth Cormichill <measure commodity="livestock" quantity="1">one cow called
+                        <lb/>in it forehead</measure> further I give to the said Elizabeth Cormichill <measure commodity="livestock" quantity="1" xml:id="ElizabethCormichill">one cow called
                     <lb/>and <unclear reason="illegible"></unclear> by the name of black bird</measure>.
                 </p>
-                <p>Item I give and bequeath <measure commodity="livestock" quantity="1">one young heifer</measure> and <measure commodity="livestock" quantity="3">three sterns</measure> for the use and behest 
-                   of she Elizabeth Cormihill
+                <p>Item I give and bequeath <measure commodity="livestock" quantity="1" xml:id="ElizabethCormichill">one young heifer</measure> and <measure commodity="livestock" quantity="3">three sterns</measure> for the use and behest 
+                   of she Elizabeth Cormichill
                 </p>
-                <p>I give also one cow at <persName type="beneficiary">Thomas <surname>Bakers</surname></persName> I purchase of him and all the <unclear reason="illegible"></unclear>
+                <p>I give also <measure commodity="livestock" quantity="1" xml:id="ThomasBakers">one cow</measure> at <persName type="beneficiary" xml:id="ThomasBakers">Thomas <surname>Bakers</surname></persName> I purchase of him and all the <unclear reason="illegible"></unclear>
                     and residence of my Estate whatsoever
                 </p>
                 <p>I give and bequeath to Elizabeth Cormichill, likewise it is my will and desire

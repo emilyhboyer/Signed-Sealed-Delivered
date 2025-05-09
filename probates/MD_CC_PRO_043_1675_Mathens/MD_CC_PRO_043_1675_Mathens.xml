@@ -25,7 +25,7 @@
                 <head rend="align(center)">Thomas Mathens Will</head>
                 <p>In the Name of God Amen. <date>This ninth day of January ano. One thousand 
                     <lb/>Six hundred and seventy five</date> and  in the 44th year of the Dominion of the right 
-                    <lb/>honorable <persName>Cecilius</persName> absolute Lord and proprietor of the <placeName>province of Maryland</placeName> I <persName type="author">Thomas 
+                    <lb/>honorable <persName>Cecilius</persName> absolute Lord and proprietor of the <placeName>province of Maryland</placeName> I <persName type="author" xml:id="ThomasMathens">Thomas 
                     <lb/>Mathers</persName> of <placeName>Charles County</placeName> in the province of aforesaid Gentry being sick and weake 
                     <lb/>in body but of sound and perfect memory praise be to god for the same and 
                     <lb/>Knowing the uncertainty of this life and being
@@ -43,29 +43,29 @@
                     <lb/>renounce <unclear reason="illegible">frustrait</unclear> and make void all wills by me formely made ad declare
                     <lb/>and appoint this my last will and testament.
                 </p>
-                <p><unclear reason="illegible"></unclear> I give and bequeath unto my wife <placeName type="spouse">Jane <unclear reason="illegible"><surname>Mathuse</surname></unclear></placeName> my holl personal Estate that is at
+                <p><unclear reason="illegible"></unclear> I give and bequeath unto my wife <placeName type="spouse" xml:id="JaneMathens">Jane <unclear reason="illegible"><surname>Mathens</surname></unclear></placeName> my holl personal Estate that is at
                     <lb/><placeName>Port Tobacco</placeName> that is to say all manner of things for the good of her and my childring
-                    <lb/>and I do give and bequeath to her my wife <measure commodity="land" quantity="300" unit="acre">Three hundred acres of Land called the
+                    <lb/>and I do give and bequeath to her my wife <measure commodity="land" quantity="300" unit="acre" xml:id="JaneMathens">Three hundred acres of Land called the
                     <lb/><unclear reason="illegible">Lunchelbury Swamp</unclear></measure> or <unclear reason="illegible">bulky </unclear> lying in <placeName>Charles County</placeName> and I give and bequeath
-                    <lb/>to my son <persName type="son">Thomas <surname>Mathens</surname></persName> <measure commodity="land" quantity="700" unit="acre">Seven hundred acres of land</measure> being part of a thousand
+                    <lb/>to my son <persName type="son" xml:id="ThomasMathens">Thomas <surname>Mathens</surname></persName> <measure commodity="land" quantity="700" unit="acre" xml:id="ThomasMathens">Seven hundred acres of land</measure> being part of a thousand
                     <lb/>acres of Land lying upon Matawoman branches and that he have that part
-                    <lb/>which he hath already sealed upon and I give to my D. Capt. Bormans wife
-                    <lb/><measure commodity="land" quantity="300" unit="acre">three hundred acres of land</measure> which is the remainder of that I give my son Thomas
+                    <lb/>which he hath already sealed upon and I give to my D. <persName type="daughter" xml:id="MaryBorman">Capt. Bormans wife</persName>
+                    <lb/><measure commodity="land" quantity="300" unit="acre" xml:id="MaryBorman">three hundred acres of land</measure> which is the remainder of that I give my son Thomas
                     <lb/>and to him and his heirs forever and to her heirs forever I do alsoe give
                     <lb/><catchwords>and</catchwords>
                     <pb/>
                     <lb/>and bequeath to my son Thomas Mathens and to my D. after <persName type="daughter">Mary 
-                    <lb/><surname>Borman</surname></persName> <measure commodity="land" quantity="255" unit="acre">two hundred and fifty five acres of Land</measure> lying at <placeName>St. Maries
+                    <lb/><surname>Borman</surname></persName> <measure commodity="land" quantity="255" unit="acre" xml:id="ThomasMathens">two hundred and fifty five acres of Land</measure> lying at <placeName>St. Maries
                     <lb/>Hill</placeName> threshold <unclear reason="illegible">Early</unclear> to be divided between them to them and their heirs
-                    <lb/>forever and I give to my wife Jane Mathews <measure commodity="land" quantity="400" unit="acre">four hundred acres of
-                    <lb/>Land</measure> lying at Capt. Bonman <measure commodity="livestock" quantity="3">three cows</measure> and <measure commodity="livestock" quantity="3">three yearling calves</measure> and <measure commodity="livestock" quantity="5">five
+                    <lb/>forever and I give to my wife Jane Mathens <measure commodity="land" quantity="400" unit="acre" xml:id="JaneMathens">four hundred acres of
+                    <lb/>Land</measure> lying at Capt. Borman <measure commodity="livestock" quantity="3" xml:id="JaneBorman">three cows</measure> and <measure commodity="livestock" quantity="3" xml:id="JaneBorman">three yearling calves</measure> and <measure commodity="livestock" quantity="5" xml:id="JaneBorman">five
                     <lb/>stears about four years</measure> of that belongs to the plantation of <placeName>S. Ellins</placeName>
                     <lb/>and to my wife I give and bequeath all the other things that belongs to
                     <lb/>the said plantation of <placeName>St. Ellins</placeName> that is Tobacco Debts or other things
                     <lb/>whatsoever that shall be due to mee. and I doe further make Constitute
                     <lb/>and afront m head and loving wife Jane Mathews my Executor to see
                     <lb/>this my will performed but if in Case my wife should dy before me then
-                    <lb/>it is my will that my son Thomas Mathews and <persName type="son-in-law">Capt. William Borman</persName>
+                    <lb/>it is my will that my son Thomas Mathens and <persName type="son-in-law">Capt. William Borman</persName>
                     <lb/>be Executor of this my will to see it performed in testimony and witness
                     <lb/>whereof I have hereunto set my hand and seal this day and year above
                     <lb/>said

@@ -23,13 +23,13 @@
         <body>
             <div>
                 <head rend="align(center)">John Cage Will</head>
-                <p>In the name of God Amen. I <persName type="author">John Cage</persName> of <placeName>Charles County in the
+                <p>In the name of God Amen. I <persName type="author" xml:id="JohnCage">John Cage</persName> of <placeName>Charles County in the
                     <lb/>province of Maryland</placeName> planter though sick and weak in body yet sound 
                     <lb/>and perfect in memory bequeath my soule to God that gave me it &amp; my
                     <lb/>body to the earth and for my temporal Estate what God hath been pleased
                     <lb/>to endow me with all I desire it may be dispersed as followeth
                 </p>
-                <p><unclear reason="illegible"></unclear> my will and desire is that my dear and well beloved wife <persName type="spouse">Susannah       
+                <p><unclear reason="illegible"></unclear> my will and desire is that my dear and well beloved wife <persName type="spouse" xml:id="SusannahCage">Susannah       
                 <lb/><surname>Cage</surname></persName> should be my sole Executor of all my personal Estate and after my
                     <lb/>Just and lawfull Debts be paud to disperse of it as she shall think fit
                     <lb/><catchwords>secondly</catchwords>
@@ -37,17 +37,17 @@
                 </p>
                 <p>Secondly I give and bequeath unto my Executor before named my now Dwelling
                     <lb/>plantation situated &amp; lying upon the <unclear reason="illegible"></unclear> of <placeName>Nicheocomics River</placeName> by estimation
-                    <lb/>Layd out for <measure commodity="plantation" quantity="300" unit="acre">three hundred acres more or less</measure> for <unclear reason="illegible"></unclear> &amp; <unclear reason="illegible"></unclear> to profit
+                    <lb/>Layd out for <measure commodity="plantation" quantity="300" unit="acre" xml:id="SusannahCage">three hundred acres more or less</measure> for <unclear reason="illegible"></unclear> &amp; <unclear reason="illegible"></unclear> to profit
                     <lb/>and enjoy during her natural life and after her decrease unto my beloved 
-                    <lb/>son <persName type="eldestson">John <surname>Cage</surname></persName> unto him and his heirs forever but if the said John Cage shall
+                    <lb/>son <persName type="eldestson" xml:id="JohnCage">John <surname>Cage</surname></persName> unto him and his heirs forever but if the said John Cage shall
                     <lb/>die without heirs Lawfully begotten by him or before he come to the age of one
                     <lb/>&amp; twenty years then my will is that the aforementioned land goe unto my
-                    <lb/>younger son <persName type="youngestson">Willaim <surname>Cage</surname></persName> him and his heirs forever.
+                    <lb/>younger son <persName type="youngestson" xml:id="WilliamCage">Willaim <surname>Cage</surname></persName> him and his heirs forever.
                 </p>
-                <p>Thirdly I give unto my Daughter <persName type="daughter">Margery <surname>Rowland</surname></persName> <measure commodity="horse" quantity="1">one young bay horse <unclear reason="illegible"></unclear> &amp; marked
+                <p>Thirdly I give unto my Daughter <persName type="daughter" xml:id="MargeryCage">Margery <surname>Rowland</surname></persName> <measure commodity="horse" quantity="1" xml:id="MargeryCage">one young bay horse <unclear reason="illegible"></unclear> &amp; marked
                     <lb/>on the rear buttock with G two years old or thereabouts</measure>
                 </p>
-                <p>Fourthly I give and bequeath unto my Daughter <persName type="daughter"><unclear reason="illegible">Voider</unclear></persName> <measure commodity="livestock" quantity="2">two chicekn</measure> each of them one <measure commodity="livestock" quantity="2"></measure>two
+                <p>Fourthly I give and bequeath unto my Daughter <persName type="daughter" xml:id="VoiderCage"><unclear reason="illegible">Voider</unclear></persName> <measure commodity="livestock" quantity="2">two chickens</measure> each of them one <measure commodity="livestock" quantity="2"></measure>two
                     <lb/>year old heffer marked with my one proper mark and to be delivered this spring
                     <lb/>In oewing with all their increase.
                 </p>

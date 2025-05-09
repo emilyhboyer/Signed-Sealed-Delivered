@@ -23,8 +23,8 @@
         <body>
             <div>
                 <head rend="align(center)">Richard Midgly Will</head>
-                <p>November 18th, 1676 In the name of God Amen I Richard Midgly of
-                    <lb/>Charles County in the province of Maryland being at present very sick &amp; weak of body
+                <p>November 18th, 1676 In the name of God Amen I <persName type="author" xml:id="RichardMidgly">Richard Midgly</persName> of
+                    <lb/><placeName>Charles County in the province of Maryland</placeName> being at present very sick &amp; weak of body
                     <lb/>but of sound &amp; perfect memory, and knowing the uncertainty of this transitory Life
                     <lb/>for such one Estate as it hath Please the almighty God to bestow upon me I am 
                     <lb/>willing to disperse of it in manner &amp; form of following-
@@ -44,7 +44,7 @@
                 <p>Fourthly It is my will &amp; desire that after all my Just Debts is paid I do fully &amp; bequeath
                     <lb/><catchwords>unto</catchwords>
                     <pb/>
-                    <lb/>unto my wife <persName type="spouse">Elizabeth <surname>Midgly</surname></persName> to her heis Executors Aministrators
+                    <lb/>unto my wife <persName type="spouse" xml:id="ElizabethMidgly">Elizabeth <surname>Midgly</surname></persName> to her heis Executors Aministrators
                     <lb/>and <unclear reason="illegible"></unclear> and half of my Estate <unclear reason="illegible">clare</unclear> of all Charges only if that it be
                     <lb/>the pleasure of almighty good tht I shall dee my wife for to pay for
                     <lb/>half my funeral charges &amp; also the other half of my estate I doe fully
@@ -53,18 +53,18 @@
                     <lb/>see that my wife Elizabeth Midgly neither of my Creditors bee not depraved
                     <lb/>of what is their just doo.
                 </p>
-                <p>Fifthly. I doe give unto Elizabeth Midgly my wife a <unclear reason="illegible">mayd</unclear> servant named <persName><unclear reason="illegible">Bellsie</unclear>
-                    <lb/><surname>Clark</surname></persName> &amp; also my <measure commodity="furniture" quantity="1">chest</measure> &amp; unto my Brother in law <persName type="brother-in-law">Thomas Luger</persName> my <unclear reason="illegible"></unclear>
-                    <lb/>&amp; <measure commodity="weapon" quantity="1"></measure>pistall I doe utterly revoke all former wills made by me and doe affirm
+                <p>Fifthly. I doe give unto Elizabeth Midgly my wife a <unclear reason="illegible">mayd</unclear> servant named <persName type="servant" xml:id="BellsieClark"><unclear reason="illegible">Bellsie</unclear>
+                    <lb/><surname>Clark</surname></persName> &amp; also my <measure commodity="furniture" quantity="1" xml:id="ElizabethMidgly">chest</measure> &amp; unto my Brother in law <persName type="brother-in-law" xml:id="ThomasLuger">Thomas Luger</persName> my <unclear reason="illegible"></unclear>
+                    <lb/>&amp; <measure commodity="weapon" quantity="1" xml:id="ThomasLuger">pistall</measure> I doe utterly revoke all former wills made by me and doe affirm
                     <lb/>this for to be my last will and testament as witness my hand &amp; seal this
                     <lb/>day and year above written
                 </p>
                 <p>witnessed by
-                    <lb/><persName type="witness">Ed. <surname>Maddock</surname></persName>-<persName type="witness">Lewis I. <surname>Jones</surname></persName>
+                    <lb/><persName type="witness">Ed.<surname> Maddock</surname></persName>-<persName type="witness">Lewis I.<surname> Jones</surname></persName>
                     <lb/>sign
                 </p>
                 <p>On the back of the aforegoing will was the following probit (to will)
-                    <lb/>December 22d day 1676 Lewis Hones Being sworn sayth that he did see the
+                    <lb/><date>December 22d day 1676</date> Lewis Hones Being sworn sayth that he did see the
                     <lb/>within mentioned Richard Midgly sign seal and publish this within mentioned
                     <lb/>will and finder saith not-as witness
                     <lb/>4 1/4 sides

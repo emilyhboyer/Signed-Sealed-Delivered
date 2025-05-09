@@ -21,37 +21,36 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)">Charles County</head>
                 <head rend="align(center)">William Allen Will</head>
-                <p>In the name of God Amen I William Allen of <placeName>Charles County</placeName> in the 
+                <p>In the name of God Amen I <persName type="author" xml:id="WilliamAllen"></persName>William Allen of <placeName>Charles County</placeName> in the 
                     <lb/><placeName>province of maryland</placeName> and being weak in body but of perfect minde memory.
                     <lb/>prasied be God for the same doe make &amp; ordaine this my last will &amp;
-                    <lb/>testament I hereby working all farmer [mills?] whatsoever This [unclear] day of 
-                    <lb/>January in the year of our Lord <date>one thousand six hundred sixty nine</date>
+                    <lb/>testament I hereby working all farmer <unclear reason="illegible">wills</unclear> whatsoever This <unclear reason="illegible"></unclear> day of 
+                    <lb/><date>January in the year of our Lord one thousand six hundred sixty nine</date>
                     <lb/>and first of all I bequeath my soule into the hands of almighty God who 
                     <lb/>gave it and my body unto the ground from where it came and for–
                     <lb/>what small estate it haith please God to lend me I desire it may be–
                     <lb/>bestowed in manner following–
                 </p>
                 <p><unclear reason="illegible"></unclear>I give and bequeath all my Estate hereafter <unclear></unclear> unto my Daughter
-                    <lb/><persName type="daughter">Elizabeth <surname>Allen</surname></persName>.</p>
-                <p>Item. I will and bequeath that my wife <persName type="spouse">Martha <surname>Allen</surname></persName> may enjoy my said Estate  
+                    <lb/><persName type="daughter" xml:id="ElizabethAllen">Elizabeth <surname>Allen</surname></persName>.</p>
+                <p>Item. I will and bequeath that my wife <persName type="spouse" xml:id="MarthaAllen">Martha <surname>Allen</surname></persName> may enjoy my said Estate  
                     <lb/>untill my said Daughter comes to age and if it please God to take her before 
                     <lb/>she comes to age I give and bequeath it unto my wife Martha Allen and her heirs 
-                    <lb/>Item I give and bequeath unto my goddaughter <persName type="goddaughter">Mary <surname>Harrison</surname></persName> Daughter of 
-                    <lb/><persName>Joseph Harrison</persName> <measure commodity="livestock" unit="1">one brown cow</measure> commonly called by the name <name>Mealey</name>
+                    <lb/>Item I give and bequeath unto my goddaughter <persName type="goddaughter" xml:id="MaryHarrison">Mary <surname>Harrison</surname></persName> Daughter of 
+                    <lb/><persName>Joseph Harrison</persName> <measure commodity="livestock" unit="1" xml:id="MaryHarrison">one brown cow</measure> commonly called by the name <name>Mealey</name>
                     <lb/>now <unclear reason="illegible"></unclear> about the plantation of <persName>John <surname>Wheeler</surname></persName> together with all her 
                     <lb/>future increase the said cow is <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> on the right ear &amp;
                     <lb/>to her the said [many the heirs?] forever</p> 
-                <p>Item  I give and bequeath unto <persName>Luke <surname>Greene</surname></persName> of <placeName>Charles County</placeName> <measure commodity="livestock" unit="1">one red heifer</measure> age 
+                <p>Item  I give and bequeath unto <persName type="beneficiary" xml:id="LukeGreene">Luke <surname>Greene</surname></persName> of <placeName>Charles County</placeName> <measure commodity="livestock" unit="1" xml:id="LukeGreene">one red heifer</measure> age 
                     <lb/>about two years <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> of the same age being marked with the abovesaid 
                     <lb/>ear mark now <unclear reason="illegible"></unclear> at or about the plantation of <persName>John <surname><unclear reason="illegible">Ash</unclear></surname></persName>
                     <lb/>to him the said Luke Greene &amp; his heirs forever.
                 </p>
-                <p>Item I give and bequeath unto <persName type="nephew">John <surname>Mun</surname></persName> son of <persName type="brother-in-law">John <surname>Mun</surname></persName> <measure commodity="livestock" unit="1">one brown cow</measure> called 
+                <p>Item I give and bequeath unto <persName type="nephew" xml:id="JohnMunJr">John <surname>Mun</surname></persName> son of <persName type="brother-in-law" xml:id="JohnMun">John <surname>Mun</surname></persName> <measure commodity="livestock" unit="1" xml:id="JohnMunJr">one brown cow</measure> called 
                     <lb/>by the name of <name>Double <unclear reason="illegible"></unclear></name> of the <unclear reason="illegible"></unclear> ear mark to him the said John 
                     <lb/>Mun this &amp; his heirs forever. </p>
-                    <p>Item I give and bequeath my <measure commodity="firearm" unit="1">Gun</measure> &amp; <measure commodity="papergoods">Bible</measure> unto <persName>Roger <surname></surname><unclear reason="illegible">Veritas</unclear></persName>- </p>
+                <p>Item I give and bequeath my <measure commodity="weapon" unit="1" xml:id="RogerVeritas">Gun</measure> &amp; <measure commodity="papergoods" xml:id="RogerVeritas">Bible</measure> unto <persName type="beneficiary" xml:id="RogerVeritas">Roger <surname></surname><unclear reason="illegible">Veritas</unclear></persName></p>
                     <p>Item I make &amp; ordaine my brother in Law John Mun Executor of thus my Last 
                     <lb/><catchwords>and</catchwords> 
                     <lb/>and Testament <unclear reason="illegible"></unclear> him to be careful to see it performed In Testimony 

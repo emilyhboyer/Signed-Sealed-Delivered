@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_048_1676_Stone_T." xml:lang="en">Thomas Stone Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Thomas Stone Will</head>
+                <p>I <persName type="author" xml:id="ThomasStone">Thomas Stone</persName> of <placeName>Charles County in the province of maryland</placeName> of <unclear reason="flawed-reproduction"></unclear>
+                    <lb/>body but of perfect memory doe by these presents make thus my last
+                    <lb/>will and testamanet and do make said all other will or wills testament on
+                    <lb/>testaments by me forely made or declared and thus to be taken for my
+                    <lb/>True will and testament amd now after.
+                </p>
+                <p>I make and ordaine my love wife <persName type="spouse" xml:id="MaryStone">Mary <surname>Stone</surname></persName> my sole Executor for the
+                    <lb/>use and behold of my dear sons <persName type="son" xml:id="WilliamStone">William <surname>Stone</surname></persName> and <persName type="son" xml:id="RichardStone">Richard <surname>Stone</surname></persName> <unclear reason="flawed-reproduction"></unclear>
+                    <lb/>I give unto my dear son Richard Stone that <measure commodity="plantation" xml:id="RichardStone">plantation</measure> that is now in
+                    <lb/>possession of <persName>Simon Stevens</persName> after his lease is expird also all that land
+                    <lb/>of mine running from the said plantation up the main branch untill it
+                    <lb/>comes up to the main Rpad and there to bound and from there with <unclear reason="illegible">alone</unclear>
+                    <lb/>drawn East untill it comes to <unclear reason="illegible">Matawoman</unclear> path that goes <unclear reason="illegible">cross</unclear> the main
+                    <lb/>Road there to bound and from there running South untill it comes down
+                    <pb/>the head of a branch called <placeName>White Marsh</placeName> <unclear reason="illegible">lying</unclear> there <unclear reason="illegible">east</unclear> Richard <unclear reason="illegible"></unclear>
+                    <lb/>and Simon Stevens his and after decease to be laid out by my Exec.
+                    <lb/>within five months for the use of my son Richard Stone it being part of
+                    <lb/>Pognton Manner.
+                </p>
+                    <p>I give unt o my sonn William Stone all the other my land and plantation as
+                        <lb/>alsoe my <unclear reason="illegible">new</unclear> negro woman <persName type="enslaved" xml:id="Margrett">Margrett</persName> and my <measure commodity="horse" quantity="1">black mares filly</measure> for his use <unclear reason="illegible"></unclear> on my
+                        <lb/>now plantation with her increase and <measure commodity="livestock" quantity="3" xml:id="WilliamStone">three cow</measure> and <measure commodity="livestock" quantity="3" xml:id="WilliamStone">three sowes</measure> <measure commodity="livestock" quantity="1" xml:id="WilliamStone">one feather hen</measure> &amp;
+                        <lb/><measure commodity="furniture"><catchwords>furniture</catchwords></measure>.
+                        <pb/>
+                        <lb/>furniture and also my <measure commodity="houseware" quantity="1" xml:id="WilliamStone"></measure>silver tankard to be delievered to my son William
+                        <lb/>Stone when he shall arive at the age of eighteen as also my sons sae
+                        <lb/>life him shall be delieverd to the said William Stone at the age of
+                        <lb/>eighteen and if he die them t Richard Stone.
+                    </p>
+                <p>I give unto my son Richard Srone my <persName type="enslaved">negro man</persName> and <measure commodity="horse" quantity="1" xml:id="RichardStone">one maine
+                <lb/>fily</measure> this year to be bought and my Executor and to own on my plantation 
+                <lb/>with her increase for the use of my son Richard as also <measure commodity="livestock" quantity="3" xml:id="RichardStone">three cows</measure> &amp;
+                <lb/><measure commodity="livestock" quantity="3">three sowes</measure> and my <measure xml:id="RichardStone"><unclear reason="illegible">silver salt </unclear></measure> them to be delieverd to him when he shall
+                <lb/>arrive at the age of eighteen and that his land may the be delievered to him
+                    <lb/>and if he happen to die before he arrive to the age of eighteen the the said
+                    <lb/>land ad chattles to be son William Stone I give to Richard <measure commodity="furniture" quantity="1" xml:id="RichardStone">one
+                    <lb/>feather bed</measure> and <unclear reason="illegible"></unclear>
+                </p>
+                <p>I give unto my Executor all the remainder of my <unclear reason="illegible"></unclear> goods and chattles
+                    <lb/>the finding my sons maintainance and Education and that they be
+                    <lb/>not charged for any thing but have their legars <unclear reason="illegible"></unclear> when they shall
+                    <lb/>arrive at the age of eighteen as witness my land and seal this the <date>four and
+                    <lb/>twentieth day of april in the year of our Lord One Thousand six hundred
+                    <lb/>seventy six</date>
+                </p>
+                <p>Signed sealed
+                    <lb/>In the presence of us
+                    <lb/><persName type="witness">John Stone</persName>
+                    <lb/><persName type="witness">Elizabeth Stone</persName>
+                    <lb/><signatures>Thomas Stone</signatures>
+                </p>
+                <p>
+                    <lb/>On the back of the aforegoing will was Endorsed the folly &amp; probate <unclear reason="illegible">by</unclear>
+                    <lb/>Maryland <unclear reason="illegible">Js.</unclear> <date>Sept. 25th 1676</date> by vitue of a commission from the
+                    <lb/>judge in testantary casues within the province dated the <date>12th day of
+                    <lb/>1676</date> I called before me John Stone and Elizabeth Stone witnesses to the within
+                    <lb/>written will who proved the same by this oaths before me
+                    <lb/>5 1/2
+                    <lb/>Benj. a Rogers
+                </p>
+                
+            </div>
+        </body>
+    </text>
+</TEI>

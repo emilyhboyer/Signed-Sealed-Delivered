@@ -23,7 +23,7 @@
         <body>
             <div>
                 <head rend="align(center)">Samuel Crefsey. Will</head>
-                <p>In the name of God Amen. I <persName type="author">Samuel Crefsey</persName> of <placeName>Charles County</placeName> being very
+                <p>In the name of God Amen. I <persName type="author" xml:id="SamuelCrefsey">Samuel Crefsey</persName> of <placeName>Charles County</placeName> being very
                     <lb/>sick and weake of body but praised be good for the same of sound and perfect
                     <lb/>emory do make ordaine &amp; constitute this my last will and testament in
                     <lb/>manner and form following first I bequeath my soul into the hands of almighty
@@ -35,21 +35,21 @@ Savior
                     <pb/>
                     
                     <lb/>Jesus Christ to obtain pardon and <unclear reason="illegible">profession</unclear> of all my offenses next I give and
-                    <lb/>bequeath unto <persName type="beneficiary">George <surname>Robertson</surname></persName> <measure commodity="horse" quantity="1">one young bay horse branded with SC on
-                    <lb/>rear buttock about thee years of age know by the name of <name>Robin</name></measure> and <measure commodity="livestock" quantity="1">one
+                    <lb/>bequeath unto <persName type="beneficiary" xml:id="GeorgeRobertson">George <surname>Robertson</surname></persName> <measure commodity="horse" quantity="1" xml:id="GeorgeRobertson">one young bay horse branded with SC on
+                    <lb/>rear buttock about thee years of age know by the name of <name>Robin</name></measure> and <measure commodity="livestock" quantity="1" xml:id="GeorgeRobertson">one
                     <lb/>yearling cow calf that came of <unclear reason="illegible"></unclear> Called <name>Cole</name></measure> and one small <unclear reason="illegible">gunt</unclear> that
                     <lb/>the Indian hath out to hunt and I desire that he may be sent down to
-                    <lb/><persName type="beneficiary">Robert <surname>Thomas</surname></persName> his wife son have hes head cured at the spring of the year
+                    <lb/><persName type="beneficiary" xml:id="RobertThomas">Robert <surname>Thomas</surname></persName> his wife son have hes head cured at the spring of the year
                     <lb/>next I desire all my Just Debts may be well and truly satisfied and
                     <lb/>for what land I hold in  the pronvince I doe give and bequeath unto my two
-                    <lb/>Daughters <persName type="daughter">Mary</persName> and <persName type="daughter">Susanna</persName> when they shall come to years of Age
+                    <lb/>Daughters <persName type="daughter" xml:id="MaryCrefsey">Mary</persName> and <persName type="daughter" xml:id="SusannaCrefsey">Susanna</persName> when they shall come to years of Age
                     <lb/>Likewise the remainder of my Estate I give and bequeath every part &amp; parcel thereof
                     <lb/>to my said two Daughters to be equally divided beween them when thet come 
                     <lb/>to years of <unclear reason="illegible">disifson</unclear>.
                 </p>
-                <p>And I do hereny nominate and appoint <persName type="executor">Richard <surname>Edelin</surname></persName> my loving friend
+                <p>And I do hereny nominate and appoint <persName type="executor" xml:id="RichardEdelin">Richard <surname>Edelin</surname></persName> my loving friend
                     <lb/>to see this my last will and testament performed to whome I doe bequeath
-                    <lb/><measure commodity="jewelry" quantity="1">one seale ring</measure> sent me out of <placeName>England</placeName> but as <unclear reason="illegible">yet</unclear> on board <persName>Capt. Paine</persName>
+                    <lb/><measure commodity="jewelry" quantity="1" xml:id="RichardEdelin">one seale ring</measure> sent me out of <placeName>England</placeName> but as <unclear reason="illegible">yet</unclear> on board <persName>Capt. Paine</persName>
                     <lb/>hereby revoking all former or other wills by me made  In witness whereof
                     <lb/>I have hereunto set my hand and seal this <date>21st of January 1676</date>.
                 </p>

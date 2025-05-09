@@ -24,8 +24,8 @@
             <div>
                 <head rend="align(center)">Elizabeth Lilly. Will.</head>
                 <p>In the name of God Amen. The 15th day of November 1676. in
-                    <lb/>the 28th of the Reigne &amp;c I Elizabeth Lilly of Charles County in the pronvince of
-                    <lb/>maryland sick of body but of sound and perfect memory praise be given to god
+                    <lb/>the 28th of the Reigne &amp;c I <persName type="author" xml:id="ElizabethLilly">Elizabeth Lilly</persName> of <placeName>Charles County in the pronvince of
+                    <lb/>maryland</placeName> sick of body but of sound and perfect memory praise be given to god
                     <lb/>for the <unclear reason="illegible">fame</unclear> and knowing the uncertainty of this life on earth and being 
                     <lb/>desirous to settle things in order do make this my last will and testament
                     <lb/>in manner and form following <unclear reason="illegible">viz.</unclear> First and princpally I commend my soule
@@ -43,7 +43,7 @@
                     <lb/>shall be well and truly paid in convenient time after my decease by my Executor
                     <lb/>beneath named.
                 </p>
-                <p>Item I give and bequeath to my lo. father in law <persName type="father-in-law">Peter <surname>Carr</surname></persName> all &amp; all manner of Estate
+                <p>Item I give and bequeath to my lo. father in law <persName type="father-in-law" xml:id="PeterCarr">Peter <surname>Carr</surname></persName> all &amp; all manner of Estate
                     <lb/>virg. Lands chattles moveables &amp; Immoveables whatsoever to him and his heirs forever 
                 </p>
                 <p>Item I nominate and appoint my aforesaid father in law Peter Carr my whole and 
