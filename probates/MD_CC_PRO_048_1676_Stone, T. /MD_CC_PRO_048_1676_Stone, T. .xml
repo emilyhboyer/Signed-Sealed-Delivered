@@ -23,7 +23,7 @@
         <body>
             <div>
                 <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
+                <p>I Thomas Stone in 
                     <lb/>
                 </p>
             </div>
