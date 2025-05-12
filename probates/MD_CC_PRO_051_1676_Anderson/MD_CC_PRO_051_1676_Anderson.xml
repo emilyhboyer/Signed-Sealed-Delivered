@@ -4,10 +4,10 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_051_1676_Anderson" xml:lang="en">John Anderson. Will.</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
-                <editor></editor>
+                <editor>Emily Boyer</editor>
             </titleStmt>
             <publicationStmt>
                 <publisher>Signed Sealed Delivered</publisher>
@@ -22,8 +22,10 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
+                <head rend="align(center)">John Anderson. Will.</head>
+                <p>In the name of God Amen I <persName type="author" xml:id="JohnAnderson">John <surname>Anderson</surname></persName> of <placeName>Charles County in
+                <lb/>Potucent River</placeName> planter being sick &amp; weake but of perfect minde and memory have
+                    <lb/>
                     <lb/>
                 </p>
             </div>
