@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="MD_CC_PRO_052_1676_Jones" xml:lang="en">Richard Jones Will.</title>
+                <title xml:id="MD_CC_PRO_052_1686_Jones" xml:lang="en">Richard Jones Will.</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -128,11 +128,49 @@
                     </row>
                     
                     <row role="data">
-                        <cell></cell>
+                        <cell><persName type="beneficiary" xml:id="MrDais">Mr. <unclear reason="illegible">Daies</unclear></persName></cell>
+                        <cell><measure quantity="400" xml:id="MrDais"></measure></cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell>Total</cell>
+                        <cell>6132</cell>
                     </row>
                 </table>
-                    
-               
+                </p>
+                <p>In witness to the above mentioned <unclear reason="illegible"></unclear> I doe hereunto set my hand and
+                    <lb/>seal this present day being the <date>twenty sixth of January 1685</date>
+                </p>
+                <p>Signed Sealed &amp; Delivered
+                    <lb/>his
+                    <lb/><persName type="witness">Edward R <surname>Golf</surname></persName>
+                    <lb/>mark
+                    <lb/>his
+                    <lb/><persName type="witness">Thomas <unclear><surname>Bumpop</surname></unclear></persName>
+                    <lb/>mark
+                    <lb/><persName type="witness">Edward <surname>Potter</surname></persName>
+                    <lb/>my son to have three years schooling
+                    <lb/><signatures>Richard R. Jones</signatures>
+                </p>
+                <pb/>
+                <p>
+                    <table>
+                        <row role="data">
+                            <cell><persName type="beneficiary" xml:id="RalphBarttlett">Ralph <surname>Barttlett</surname></persName></cell>
+                        <cell>D.</cell>
+                        </row>
+                        
+                        <row role="data">
+                            <cell>To one pare of French <unclear reason="illegible"></unclear></cell>
+                            <cell>070</cell>
+                        </row>
+                    </table>
+                </p>
+                <p>On the back of the foregoing was endorsed the following probate <unclear reason="illegible"></unclear>
+                    <lb/><date>April the 19th 1686</date> then this within mentioned will was proved
+                    <lb/>before me by the oaths of Edward Golf Thomas <unclear reason="illegible"></unclear> &amp;Edward Potter
+                    <lb/>5 1/4 sides
+                    <lb/><signatures>John <surname>Stone</surname></signatures>
                     
                 </p>
             </div>
