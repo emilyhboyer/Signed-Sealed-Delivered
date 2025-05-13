@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_052_1676_Jones" xml:lang="en">Richard Jones Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Richard Jones Will.</head>
+                <p>In the Name of God AMen. I <persName type="author" xml:id="RichardJones">Richard <surname>Jones</surname></persName> of <placeName>Charles County
+                <lb/>in the province of Maryland</placeName> lying very sick and weake but of perfect
+                    <lb/>minde &amp; memory blessed be to God for I doe hereby make this my last
+                    <lb/>will and testament in manner &amp; form followeth.
+                </p>
+                <p><unclear reason="illegible"></unclear> I commit my soule to God the father of our Lord Jesus Christ by whome
+                    <lb/><unclear reason="illegible"></unclear> Death &amp; passion I hope for salvation.
+                </p>
+                <p>I give and bequeath unto my son <persName type="son" xml:id="RichardJonesJr">Richard <surname>Jones</surname></persName> item <measure commodity="livestock" ><unclear reason="illegible">cows</unclear> mare to
+                    <lb/>be under three years of age</measure> and then to enjoy the benefit of his Estate in
+                    <lb/>his own hands and to bee free from all servitude at he age of sixteen
+                    <lb/>either from his mother or any other person whatsoever.
+                </p>
+                <p>I give and bequeath unto my Daughter <persName type="daughter">Ann <surname>Jones</surname></persName> <unclear reason="illegible">item</unclear> <measure commodity="livestock">cows more to bee
+                <lb/>under three year old</measure> and to enjoy the Benefit of the <unclear reason="illegible"></unclear> at sixteen years
+                    <lb/>old and to have the free possession of them in her own hands to be free
+                    <lb/>from all servitude either from her mother or any other person whatsoever
+                    <lb/>that is if my son or Daughter will not stay with their mother after the
+                    <lb/>age of sixteen and till they are ---- at sixteen they shall live
+                    <lb/>with their mother.
+                </p>
+                <p>I give and bequeath to my son Richard <measure commodity="tool" quantity="1" xml:id="RichardJonesJr">one Iron hot</measure> <measure commodity="weapon" quantity="2" xml:id="RichardJonesJr">two guns</measure>
+                    <lb/><measure commodity="houseware" quantity="6" xml:id="RichardJonesJr">six puter dishes</measure> &amp; <measure commodity="houseware" quantity="6" xml:id="RichardJonesJr">six silver plates</measure> <unclear reason="illegible"></unclear> <measure commodity="horse"  quantity="1" xml:id="RichardJonesJr">one bat maire with
+                    <lb/><unclear reason="illegible">ablaze</unclear> in her face aged about six years</measure> with her <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> and she and 
+                    <lb/>her increase to <unclear reason="illegible"></unclear> for the use of the said Richard &amp; Ann Jones well they 
+                    <lb/><catchwords>come</catchwords>
+                    <pb/>
+                    <lb/>come at the age of sixteen and then the maine and her increase to bee
+                    <lb/>equally divided between them
+                </p>
+                <p>I further more I doe make my loving wife <persName type="spouse" xml:id="JaneJones">Jane <surname>Jones</surname></persName> my whole &amp; sole
+                    <lb/>Executor of all that worldly Estate that God hath been pleased to <unclear reason="illegible"></unclear>
+                    <lb/>upon mee all my goods &amp; chattles within <unclear reason="illegible"></unclear> and without &amp; desire
+                    <lb/>what Debts in due to me &amp; likewise to pay all such Debts that I am
+                    <lb/>indebted &amp; to bury me in a decent manner. all besdies what I give to my 
+                    <lb/>Children.
+                </p>
+                <p>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
