@@ -23,7 +23,7 @@
         <body>
             <div>
                 <head rend="align(center)">Richard Jones Will.</head>
-                <p>In the Name of God AMen. I <persName type="author" xml:id="RichardJones">Richard <surname>Jones</surname></persName> of <placeName>Charles County
+                <p>In the Name of God Amen. I <persName type="author" xml:id="RichardJones">Richard <surname>Jones</surname></persName> of <placeName>Charles County
                 <lb/>in the province of Maryland</placeName> lying very sick and weake but of perfect
                     <lb/>minde &amp; memory blessed be to God for I doe hereby make this my last
                     <lb/>will and testament in manner &amp; form followeth.
@@ -60,7 +60,79 @@
                     <lb/>indebted &amp; to bury me in a decent manner. all besdies what I give to my 
                     <lb/>Children.
                 </p>
-                <p>
+                <p>I doe now declare before God and the world what is Justly due to me that 
+                    <lb/>is without <unclear reason="illegible"></unclear>.
+                </p>
+                <p><table>
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="HumphreyJones">Mr. Humphrey <surname>Jones</surname></persName> <measure quantity="400" xml:id="HumphreyJones">four hundred and <unclear reason="illegible">cask</unclear></measure>
+                        </cell>
+                        <cell>400</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="ThomasB">Thomas <surname><unclear reason="illegible">B</unclear></surname></persName> <measure quantity="490" xml:id="ThomasB">four hundred and ninety</measure>
+                        </cell> 
+                        <cell>490</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="JohnSmith">John <surname>Smith</surname></persName> Carpenter <measure quantity="1200" xml:id="JohnSmith">twelve hundred</measure>
+                        </cell>
+                        <cell>1200</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="JohnAllen"></persName> <measure quantity="400" xml:id="JohnAllen">four hundred</measure>
+                        </cell>
+                        <cell>400</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="DH"><unclear reason="illegible">D</unclear> <unclear reason="illegible">H</unclear></persName> <measure quantity="1360" xml:id="DH"></measure>thirteen hundred and sixty
+                        </cell>
+                        
+                        <cell>1360</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="FrancisChumly">Francis <surname>Chumly</surname></persName> <measure quantity="462" xml:id="FranicChumly">four hundred and sixty two</measure>
+                        </cell>
+                        
+                        <cell>462</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="DomindagoGambrell">Domindago Gambrell</persName></cell>
+                        <cell><measure quantity="420" xml:id="DomindagoGambrell"></measure>420</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="MrDent">Mr. <surname>Dent</surname></persName></cell>
+                        <cell><measure quantity="400" xml:id="MrDent"></measure>400</cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="RobertDoyner"></persName>Mr. Robert <surname>Doyner</surname></cell>
+                    <cell><measure quantity="400" xml:id="RobertDoyner">400</measure></cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="RichardBowton">Richard <surname>Bowton</surname></persName></cell>
+                    <cell><measure quantity="200" xml:id="RichardBowton">200</measure></cell>
+                    </row>
+                    
+                    <row role="data">
+                        <cell><persName type="beneficiary" xml:id="MrBread">Mr. <unclear reason="illegible">Bread</unclear></persName> <measure commodity="crop" quantity="3" xml:id="MrBread">Three Barrells od Corn</measure>
+                        </cell> 
+                    </row>
+                    
+                    <row role="data">
+                        <cell></cell>
+                    </row>
+                </table>
+                    
+               
                     
                 </p>
             </div>
