@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_053_1673_Goodrick" xml:lang="en">George Goodrick Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">George Goodrick Will</head>
+                <p>In the name of God Amen. The <date>26th of July anno Dominion
+                <lb/>thousand six hundred seventie three</date> I <persName type="author">George <surname>Goodrick</surname></persName> of <placeName>Charles County
+                <lb/>in the prov. of Maryland</placeName> <unclear reason="illegible">Gen.</unclear> being sick and weake of bodie but of
+                    <lb/>sound and perfect memory praise be given to God and knowing the 
+                    <lb/><catchwords>uncertaintie</catchwords>
+                    <pb/>
+                    <lb/>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
