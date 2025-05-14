@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="MD_CC_Pro_052_1676_Farlum" xml:lang="en">No title</title>
+                <title xml:id="MD_CC_Pro_053_1676_Farlum" xml:lang="en">No title</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <author></author>
                 <editor></editor>
@@ -26,7 +26,9 @@
                 <p><placeName>Maryland</placeName> <unclear reason="illegible"></unclear> To the Honorable <persName>Philip <surname>Calvert</surname></persName> Esq. <unclear reason="illegible">Chanull</unclear> and <unclear reason="illegible"></unclear>
                     <lb/>gent. of the <placeName>province of Maryland</placeName>
                 </p>
-                <p>By viture of a commission from the Honorable 
+                <p>By viture of a commission from the Honorable bearing date the <date>ninteenth
+                <lb/>day of may  in the fine year of the Dominion of <placeName>Charles &amp; C</placeName> anno
+                    <lb/>Dom. 1676</date> Improving me <persName type="witness">Benjamin <surname>Rozer</surname></persName>
                     
                 </p>
             </div>
