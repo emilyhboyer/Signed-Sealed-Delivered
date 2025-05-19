@@ -23,7 +23,7 @@
         <body>
             <div>
                 <head rend="align(center)">Giles Cole. Will.</head>
-                <p>In the name of God Amen. I <persName type="author" xml:id="GilesCole">Giles Cole</persName> of <placeName>Charles County</placeName> in the
+                <p>In the name of God Amen. I <persName type="author">Giles Cole</persName> of <placeName>Charles County</placeName> in the
                     <lb/>provence of maryland planter being disparaleley wounded by the Susquehanna
                     <lb/>Indians but of sound and perfect memory praised bee unto almighty God and 
                     <lb/><catchwords>Knowing</catchwords>
@@ -74,7 +74,7 @@
                     <lb/>the mark of
                     <lb/><persName type="witness">Hens. H. <surname>Hall</surname></persName>.
                     <lb/>the mark of 
-                    <lb/>Giles X Cole
+                    <lb/>Giles Cole
                 </p>
                 <p>On the back of the aforegoing will was the following probit (to will)
                     <lb/><date>Oct. 27: 1675</date> <persName type="witness">Henry <surname>Hall</surname></persName> made oath that he saw Giles Cole sign seal and 
