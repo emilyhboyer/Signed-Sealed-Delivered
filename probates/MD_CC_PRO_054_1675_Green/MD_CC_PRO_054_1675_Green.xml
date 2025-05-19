@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_054_1675_Green" xml:lang="en">John Green. Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">John Green Will.</head>
+                <p>In the name of God Amen I <persName type="author">John <surname>Greene</surname></persName> of <placeName>Charless County in the
+                <lb/>province of Maryland</placeName> being very suck and weake of body but in sounds
+                    <lb/>and perfect memory I doe bequeath my body to the earth and my soule
+                    <lb/>to God almighty that gave it hoping by the merits of Jesus Christ
+                    <lb/>to be saved.
+                </p>
+                <p><unclear reason="illegible"></unclear> my will is that all my true and just Debts be satisfied
+                </p>
+                <p>Item I will and bequeath unto <persName type="beneficiary" xml:id="JohnAllen">John <surname>Allen</surname></persName> <measure commodity="land" quantity="300" unit="acre">three hundred acres of land</measure>.
+                    <lb/>and all my bills and Debts that belonges to me and all <measure commodity="houseware" xml:id="JohnAllen"></measure>silver plate
+                    <lb/><catchwords>and</catchwords>
+                    <pb/>
+                    <lb/><unclear reason="illegible">or</unclear> <measure commodity="jewelry" xml:id="JohnAllen">rings</measure> that doth belong to me.
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary" xml:id="WilliamDeane">William <surname>Deane</surname></persName> <measure commodity="land" quantity="200" unit="acre" xml:id="WilliamDeane">two hundred acres of land</measure> with
+                    <lb/><measure commodity="livestock" quantity="1" xml:id="WilliamDeane">one calf</measure>.
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary">William <surname>Stenard</surname></persName> <measure commodity="land" quantity="100" unit="acre">one hundred acres of land</measure> with
+                    <lb/><measure commodity="horse" quantity="1">one mare</measure> and <measure commodity="horse" quantity="1">one fole</measure> <measure commodity="livestock" quantity="1">one cow</measure> and <measure commodity="livestock" unit="1">one calf</measure>. 
+                </p>
+                <p>Item. I give and appoint William Deane and William Stanard to be my 
+                    <lb/>full and hole Executors and to see this my last will and testament hereby
+                    <lb/>performed as witness my hand and seal this <date>twenty seventh day of
+                    <lb/>January Anno. Dom. 1675</date>
+                </p>
+                <p>Testis
+                    <lb/><persName type="witness">John <surname>Deane</surname></persName>.
+                    <lb/><persName type="witness">Richard <surname>Ashew</surname></persName>.
+                </p>
+                <p>On the back of the aforegoing will was endorsed the following probate (to wit)
+                    <lb/><date>Sept. 27th 1676</date> By virtue of a commission from the Judge in Testamentry
+                    <lb/>casues in the <placeName>province of Maryland</placeName> Dated the <date>15th day of June 1676</date>
+                    <lb/>I called before me John Deane and Richard Ashew witnesses to the within <unclear reason="illegible"></unclear>
+                    <lb/>will who the day above within written proved the same by their oaths.
+                    <lb/>2 1/2 sides
+                    <lb/><persName>Benjamin Rozer</persName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

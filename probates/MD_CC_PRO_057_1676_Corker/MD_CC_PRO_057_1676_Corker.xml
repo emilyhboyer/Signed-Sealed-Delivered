@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_057_1676_Corker" xml:lang="en">Thomas Corker. Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Thomas Corker. Will.</head>
+                <p>In the name of God Amen. <date>November 17 day 1676</date>.
+                    <lb/>I <persName type="author">Thomas <surname>Corker</surname></persName> of <placeName>Charles County in the province of Maryland</placeName>
+                    <lb/>being
+                    <lb/>sick in body But of good and perfect memory thanks be to Almighty
+                    <lb/>god and calling to remembrance the uncertain Estate of this 
+                    <lb/>transitory life and that al flesh mud yeild unto Death when
+                    <lb/>it shall please god to call doe make Constitute ordaine and declare
+                    <lb/>this my last will and testament in manner and form following
+                    <lb/>reworking and <unclear reason="illegible">admulling</unclear> by these presents all and very testmanent and 
+                    <lb/>testaments will and wills heretofore by me made and declared
+                    <lb/>either by word or written and this is to be taken only for my last
+                    <lb/>will and testament and none other and first being <unclear reason="illegible">pernitent</unclear> and
+                    <lb/>sorry from the bottom of my heart for my sinns past most humbly
+                    <lb/>desiring <unclear reason="illegible">foregivenets</unclear> of all my sins and that my soule
+                    <lb/>with my body at the general day of resurrection shall rise again
+                    <lb/>with joy and through the merits of Christs Death and passion
+                    <lb/>profets and inherit the kingdom of heaven prepared for his eleet &amp;
+                    <lb/>chosen and my body to be buried in such place wheare it shal please my 
+                    <lb/>Executor hereafter named to appoint and now for the selling of my
+                    <lb/>temporal Estate and such goods chattles and debts as it hath pleased God
+                    <lb/>far above my deserts to bestow whom my I doe order give and disphose
+                    <lb/>the same in manner and form following that is to say first I will that 
+                    <lb/>person or persons what <unclear reason="illegible">saever</unclear> shall be well and truly contented and
+                    <lb/>paid or ordained to be paud within convenient time after my
+                    <lb/>decease <unclear reason="illegible"></unclear> Executor hereafter named.
+                </p>
+                <p><catchwords>Item.</catchwords>
+                    <pb/>
+                    <lb/>Item. I give and bequeath all my hole Estate and personal unto my dear and 
+                    <lb/>Loving wife <persName type="spouse" xml:id="ElizabethCorker">Elizabeth <surname>Corker</surname></persName> doe hereby appoint and ordaine her my
+                    <lb/>heir and sole Executor exception some shall <unclear reason="illegible">Legaires</unclear> hear after mentioned
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary" xml:id="PhillopRogg">Phillop <surname>Rogg</surname></persName> <measure commodity="horse" quantity="1">one brown mare with <unclear reason="illegible"></unclear>
+                    <lb/>in her forehead called by the name of <name>Brammion</name></measure> foaled which <unclear reason="illegible"></unclear> by
+                    <lb/>her side of the said mare hase one if not to have the next that the
+                    <lb/>said mare shall bring
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary" xml:id="BenjaminRozer">Mr. Benjamin <surname>Rozer</surname></persName> <measure></measure>
+                    
+                </p>
+                
+                <p>Utem. I give and bequeath unto <persName type="beneficiary" xml:id="WilliamChandler">Willam <surname>Chandler</surname></persName>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

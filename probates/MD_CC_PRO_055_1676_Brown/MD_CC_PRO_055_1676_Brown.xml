@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_055_1676_Brown" xml:lang="en">Gerrard Brown Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Gerrard Brown Will</head>
+                <p>In the name of God Amen I <persName type="author" xml:id="GerrardBrowne">Gerrard <surname>Brown</surname></persName> of <placeName>Charles County in the province
+                <lb/>of Maryland</placeName> being weake in body but in Perfect sense and Memory. Praised be
+                    <lb/>to Almighty God, First I Bequeath my Soul yo Almight God hoping through
+                    <lb/>the witness of his bitter death &amp; Passion if he will have Mercy upon my sole
+                    <lb/>and What small Estate it hath please God to bustow upon me I am Willing it
+                    <lb/>should be bestowed as followith First bequeath my soul to god &amp; my body to the
+                    <lb/>Earth Item I bequeath to my son <persName type="son" xml:id="JohnBrowne">John <surname>Brown</surname></persName> that <measure commodity="land" quantity="100" unit="acre" xml:id="JohnBrowne">Hundred</measure> Acres of Land
+                    <lb/>in <placeName>Criston templeman</placeName>. &amp; likewise a <measure commodity="horse" quantity="1">gray mare</measure> &amp; <measure commodity="horse" quantity="1" xml:id="JohnBrowne">filly colt</measure> that is with <unclear reason="illegible">hu</unclear>
+                    <lb/>at this time &amp; likewise give too <measure commodity="livestock" quantity="2">two year Old heigers</measure> on being called <name><unclear reason="illegible">sock</unclear> Tobacco</name>
+                    <lb/>&amp; the other none - &amp; <measure commodity="plantation" xml:id="JackBrowne">fourth plantation </measure> that I now live upon I give &amp; bequeath
+                    <lb/>to my Loving wife <persName type="spouse" xml:id="MatthewBrowne">Matthew <surname>Browne</surname></persName> During her Life &amp; likewise the <measure commodity="horse" quantity="1" xml:id="MatthewBrowne">Black Horse
+                    <lb/>called <name>Jack</name></measure> &amp; likewise  I give &amp; bequeath to my said Wife <measure commodity="livestock" quantity="1" xml:id="MatthewBrowne">One cow</measure> &amp; <measure commodity="livestock" quantity="1" xml:id="MatthewBrowne">calf called
+                    <lb/><name>Strawberry</name></measure>. Item I give and bequeath to my daughter <persName type="daughter" xml:id="JaneBrown">Jane <surname>Browne</surname></persName> <measure type="livestock" quantity="2" xml:id="JaneBrowne"><unclear reason="illegible">two sows</unclear>
+                    <lb/>on being called <name>Cherry</name> and the other <name>Mad Calf</name></measure> &amp; likewise <measure commodity="horse" quantity="1" xml:id="JaneBrowne">one black Horse</measure> about
+                    <lb/>a year old with two whole <unclear reason="illegible"></unclear> &amp; a Black <unclear reason="illegible">dorn</unclear> his Face.
+                </p>
+                <p>Item I give and bequeath to my Daughter <persName type="daughter">Mary <surname>Browne</surname></persName> a <measure type="land" quantity="150" unit="acre">Hundred &amp; Fifty Acres
+                <lb/>of Land called <name>Marchart Wailes Hall</name></measure>. Likewise I give her <measure commodity="horse" quantity="1" xml:id="MaryBrowne">one young
+                <lb/>Horse</measure> two years Old being cropt on the left ear &amp; <unclear reason="illegible">ovor</unclear> calved on the Right
+                    <lb/>&amp; likewise I give my said Daughter Mary on <measure commodity="livestock" quantity="1" xml:id="MaryBrowne">Red Cow</measure> being of a <unclear reason="illegible">yellowith</unclear>
+                    <lb/><catchwords>Red</catchwords>
+                    <pb/>Red, and <measure commodity="livestock" quantity="2" xml:id="MaryBrowne">two yearling brown Heifers</measure>. Likewise I give to my Children, John
+                    <lb/>Brown &amp; Mary Brown two <unclear reason="illegible">sors</unclear> a peace, &amp; what
+                    <lb/>House stuff there is to be Equally dispersed among them all &amp; I give
+                    <lb/>and Bequeuath to <persName type="beneficiary" xml:id="JohnGodshall">John <surname>Godshall</surname></persName> my <measure commodity="weapon" quantity="1" xml:id="JohnGodshall">suskehannah gunn</measure> if the
+                    <lb/>said John Godshall <unclear reason="illegible">haveth</unclear> and if the said John Godshall Dies I
+                    <lb/>doe give &amp; bequeath the said Gunn, to <persName type="beneficiary">Edward <surname>Roberts</surname></persName>, &amp; further if
+                    <lb/>Any of my said Children Either John Jane or Mary die before they 
+                    <lb/>be Equally divided between the other share &amp; share at the said for John Brown
+                    <lb/>if he thinks good to <unclear reason="illegible">churn</unclear> his garden, whom he <unclear reason="illegible"></unclear> to the full time
+                    <lb/>of Fourteen years of Age. &amp; I doe further make my loving wife Martha
+                    <lb/>Brown fuly &amp; soley Executor of this my last will &amp; testament making 
+                    <lb/>Frustering and making void all former wills by me made and 
+                    <lb/>ordaining this to be my last will and testament &amp; so committing
+                    <lb/>my soul to Almighty God &amp; my body to the Earth, Hoping that my
+                    <lb/>loving Wife will <unclear reason="illegible"></unclear> all things fufilled according to this my will,
+                    <lb/>as witness this my hand and seal this <date>tenth day of July 1676</date>
+                </p>
+                <p>Signed seal &amp; Deliv.
+                    <lb/>In presence of us whom
+                    <lb/>names are udner written
+                    <lb/><persName type="witness">Thos. <surname>Hanson</surname></persName>
+                    <lb/><persName type="witness">Edw. <surname>Roberts</surname></persName>
+                    <lb/>Gerrard Browne
+                    <lb/><date>January 8th 1677</date>
+                </p>
+                <p>Those same before <persName type="witness">Henry <surname>Adsams</surname></persName>. <persName type="witness">Thomas <surname>Allanson</surname></persName> &amp; made
+                    <lb/>oath on the holy Evangelist that he did see Gerrard Brown sign
+                    <lb/>sign &amp; delivered &amp; publish this to be his last will &amp; testament as
+                    <lb/>witness my hand &amp; seal the day &amp; year above written
+                    <lb/>5 1/2 sides
+                    <lb/>Henry Addams
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

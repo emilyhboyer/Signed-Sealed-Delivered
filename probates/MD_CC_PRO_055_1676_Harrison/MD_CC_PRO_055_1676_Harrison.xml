@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_055_1676_Harrison" xml:lang="en">Richard Harrison Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Richard Harrison Will</head>
+                <p>The last will and testament of <persName type="author" xml:id="RichardHarrison">Richard <surname>Harrison</surname></persName> in the year of
+                    <lb/><date>our Lord God 1676/7</date>.
+                </p>
+                <p>first- I bequeath my soule to God the othe and giver of all things
+                </p>
+                <p>second my body to the ground from where it came the Lord giveth and 
+                    <lb/>to Lord taketh blessed be name of the Lord.
+                </p>
+                <p>Thirdly being in perfect health and memory I bequeath all my wordly wealth as
+                    <lb/>moveable and unmoveable as Lands goods Chattles and all other things
+                    <lb/>appertaining unto me unto my dearly beloved wife <persName type="spouse" xml:id="ElizabethHarrison">Elizabeth <surname>Harrison</surname></persName>
+                    <lb/>during her life time.
+                </p>
+                <p>forthly after he decease. I bequeath my <measure commodity="land" xml:id="ElizabethHarrison"></measure>Land unto my loving <persName type="daughter" xml:id="SusaneHarrison">Susane
+                <lb/><surname>Harrison</surname></persName> and her heirs forever
+                </p>
+                <p>adter the deseas of my Loving wife I bequeath all moveables whatsoever 
+                    <lb/>unto me are belonging unto my son <persName type="son" xml:id="RichardHarrison">Richard</persName> and <persName type="son" xml:id="ThomasHarrison">Thomas</persName> to be equally
+                    <lb/>divided between them 
+                </p>
+                <p>fifthly I gve that if my Daughter Susane should die without heirs thatt her
+                    <lb/>two younger brothers Richard and Thomas should inherit the Land unto 
+                    <lb/>her appointed.
+                </p>
+                <p>sixthly I bequeath unto my son <persName type="son" xml:id="JohnBurges">John <surname>Burges</surname></persName> before me deseas the best <measure type="livestock" quantity="1" xml:id="JohnBurges">cow calf</measure> I have
+                    <lb/>I have now living and likewise the next <measure commodity="horse" quantity="1" xml:id="JohnBurges">mare foul</measure> that falls and soe to
+                    <lb/>the recorded for him as witness my hand and seal the day and year above
+                    <lb/>written.
+                </p>
+                <p>Signed and sealed
+                    <lb/>In the presence of us
+                    <lb/><persName type="witness">Henry <surname>Henly</surname></persName>
+                    <lb/><persName type="witness">Nicholas <surname>Chapman</surname></persName>
+                    <lb/><placeName>Charles ounty Js.</placeName>
+                    <lb/>his
+                    <lb/>Richard Harrison
+                    <lb/>mark
+                    <lb/><date>April 7th 1677</date>.
+                </p>
+                <p>Then come before me under written one of his <unclear reason="illegible">lordopife</unclear> Justice for <placeName>Charles
+                <lb/>County</placeName> Henry Henly and made oath that he saw Richard Harrison sign
+                    <lb/>seal and publish this to be his last will and testament the other witness
+                    <lb/>being Deade.
+                    <lb/>2 3/4 sides
+                    <lb/><persName>John <surname>Dougles</surname></persName>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

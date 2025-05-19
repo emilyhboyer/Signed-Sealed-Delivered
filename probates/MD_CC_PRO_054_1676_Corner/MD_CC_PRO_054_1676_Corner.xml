@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_054_1676_Corner" xml:lang="en">Jobe Corner. Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Jobe Corner. Will</head>
+                <p>In the name of God Amen. The <date>ninth day of November in the year of
+                <lb/>our Lord God 1676</date> I <persName type="author" xml:id="JobeCorner">Jobe <surname>Corner</surname></persName> of <placeName>Charles County</placeName> planter being such and weake
+                    <lb/>of body but of sound and perfect minde and menmory blessed be God for the
+                    <lb/>same and calling to minde the uncertain and transitory Estate of this life
+                    <lb/>and that all flesh must yeild to Death being desirous to settling things
+                    <lb/><catchwords>in order</catchwords>
+                    <pb/>
+                    <lb/>in order do make this my last will and testament in manner and form
+                    <lb/>following that is to say first and principally I commit my soule to
+                    <lb/>Almighty God my Creator and my boddy to the earth from where it
+                    <lb/>was taken to be buried in Christian and Decent manner according to
+                    <lb/>the directions of my friend hereafter nominated and appointed
+                </p>
+                <p>Item I will and Desire that all my Just and Lawfull dets which I <unclear reason="illegible"></unclear>
+                   <lb/>may be paid and satisfied by my wife <persName type="spouse" xml:id="AnnCorner">Ann <surname>Corner</surname></persName> by me here
+                    <lb/>appointed my whole &amp; sole Executor.
+                </p>
+                <p>Item. I give unto my wife Ann Corner my <measure commodity="horse" quantity="1" xml:id="AnnCorner">mare <name>Jimmy</name></measure> and her <measure commodity="horse" quantity="1" xml:id="AnnCorner">fole</measure>.
+                    <lb/>Item. I give unto my wife Ann all my <measure commodity="livestock">cattle</measure> and <measure commodity="livestock" xml:id="AnnCorner">hoggs</measure> in general.
+                </p>
+                <p>Item. I will and desire that my wife Ann may have <measure commodity="plantation" xml:id="AnnCorner">plantation</measure> to live on
+                  <lb/>during her life.
+                </p>
+                <p>Item. I give and bestow and hereby freely grant unto my beloved friend
+                    <lb/><persName type="beneficiary" xml:id="ThomasCorker">Thomas <surname>Corker</surname></persName> all my <measure commodity="plantation" quantity="300" unit="acre">300 acres</measure> to be fully
+                    <lb/><unclear reason="illegible">populate</unclear> thereafter the Death of Ann my wife to his heirs Executors what
+                    <lb/>follows uninteligable.
+                </p>
+                <p>Item. I will and Desire that the said Thomas Corker may see me buried
+                    <lb/>in decent manner and and diploy the <unclear reason="illegible">Expences</unclear> out of my Tobacco.
+                </p>
+                <p>Item. I give my household good and all the rest of my Estate after there my 
+                    <lb/>Legacies and Just Debates are paid unto my dear wife and aforementioned Executor
+                </p>
+                <p>Last I hereby utterly revoke all former and other wills either by word or
+                    <lb/>writing ordaining this &amp; no other my last will and testmanet
+                    <lb/>In witness whereof I have hereunto set my hand and seal this <date>9th
+                    <lb/>day of November 1676</date>
+                </p>
+                <p>Signed Sealed &amp; Delivered
+                    <lb/>In the presence of us
+                    <lb/>Thom. Corker -<persName type="witness">Phillip <surname>Browne</surname></persName>.
+                    <lb/>Jobe Corner
+                </p>
+                <pb/>
+                <p>On the back of the aforegoing will was endored the following probate to will
+                    <lb/><date>April 16th 1677</date>. By virtue of a commission from the hon. bearing
+                    <lb/>date the <date>30th day of November 1676</date> I did the day above written call before
+                    <lb/>my <persName type="witness">Elizabeth <surname>Corker</surname></persName> who made oath that she saw Jobe Corner Deceased
+                    <lb/>sign sealed and published the withing writing as his last will and testmanet
+                    <lb/>and that then he was in perfect <unclear reason="illegible">sense</unclear> and memory.
+                    <lb/>4 1/2 sides
+                    <lb/><persName>Benjamin Rozer</persName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
