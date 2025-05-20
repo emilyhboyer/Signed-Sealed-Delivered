@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_058_1677_Towell" xml:lang="en">David Towell Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">David Towell Will</head>
+                <p>In the name of God Amen. I <persName type="DavidTowell">David <surname>Towell</surname></persName> of <placeName>Charles
+                <lb/>County in the province of Maryland</placeName> being suck in body but of perfect
+                    <lb/>sense and memory thanks be to Almighty God do make and
+                    <lb/>ordaine this my last will and testament first bequeathing my
+                    <lb/>soule to Almighty God hoping through his blessed Deth and
+                    <lb/>passion that he will have merxy upon my soule and receive me in
+                    <lb/>his heavenly kingdom and what small Estate that he hath being
+                    <lb/>pleased to bestow upon me I am willing it should be
+                    <lb/>dispersed as folleth first I begal my soule to Almighty God and my
+                    <lb/>body to the earth and to be <unclear reason="illegible">Beord</unclear> whare my Executors thinks most
+                    <lb/>convenient
+                </p>
+                <p>Item I give and bequ unto my loving friends <persName type="beneficiary" xml:id="ThomasAllson">Thomas <surname>Allson</surname></persName> and <persName type="beneficiary" xml:id="Edward">Edward
+                <lb/><surname>Ruckwod</surname></persName> all my Estate 
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
