@@ -7,4 +7,7 @@ In addition to probate records, it is the goal of SSD to further transcribe corr
 
 
 
-![alt text](signedsealeddelivered.png)
+![alt text]()
+Image from ""
+
+To see more about the decisions made by Boyer in the encoding process, please see the Wiki page. 
