@@ -23,8 +23,29 @@
         <body>
             <div>
                 <head rend="align(center)">John Ashbrooke Will.</head>
-                <p>
-                    <lb/>
+                <p>In the name of God Amen. The last will and testament of <persName type="witness">John
+                    <lb/><surname>Ashbrooke</surname></persName> in <placeName>Charles County</placeName> being in perfect memory.
+                    <lb/><unclear reason="illegible"></unclear> I give and bequeath my soule unto the Almighty God and my body to
+                    <lb/>be entered in the ground and in it to be desently buried as my dear wife
+                    <lb/>shall see to it.
+                </p>
+                <p>2d I give and bequeath unto my loving <persName type="spouse" xml:id="MrsAshbrooke">wife</persName> <measure commodity="livestock" quantity="1" xml:id="MrsAshbrooke">one chow call by the name of
+                    <lb/><name>Juyne</name></measure> with a <measure type="livestock" quantity="1" xml:id="MrsAshbrooke">chow calf</measure> by her side now naming. I give unto my sonne <persName type="son" xml:id="JamesAshbrooke">James</persName>
+                <lb/><measure commodity="livestock" quantity="1" xml:id="JamesAshbrooke">one chow called by the name of <name>fortune</name></measure> and <measure commodity="livestock" quantity="2" xml:id="JohnAshbrooke">two yearlings being heiffers</measure>
+                    <lb/>and come of the above said chow Juyne and all the land that at this 
+                    <lb/>present belongs and dappertains unto me  the sd. John onely my wife to enjoy
+                    <lb/>the sd. land for her life time provided she keeps herself unmaryed but
+                    <lb/>is that she should mary that the the said James shall tke the said land
+                    <lb/>into his possession and that my wife shall have nothing to do with it.
+                </p>
+                <p>3d I give and bequeath unto my Daughter <persName type="daughter" xml:id="Keese"><unclear reason="illegible">Keese</unclear></persName> <measure commodity="livestock" quantity="1" xml:id="Keese">one yoing heafer at two years
+                <lb/>of age Called by the name of <name>Gentle</name></measure>.
+                </p>
+                <p>4 I give and bequeath unto my Daughter <persName xml:id="Elizabeth">Elizabeth</persName> <measure commodity="livestock" quantity="1" xml:id="Elizabeth">one three year olf heaffer
+                <lb/>Called by the name of <unclear reason="illegible">Ham</unclear></measure>.
+                </p>
+                <p>5. I give 
+                    
                 </p>
             </div>
         </body>
