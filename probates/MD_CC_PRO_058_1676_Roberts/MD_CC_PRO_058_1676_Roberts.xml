@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_058_1676_Roberts" xml:lang="en">Edward Roberts Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Edward Roberts Will</head>
+                <p>In the name of God Amen. I <persName type="author">Edward <surname>Roberts</surname></persName> of <placeName>Charles County in the
+                    <lb/>province of Maryland</placeName> being sick in body in perfect sense and memory
+                    <lb/>thanks to Almighty God do ordaine and make this my last will and 
+                    <lb/>testament in presense of followeth first I beque my soule to god hoping through
+                    <lb/>his blessed Death and passion that he will have mercy upon my soule and
+                    <lb/>Receive me into his heavenly kingdom and what small estate that that god
+                    <lb/>has been pleased to bestow apon me I am willing it should be dispersed
+                    <lb/><unclear reason="illegible"></unclear> as foleth I give and beque all my astate both reall and parsonall unto unto
+                    <lb/><persName type="beneficiary" xml:id="CharlesAllenson">Charles <surname>Allenson</surname></persName> and <persName type="beneficiary" xml:id="ElizabethAllenson">Elizabeth <surname>Allenson</surname></persName> son and Daughter to <persName type="beneficiary" xml:id="ThomasAllenson">Thomas <surname>Allenson</surname></persName>
+                    <lb/>of <placeName>Charles County in the province of Maryland</placeName> and the said Tho. Allenson
+                    <lb/>father to the said Charles Allenson and Elizabeth to be hole and sole Executor
+                    <lb/>of this my lasy will and testament in the said children behalf or any
+                    <lb/>money that is folen to me in England by the Death of an <unclear reason="illegible">unhell</unclear> <persName type="beneficiary" xml:id="JohnRud">John 
+                    <lb/><surname>Rud</surname></persName> sun to my grand Father <persName>George</persName> unintellegable  as by the said
+                    <lb/>grand father will will apear and I do further ordaine this my last
+                    <lb/>will and testament trusting and making voyd all former wills by me
+                    <lb/>mad and for this my last will and testament to I hope in my mercy of god
+                    <lb/>that he will arrive- my soule and for the have performance I have hearunto
+                    <lb/>set my hand and seal this <date>fifteen day of January 1676</date>.
+                </p>
+                <p>Signed Sealed and Delivered
+                <lb/>In the presence of us
+                <lb/>his
+                <lb/>John Belley 
+                <lb/>his
+                <lb/>Martha W Browne
+                <lb/>mark
+                    <lb/>William Boyne
+                    <lb/>Edward Roberts
+                </p>
+                <pb/>
+                <p>On the back of the foregoing will was the following probate Endorsed (to will)
+                    <lb/><date>November 22d. 1677</date>.
+                </p>
+                <p>The deposition of William Boydon and John Belley saith that this is the
+                    <lb/>last will and testament of Edward Roberts of <placeName>Charles County</placeName> desed
+                    <lb/>and was his oath and deed and further saith noth sworn before me
+                    <lb/><persName type="witness">Zachary <surname>Wade</surname></persName> as it doth appear by my hand and seal
+                    <lb/>3 1/4 sides
+                    <lb/>Zachary Wade
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
