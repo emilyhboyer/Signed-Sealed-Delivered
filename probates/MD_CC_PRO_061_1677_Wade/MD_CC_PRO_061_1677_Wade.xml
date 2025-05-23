@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_061_1677_Wade" xml:lang="en">Zachary Wade Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed and Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Zachary Wade Will</head>
+                <p>In the name of God Amen. I <persName type="author">Zachary <surname>Wade</surname></persName> of <placeName>Charles
+                <lb/>County in the province of Maryland</placeName> Gentl. being suck in body but of
+                    <lb/>perfect minde and memory prasied bee to God for the same
+                    <lb/>Calling to minde the <unclear reason="illegible">fraiety</unclear> and <unclear reason="illegible">unsertaintie</unclear> of this present life and that
+                    <lb/>all flesh must yield unto Death when it shall please god to call doe
+                    <lb/>mark and ordaine this my last will and testmanet this <date>fifth day of
+                    <lb/>march anno Domini 1677</date>. hereby revoking all former wills by me made either
+                    <lb/>by word or writing and this to be my last will and noe other and first of
+                    <lb/>all I bequeath my soule unto the mercifull hand of godalmighty
+                    <lb/>who gave it my body unto the earth from here it came to be decently
+                    <lb/>intered at direction of my Executors hereafter named hoping in and 
+                    <lb/>through the merits and passion of my blessed savior Jesus Christ to 
+                    <lb/><unclear reason="illegible"></unclear> and free pardon of all my sins to find a joyfull <unclear reason="illegible"></unclear>
+                    <lb/>and for what Temporal Estate and goods it hath pleased God of this
+                    <lb/>bounty to bestowe upon me after my Just Debts which either in Laws or
+                    <lb/>Convenience I owe are in due time satisfied I desiring to be dispersed of as
+                    <lb/>as followeth.
+                </p>
+                <p>Item. I give and bequeath unto my Eldest sonne <persName type="eldestson" xml:id="RichardWade">Richard <surname>Wade</surname></persName> all that <measure commodity="land">parcelor
+                    <lb/>parcells of Land Called <name>Limme Lemis</name></measure> 
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
