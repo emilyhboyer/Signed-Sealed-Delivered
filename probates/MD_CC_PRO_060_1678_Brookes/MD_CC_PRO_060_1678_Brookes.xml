@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_060_1678_Brookes" xml:lang="en">William Brookes Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <author></author>
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Signed Sealed and Delivered</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p>This is the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">William Brookes Will</head>
+                <p><placeName>Province Maryland Charles County</placeName>. In the name of God Amen
+                    <lb/>To all Christian people Know yee that I <placeName type="author">William Brookes</placeName> planter
+                    <lb/>and now in my perfect sense and meory desire that I have my 
+                    <lb/><catchwords>last</catchwords>
+                    <pb/>
+                    <lb/>last will and testament to bee performed &amp; done after my departiene of this
+                    <lb/>life to the <unclear reason="illegible"></unclear> under mentioned and that they may <unclear reason="illegible"></unclear> and peacably
+                    <lb/>injoy what I freely give and bequeath unto then in consideration that
+                    <lb/><persName type="executor" xml:id="GilesTomkins">Giles <surname>Tomkins</surname></persName> shall oat my Leavey and my dent due to <persName type="beneficiary" xml:id="MatterDanis">Matter <surname>Danis</surname></persName>
+                    <lb/>which is <measure commodity="crop" quantity="133" unit="pounds" xml:id="MatterDanis">one hundred and thirty three pounds of Tobacco</measure> being all the debts
+                    <lb/>that I doe owe <unclear reason="illegible">firsthen</unclear> moon that the above said Giles Tomkins shall
+                    <lb/>give me a decent bureall.
+                </p>
+                <p>Item. I doe give and bequeath unto my loving friend Goles Tomkins <measure commodity="horse" quantity="1" xml:id="GilesTomkins">one
+                <lb/>gray mare</measure> and <measure commodity="horse" quantity="1" xml:id="GilesTomkins">fole</measure> being in his possession and all my debts that is due unto me in
+                    <lb/><placeName>Maryland</placeName> that is to say by a debt due to me from <persName></persName>
+                    
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
