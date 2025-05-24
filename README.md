@@ -13,4 +13,7 @@ In addition to probate records, it is the goal of SSD to further transcribe corr
 
 Image taken from "William Brookes Will, 1678"
 
+This project was named because the phrase "Signed, Sealed, and Delivered" (sometimes "Published" rather than "Delieverd") is used at the end of a probate record to denote the both the end of the main body of a probate, but also to signify the beginning of the probate that includes the witnesses names. This is often accomanied by a witness statement, where the witnesses mentioned are said to have sworn to have seeing the author (main subject) of the probate either create the will and agree to its contents, or state that they can confirm that the author is now deceased. 
+
+
 To see more about the decisions made by Boyer in the encoding process, please see the [Wiki]([url](https://github.com/emilyhboyer/Signed-Sealed-Delivered/wiki)) page. 
