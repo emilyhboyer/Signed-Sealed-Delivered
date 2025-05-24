@@ -9,7 +9,7 @@ In addition to probate records, it is the goal of SSD to further transcribe corr
 1. Complete Maryland, Register of Wills Records, Wills 1665-1708 by October 1st, 2025.
 2. Begin encoding Maryland, Register of Wills Records, Wills 1704-1733 vol 3 starting October 5th, 2025.
 
-![alt text]()
-Image from ""
+![William Brookes Will](https://github.com/emilyhboyer/Signed-Sealed-Delivered/blob/9c57adb5c98e8cbfc8cc52e8f3905be744fe147b/wiliam%20brookes%20will.png%20.png)
+Image from "William Brookes Will, 1678"
 
 To see more about the decisions made by Boyer in the encoding process, please see the [Wiki]([url](https://github.com/emilyhboyer/Signed-Sealed-Delivered/wiki)) page. 
