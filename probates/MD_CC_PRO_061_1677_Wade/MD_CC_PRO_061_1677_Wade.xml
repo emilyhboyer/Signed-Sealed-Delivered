@@ -47,35 +47,35 @@
                     <lb/>I now dwell Containing five hundred and fifty acres</measure> and also all that
                     <lb/><measure commodity="land" quantity="500" unit="acre" xml:id="RichardWade">parcell or parcells of Land called <name>Madeson and Madesons enlargement</name></measure>
                     <lb/>lying at <placeName>Goone bay</placeName> Containing <measure commodity="land" quantity="400" unit="acre">four hundred acres</measure> and also one <unclear reason="illegible">moeety</unclear>
-                    <lb/>or half of that tract of Land Called <measure commodity="land" quantity="1060" unit="acre" xml:id="RichardWade"><name><unclear reason="illegible">Louest Thiehete</unclear></name> one thousand
-                    <lb/>and sixtie acres</measure> being the Land which my brother <persName type="brother">Randolfe <surname>Hinson</surname></persName> &amp; bequeath
-                    <lb/>og <persName type="beneficiary" xml:id="ThomasBrookes">Mr. Thomas <surname>Brookes</surname></persName> and also all that <measure commodity="land" xml:id="ThomasBrookes">tract of Land lying next the Indian
-                    <lb/>line at the head of the <placeName>Pieatoway Creek</placeName></measure> all which said <unclear reason="illegible"></unclear> I give and 
+                    <lb/>or <measure commodity="land" quantity="1060" unit="acre" xml:id="RichardWade">half of that tract of Land Called <name><unclear reason="illegible">Louest Thiehete</unclear></name> one thousand
+                    <lb/>and sixtie acres being the Land</measure> which my brother <persName type="brother">Randolfe <surname>Hinson</surname></persName> &amp; bequeath
+                    <lb/>og <persName type="beneficiary" xml:id="ThomasBrookes">Mr. Thomas <surname>Brookes</surname></persName> and also all that <measure commodity="land" xml:id="ThomasBrookes">tract of Land lying next the <placeName>Indian
+                    <lb/>line</placeName> at the head of the <placeName>Pieatoway Creek</placeName></measure> all which said <unclear reason="illegible"></unclear> I give and 
                     <lb/>bequeath unto my sone Richard Wade to him and his heirs forever
                     <lb/><catchwords>Item.</catchwords>
                 </p>
                 <pb/>
                 <p>Item. I give and bequeath unto my sone <persName type="son" xml:id="RobertWade">Robert <surname>Wade</surname></persName> <measure commodity="land" quantity="600" unit="acre" xml:id="RobertWade">six hundred acres of a tract
                 <lb/>of Land of twelve hundred acres called <name>Merkell overton</name></measure> lying at <unclear reason="illegible"><name>Pomonkey</name></unclear>
-                    <lb/>and also all that of Land called Forest Green containing five
-                    <lb/>hundred acres lying at <name>Pangia</name> and also all that parcel of Land called
+                    <lb/>and also <measure commodity="land" quantity="500" unit="acre" xml:id="RobertWade">all that of Land called <name>Forest Green</name> containing five
+                    <lb/>hundred acres lying at <placeName>Pangia</placeName></measure> and also <measure commodity="land" quantity="305" unit="acre" xml:id="RobertWade">all that parcel of Land called
                     <lb/><name>harboa</name> containing three hundred &amp; five acres lying upon the 
-                    <lb/><unclear reason="illegible">branches</unclear> of <placeName><unclear reason="illegible">Piseataway Creek</unclear></placeName> and also two hundred acres Land called
-                    <lb/><name>Friendship</name> being the land which I sealed above <placeName>Peicatoway</placeName> all which said
+                    <lb/><unclear reason="illegible">branches</unclear> of <placeName><unclear reason="illegible">Piseataway Creek</unclear></placeName></measure> and also <measure commodity="land" quantity="200" unit="acre" xml:id="RobertWade">two hundred acres Land called
+                    <lb/><name>Friendship</name> being the land which I sealed above <placeName>Peicatoway</placeName></measure> all which said
                     <lb/>parcells of Land I give and bequeath unto my said son Robert Wade to him
                     <lb/>and his heirs forever
                 </p>
                 <p>Item. I give and bequeath unto my Daughter <persName type="daughter" xml:id="TheodosiaWade">Theodosia <surname>Wade</surname></persName> the <measure type="land" xml:id="TheodosiaWade">one <unclear reason="illegible">moiety</unclear> or
-                    <lb/>tract of Land which my brother <persName>Luke <surname>Gardiner</surname></persName> and I took up Together
-                    <lb/>lying upon the <placeName>Eastern Branches of Pesiatoway</placeName></measure> and also all that tract or
-                    <lb/>remainder of that parcell of Land called Markett Overton lying at 
-                    <lb/><placeName>pomonkey</placeName> all which said land I give unto my said Daughter Theodosia
+                    <lb/>tract of Land which my brother <persName type="brother">Luke <surname>Gardiner</surname></persName> and I took up Together
+                    <lb/>lying upon the <placeName>Eastern Branches of Pesiatoway</placeName></measure> and also <measure commodity="land" xml:id="TheodosiaWade">all that tract or
+                    <lb/>remainder of that parcell of Land called <name>Markett Overton</name> lying at 
+                    <lb/><placeName>pomonkey</placeName></measure> all which said land I give unto my said Daughter Theodosia
                     <lb/>Wade to her and her heirs forever.
                 </p>
-                <p>Item. I give and bequeath unto my sonn Richard Wade <measure commodity="horse" quantity="1">one mare and her increase</measure>
+                <p>Item. I give and bequeath unto my sonn Richard Wade <measure commodity="horse" quantity="1" xml:id="RichardWade">one mare and her increase</measure>
                     <lb/>that is now with her and all future Increase that she may bring and also
-                    <lb/><measure commodity="crop" quantity="4000" unit="pounds" xml:id="RichardWade">four thousand pounds of Tobacco</measure> and <measure commodity="furniture" quantity="1">one feather bed half woarn</measure> and <measure commodity="other">pillows</measure>
-                    <lb/><measure commodity="other" quantity="1">one plain rug</measure> and <measure commodity="other" quantity="1">one shaged rugg</measure> <measure commodity="other">curtains</measure> and <measure commodity="other">vallances</measure> and <measure commodity="linens" quantity="3">three pairs of
+                    <lb/><measure commodity="crop" quantity="4000" unit="pounds" xml:id="RichardWade">four thousand pounds of Tobacco</measure> and <measure commodity="furniture" quantity="1" xml:id="RichardWade">one feather bed half woarn</measure> and <measure commodity="other" xml:id="RichardWade">pillows</measure>
+                    <lb/><measure commodity="other" quantity="1" xml:id="RichardWade">one plain rug</measure> and <measure commodity="other" quantity="1" xml:id="RiichardWade">one shaged rugg</measure> <measure commodity="other" xml:id="RichardWade">curtains</measure> and <measure commodity="other" xml:id="RichardWade">vallances</measure> and <measure commodity="linens" quantity="3" xml:id="RichardWade">three pairs of
                     <lb/>sheets</measure> and the said maine to be dispersed as to the Dispositions of my
                     <lb/>Executors to my sones use and also <measure commodity="horse" quantity="1" xml:id="RichardWade">one negro bay named <name>black Jack</name></measure> all which
                     <lb/>said goods I give unto my sone Richard Wade and his heris forever.
@@ -128,10 +128,28 @@
                     <pb/>
                 </p>
                 <p>It is my free desire that my brother <persName type="executor">Randalfe <surname>Hinson</surname></persName> and brother being
-                    <lb/>Executors
-                   
-                   
+                    <lb/>Executors of my last will that if it can be done by any lawfull means to
+                    <lb/>divide the parcel of Land what was taken up by brother Gardiner and
+                    <lb/>me I haveing the first choice according to agreement if not the heir to make
+                    <lb/>good the Division and for the Confirmation hereof I have put my hand
+                    <lb/>and seal this <date>5th march anno Domino 1677</date>.
                 </p>
+                <p>Test.
+                    <lb/>Richard Hodgson - John Greyot
+                    <lb/>Zachary Wade
+                </p>
+                <p>On the back of the aforegoing will was Endorsed the follo. probate (to will)
+                    <lb/><date>May 20th 1678</date> By Virtue of a commision from the hon.ble <persName type="judge">Philip <surname>Calvert, Esq.</surname></persName>
+                    <lb/>Judge and <unclear reason="illegible">comipary</unclear> gen. for probate of wills and granting administration
+                    <lb/>within This <placeName>province of Maryland</placeName> to me directed leaving date the <date>13th day
+                    <lb/>1678</date>. I called before me Richard Hodgson and John Greyot two of the 
+                    <lb/>witness to this will who made oath the day and year above written that
+                    <lb/>they did see Mr. Zachary Wade sign seal and publish the within
+                    <lb/>writing of his last will and testament witness my hand the day and 
+                    <lb/>year first above written.
+                    <lb/>11 <unclear reason="illegible">1/2</unclear> Sides
+                    <lb/><persName>Benjamin <surname>Rozer</surname></persName>
+                </pro>
             </div>
         </body>
     </text>
