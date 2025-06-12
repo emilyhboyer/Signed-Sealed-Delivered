@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_063_1677_8_King" xml:lang="en">Thomas King Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <editor>Emily Boyer</editor>
             </titleStmt>
@@ -23,9 +23,19 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">Thomas King Will</head>
+                <p>1st In the name of God Amen. I <persName type="author">Thomas <surname>King</surname></persName> of <placeName>Charles County
+                <lb/>in the province of Maryland</placeName> being very sick and weake in body but <unclear reason="illegible">blessed</unclear>
+                    <lb/>be the Lord having my perfect sence and memory doe make here my
+                    <lb/>last will and testament. First I do give and bequeath unto Almighty my 
+                    <lb/>soule that made it and my body to a Christian burial and all my wordly
+                    <lb/>goods as followeth after my Debts be satisfied.
+                </p>
+                <p>2nd I doe give and bequeath unto my wifes Eldest D after <persName type="step-daughter" xml:id="ElizabethJones">Elizabeth <surname>Jones</surname></persName> <measure commodity="horse" quantity="2" xml:id="ElizabethJones">two
+                <lb/>mares</measure> and <measure commodity="livestock" quantity="4" xml:id="ElizabethJones">four caves</measure>. 
+                </p>
+                <p>
+                    
                 </p>
             </div>
         </body>
