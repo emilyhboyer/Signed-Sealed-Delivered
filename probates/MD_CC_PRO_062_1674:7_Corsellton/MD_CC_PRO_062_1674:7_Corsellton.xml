@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_062_1674_7_Corsellton" xml:lang="en">Robert Corsellton Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <editor>Emily Boyer</editor>
             </titleStmt>
@@ -23,9 +23,53 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">Robert Corsellton Will</head>
+                <p>In the name of God Amen. The <date>sixth day of January
+                <lb/>one thousand six hundred seventy and four</date> I <persName type="author">Robert <surname>Corsellton</surname></persName> of
+                    <lb/><placeName>Charles County in the provinence of Maryland</placeName> being sick and weake in
+                    <lb/>body but of good and perfect memory thanks bee to God knowing 
+                    <lb/>that I am naturally Borne and ordained to die and considering the
+                    <lb/>uncertaintee of this life on earth doe make this my last will and
+                    <lb/>testament in manner and form following first I bequeath my soule
+                    <lb/>and I <unclear reason="illegible">peritt</unclear> into the hands of almighty God my heavenly father by whome
+                    <lb/>of his <unclear reason="illegible">mure</unclear> grace and favour I trust to be reveived into eternal rest through
+                    <lb/><catchwords>the</catchwords>
+                    <pb/>
+                    <lb/>the Death of my sweet saviour Jesus Christ in whose precious blood
+                    <lb/>I <unclear reason="illegible">set</unclear> the only hope of my <unclear reason="illegible">satuatione</unclear> my wreched body in hope of
+                    <lb/>a Joyfull resurection I commit to the earth to be decently buried by
+                    <lb/>my Executors hereafter named and touching the distruition of my
+                    <lb/>mortal goods, I disphose as followeth. First I will that all my
+                    <lb/>Just Debts shall be honestly paid.
+                </p>
+                <p>Item I make Constitute and appoint <persName type="spouse" xml:id="MaryCorsellton">Mary</persName> my wife my sole Executor    
+                </p>
+                <p>Item. I give and bequeath unto my sonne <persName type="son" xml:id="RobertCorsellton">Robert</persName> <measure commodity="land" quantity="150" unit="acre" xml:id="RobertCorsellton">one hundred and fifty
+                <lb/>acres of land called <name>York</name></measure> if said son Robert shall due without an
+                    <lb/>heir then the said land shall fall to my sonne <persName type="son" xml:id="JohnCorsellton">John</persName> if my sone John
+                    <lb/>shall dye without heir then the said land shall fall to my Daughter
+                    <lb/><persName type="daughter" xml:id="DaughterMary">Mary</persName> and her heirs forever.
+                </p>
+                <p>Item I give and bequeath to my sone John after the Decease of Mary my wife
+                    <lb/><measure commodity="plantation" xml:id="JohnCorsellton">my plantation and land called <name>Naping</name></measure> if my sone John should
+                    <lb/>die without an heir then the said land and plantation shall fall
+                    <lb/>to my sone Robert if my son Robert shall dye without heirs then the
+                    <lb/>said land plantation shall fall unto my Daughter Mary and her heris 
+                    <lb/>forever Lastlt I doe make and appoint my said children and their Estates
+                    <lb/>untill they come to age and I doe utterly revoke all wills by me <unclear reason="illegible">fornesly</unclear>
+                    <lb/>made either by word or writing and declare this to be my last will
+                    <lb/>and testament in witness hereof I have hereunto set my hand and seal
+                </p>
+                <p>Signed Sealed and Delivered
+                    <lb/>In the presense of us
+                    <lb/><persName type="witness">Thomas <surname>Jenkins</surname></persName> - <persName>George <surname>Longham</surname></persName>
+                </p>
+                <p>On the back of the aforegoing will was Endorsed the foll. probate <unclear reason="illegible"></unclear>
+                    <lb/><date>May 21st. 1678</date> Then was this will proved in common form
+                    <lb/>by the oaths of George Longham and Thomas Jenkins witnesses to
+                    <lb/>the same - before me
+                    <lb/>4 1/4 sides
+                    <lb/><persName>Benjamin Rozer</persName>
                 </p>
             </div>
         </body>
