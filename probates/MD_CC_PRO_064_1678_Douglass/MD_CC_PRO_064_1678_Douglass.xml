@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_064_1678_Douglass" xml:lang="en">John Douglass Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <editor>Emily Boyer</editor>
             </titleStmt>
@@ -23,9 +23,28 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">John Douglass Will</head>
+                <p><placeName>Charles County</placeName> In the name of God Amen.
+                    <lb/>I <persName type="author">John Douglass</persName> of <placeName>Charles County in the province of Maryland</placeName>
+                    <lb/>Gentleman being weake of body but of sound and perfect memory 
+                    <lb/>praised be to God for the same doe make and ordaine this my
+                    <lb/>last will and testament in manner &amp; so following that is to say
+                    <lb/>first I bequeathmy soule to God from whome I had it hoping one
+                    <lb/>day to make perfect through the pretious Death and passion of my 
+                    <lb/>dear Saviour Jesus Christ and my body I commit to the earth from 
+                    <lb/><catchwords>where</catchwords>
+                    <pb/>
+                    <lb/>where it came to be decently buried at the discression of my Executor hereafter
+                    <lb/>named.
+                </p>
+                <p><unclear reason="illegible">Imp.</unclear> It is my will that all my Just Debts and funeral charges be paid and 
+                   <lb/>satisfied Item I give unto my loving son <persName type="son" xml:id="JohnDouglassJr.">John <surname>Douglass</surname></persName> <measure commodity="land" quantity="550" unit="acre" xml:id="JohnDouglassJr.">five hundred
+                   <lb/>and fifty acres of land</measure> being part of a parcell of land containing <measure commodity="land" quantity="1050" unit="acre">one
+                   <lb/>thousand and fifty acreslaying at <placeName>Potucent</placeName> called <name>Cole Spring Manner</name></measure> 
+                    <lb/>when he shall arrive all the age of one and twenty years wth all the 
+                    <lb/>priviledges belonging to that Lord of manner and to his heirs lawfully
+                    <lb/>to be gather of his body and for the want of such if use my will &amp; pleasure is
+                    <lb/>that 
                 </p>
             </div>
         </body>
