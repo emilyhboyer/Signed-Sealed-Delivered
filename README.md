@@ -10,8 +10,8 @@ The second goal or driving force behind the creation of Signed, Sealed, and Deli
 This project is intended as an independent research project which will likely be used for further research on Boyer's part, such as in her PhD dissertation, as she is interested in looking at early wealth accumulation in the United States and better understanding the United State's economic development, especially along the Mid-Atlantic. If others are interested in contributing to this project or would like to discuss Boyer's methods, please navigate to Contact under the Wiki page. 
 
 In addition to probate records, it is the goal of SSD to further transcribe corresponding inventory records as to show the cost of the items bequeathed to individuals in the probate records. The future timeline of this project is as follows:
-1. Complete Maryland, Register of Wills Records, Wills 1665-1708 by October 1st, 2025.
-2. Begin encoding Maryland, Register of Wills Records, Wills 1704-1733 vol 3 starting October 5th, 2025.
+1. Complete Maryland, Register of Wills Records, Wills 1665-1708 by October 1st, 2026.
+2. Begin encoding Maryland, Register of Wills Records, Wills 1704-1733 vol 3 starting October 5th, 2026.
 
 ![William Brookes Will](https://github.com/emilyhboyer/Signed-Sealed-Delivered/blob/9c57adb5c98e8cbfc8cc52e8f3905be744fe147b/wiliam%20brookes%20will.png%20.png)
 
