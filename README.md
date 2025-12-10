@@ -7,11 +7,11 @@ There are two goals that have driven the creation of this project. First, this p
 
 The second goal or driving force behind the creation of Signed, Sealed, and Delivered is to create a system that allows for researchers to keep track of the land and wealth accumulated during the 17th and 18th centuries. Probate records offer an important insight into the wealth accumulation experienced in colonial America. By having a dedicated space in which probate records are transcribed and encoded, it therefore becomes easier to extract information pertaining to the number of acres owned by individuals in a given county, trends in tobacco production, and makes the tracking of dowries and women's wealth accumulation more manageable. 
 
-This project is intended as an independent research project which will likely be used for further research on Boyer's part, such as in her PhD dissertation, as she is interested in looking at early wealth accumulation in the United States and better understanding the United State's economic development, especially along the Mid-Atlantic. If others are interested in contributing to this project or would like to discuss Boyer's methods, please navigate to Contact under the Wiki page. 
+This project is intended as an independent research project which will be used for further research on Boyer's part, such as in her PhD dissertation, as she is interested in looking at early wealth accumulation in the United States and better understanding the United State's economic development, especially along the Mid-Atlantic. At this time the Signed, Sealed, and Delivered Project is not open for public collaboration. Visitors to the site are, however, more than welcome to use the completed (encoded) probates and the information that they contain for their own research projects and self-interest. 
 
 In addition to probate records, it is the goal of SSD to further transcribe corresponding inventory records as to show the cost of the items bequeathed to individuals in the probate records. The future timeline of this project is as follows:
-1. Complete Maryland, Register of Wills Records, Wills 1665-1708 by October 1st, 2025.
-2. Begin encoding Maryland, Register of Wills Records, Wills 1704-1733 vol 3 starting October 5th, 2025.
+1. Complete Maryland, Register of Wills Records, Wills 1665-1708 by October 1st, 2026.
+2. Begin encoding Maryland, Register of Wills Records, Wills 1704-1733 vol 3 starting October 5th, 2026.
 
 ![William Brookes Will](https://github.com/emilyhboyer/Signed-Sealed-Delivered/blob/9c57adb5c98e8cbfc8cc52e8f3905be744fe147b/wiliam%20brookes%20will.png%20.png)
 
