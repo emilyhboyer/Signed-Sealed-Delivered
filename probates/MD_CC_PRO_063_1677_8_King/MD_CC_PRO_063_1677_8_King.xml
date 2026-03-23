@@ -58,7 +58,7 @@
                     <pb/>
                     <lb/>wifes three children I doe give also to <persName type="beneficiary" xml:id="GeorgeNuemanJunior">George <surname>Nueman</surname> Senior</persName> <measure commodity="food" xml:id="GeorgeNuemanJunior">six
                     <lb/>Barells of <unclear reason="illegible">corn</unclear></measure> and Last I doe give <persName type="beneficiary" xml:id="JohnWheeler">John <surname>Wheeler</surname></persName> of <placeName><unclear reason="illegible">Nonounoie</unclear></placeName>
-                    <lb/><measure commodity="crop" quantity="300" unit="pounds">three hundred pounds of Tobacco</measure> to be the year next insuing and to 
+                    <lb/><measure commodity="crop" quantity="300" unit="pounds" xml:id="ohnWheeler">three hundred pounds of Tobacco</measure> to be the year next insuing and to 
                     <lb/>the <unclear reason="illegible">primises</unclear> above given and mentioned I have hereunto set
                     <lb/>my hand and seal the <date>17th day of January and in the y year
                     <lb/>of our Lord 1677</date>. Signed Sealed and delivered in presense of us

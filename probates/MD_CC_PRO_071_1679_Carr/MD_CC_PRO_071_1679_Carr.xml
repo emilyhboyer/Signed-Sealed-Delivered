@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_071_1679_Carr" xml:lang="en">Peter Carr. Will</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>"Maryland, Register of Wills Records, 1629-1999." 
+                    Images. FamilySearch. <ref target="http://FamilySearch.org">http://FamilySearch.org</ref>: 3 December 2024. 
+                    Citing Prerogative Court. Hall of Records, Annapolis.</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p><ref target="https://www.familysearch.org/ark:/61903/3:1:33SQ-GYMZ-F4C?wc=SNYZ-DPN%3A146535701%2C148429801%26cc%3D1803986&amp;cc=1803986&amp;lang=en&amp;i=70">Peter Carr. Will</ref></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Peter Carr. Will</head>
+                <p>In the name of God Amen I <persName type="author">Peter <surname>Carr</surname></persName> of <placeName>Charles County in the provence of
+                <lb/>Maryland</placeName> Planter lying such and weake in body but sound and perfect memory
+                    <lb/>to make and ordain this my last will and testament in manner and form
+                    <lb/>following <unclear reason="illegible">--</unclear> First I give and bequeath my soule unto the hands of
+                    <lb/>almighty God believing that through the Death and passion of his dear son &amp;
+                    <lb/>my blessed savious Jesus Christ I may be made an inheriter of Eternal life and
+                    <lb/><catchwords>my</catchwords>
+                    <pb/>
+                    <lb/>my body I commit to the ground to be interned in such decent manner as
+                    <lb/>my Executor hereafter named shall think <unclear reason="illegible">--</unclear> and as to the Dispersal of
+                    <lb/>the Estate that God gath veen pleased (in this world) to give me I give
+                    <lb/>and disperse the same as followeth <unclear reason="illegible">v--</unclear> Item after my debts and personal
+                    <lb/>Expenses paid &amp; discharged I give and bequeath unto <persName type="beneficiary" xml:base="RobertDouglas">Robert</persName> <persName type="beneficiary" xml:id="CharlesDouglas">Charles</persName> <persName type="beneficiary" xml:id="JosephDouglas">Joseph</persName>
+                    <lb/><persName type="beneficiary" xml:id="ElizabethDouglas">Elizabeth</persName> and <persName type="SarahDouglas">Sarah <surname>Douglas</surname></persName> sons and daughters of <persName>Col. John <surname>Douglas</surname></persName> late
+                    <lb/>of <placeName>Charles County</placeName> deceased. the sum and quantity of <measure commodity="crop" unit="pounds" quantity="10390">ten thousand seven hundred
+                    <lb/>thiry nine pounds of tobacco</measure> to be equally divided amonst them by even
+                    <lb/>portions when they shall arrive to the age of sixteene years the said sum of 
+                    <lb/>tobacco being due to me from Sarah Douglas now wife of <persName>Robert <surname>Smith</surname></persName> and
+                    <lb/>mother of said <unclear reason="illegible">Leg--</unclear>as appears by a bill under her hands and seal
+                    <lb/>bearing date the <date when="1679-05-09">ninth day of May 1679</date>.
+                </p>
+                <p>Item. I give <persName type="beneficiary" xml:id="PeterMackmillion">Peter <surname>Mackmillion</surname></persName> son of <persName>George <surname>Mackmillion</surname></persName> late of <placeName>Charles 
+                    <lb/>County</placeName> deceased <measure commodity="land" unit="acre" quantity="6000" xml:id="PeterMackmillion">six thousand pounds of tobacco</measure> and <measure commodity="horse" quantity="1" xml:id="PeterMackmillion">one Roane filly</measure>
+                    <lb/>shall come to the afe of sixteen years and in the meane tyme the said Peter to
+                    <lb/>remaine in the custody &amp; serve the remainer of his time with <persName>Joseph <surname>Buttell</surname></persName>
+                    <lb/>and the said Peter shall arrive to the age aforesaid. 
+                </p>
+                <p>Item After all the debts and <unclear reason="illegible">Leg--</unclear> paid all the <unclear reason="illegible">--</unclear> and remainder of
+                    <lb/>my Estate both real and personall I give and bequeath as foll. I give unto <persName type="beneficiary" xml:id="JaneSmith">Jane <surname>Smith</surname></persName> wife of <persName type="beneficiary">John <surname>Smith</surname></persName> my servant <measure commodity="other" xml:id="JaneSmith">one half thereof together with their freedom</measure>
+                    <lb/><measure commodity="other" xml:id="JamesTyler">one fourth part</measure> thereof unto <persName xml:id="JamesTyler">James <surname>Tyler</surname></persName> son of <persName>James Tyler</persName>  my Exectuor
+                    <lb/>hereafter named and the remaining <measure commodity="other">fourth part</measure> unto children od <persName>George <surname>Shane</surname></persName> and those alike and I do hereby nominate and appoint my loving
+                    <lb/>James Tyler of <placeName>Charles County</placeName>
+                    <lb/>  Executor this my last will and 
+                    <lb/>testiment
+                    <lb/>and request him to <unclear reason="illegible">--</unclear> the same Executed In Testimony
+                    <lb/>whereof I have hereunto set my hand and seal this <date when="1680-09-21">21st day of September
+                    <lb/><catchwords>Anno</catchwords>
+                    <pb/>
+                    <lb/>Anno Domino 1680</date>
+                </p>
+                <p>Signed Sealed published &amp; Decleared by
+                    <lb/>the above named Peter Carr at his last
+                    <lb/>will and Testamant in the presence of us
+                    <lb/><persName type="witness">William 12 <surname>Philmore</surname></persName>:-<persName type="witness">John <surname>Telby</surname></persName> <persName type="witness">Ed <surname>Dennis</surname></persName>
+                    <lb/>his mouth his mark
+                    <lb/>the mark of
+                    <lb/>Peter M Carr
+                </p>
+                <p>On the back of the foregoing will was endorsed the following Probate (to will)
+                    <lb/><date when="1683-04-19">April 19th 1683</date>. THis day Came Mr. Philmore and Edmond Dennis two of the
+                    <lb/>witnesses of the written will before me <persName>Humphrey <surname>Narner</surname></persName> one of his Lordships
+                    <lb/>Justice of the Peace for <placeName>Charles County</placeName> and made oath that the written
+                    <lb/>named Peter Carr did sign seal and Deliver the within written as his <unclear reason="illegible">o--</unclear>
+                    <lb/>and deed and did declare the same to be his last will and testament
+                    <lb/>3 3/4 Sides
+                    <lb/>Hum. Narner
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

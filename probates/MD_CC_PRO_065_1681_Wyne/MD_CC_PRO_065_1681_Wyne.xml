@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_065_1681_Wyne" xml:lang="en">Francis Wyne. Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>"Maryland, Register of Wills Records, 1629-1999." 
+                    Images. FamilySearch. <ref target="http://FamilySearch.org">http://FamilySearch.org</ref>: 3 December 2024. 
+                    Citing Prerogative Court. Hall of Records, Annapolis.</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p><ref target="https://www.familysearch.org/ark:/61903/3:1:33SQ-GYMZ-FD1?wc=SNYZ-DPN%3A146535701%2C148429801%26cc%3D1803986&amp;cc=1803986&amp;lang=en&amp;i=64">Francis Wyne. Will.</ref></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Francis Wyne. Will.</head>
+                <p>In the name of God Amen the fourteenth day of november in the year
+                    <lb/>of our Lord one Thousand six hundred eighty and one I <persName type="author">Francis <surname>Wyne</surname></persName> of <placeName>Charles 
+                    <lb/>County in the province of Maryland</placeName> gentle. being sick in body but of good and
+                    <lb/><unclear reason="illegible">h</unclear> memory thanks to the almighty God and calling to remembrance the
+                    <lb/>uncertain Estate of this transitory life and that must yield unto
+                    <lb/><catchwords>Death</catchwords>
+                    <pb/>
+                    <lb/>Death when it shall please God to call do make constitute ordaine and
+                    <lb/><unclear reason="inaudible">D</unclear> this <unclear reason="illegible"></unclear> my last will and testament in manner and form following
+                    <lb/>reworking and annulling by these presents all and any testament &amp;
+                    <lb/>testament will and wills heretofor by me made and declared either by
+                    <lb/>word or writing and this to be taken only for my last will and testament and <unclear reason="illegible">s</unclear> from the bottom of my heart
+                    <lb/>for my sins that most humbly disiring foregiveness for the same
+                    <lb/>I give and committ my soule unto almighty God my saviour and redeemer
+                    <lb/>in whome and by the merits of Jesus Christ I trust and believe <unclear reason="illegible"></unclear> to
+                    <lb/>be saved and to have full <unclear reason="illegible"></unclear> and foregiveness of all my sins and
+                    <lb/>that my soule with my body at the general day of resurrection shall rise
+                    <lb/>again with  Joy and through the wills of Christs Death &amp; passion shall
+                    <lb/><unclear reason="illegible"></unclear> and inherit the kingdom of heaven <unclear reason="illegible"></unclear> for his Elect and chosen
+                    <lb/>and my body to be buried in such place where it shall please my Executor
+                    <lb/>hereafter named to appoint and <unclear reason="illegible"></unclear> for the settling of my temporal
+                    <lb/>Estate such goods Chattle and Debts as it hath pleased almighty God
+                    <lb/>for above my dearest to bestow upon me I doe order give and dispose the
+                    <lb/>same in manner and form following that is to say. First I will that all
+                    <lb/>those debts or duties that <unclear reason="illegible"></unclear> in right or <unclear reason="illegible">con</unclear> to any manner of person
+                    <lb/>or peersons whatsoever shall be will and truly contested and paid within
+                    <lb/>Convenient time after mu decease by my Executor hereafter named.
+                </p>
+                <p>Item. I doe give and bequeath unto my son <persName type="son" xml:id="HenryWyne">Henry <surname>Wyne</surname></persName> now living in <placeName>London
+                <lb/>the kingdom of England</placeName> the <measure commodity="land" xml:id="HenryWyne">one half part or <unclear reason="illegible"></unclear> of a parcel of land
+                    <lb/>formely known or called by the name of <name><unclear reason="illegible">Inclands</unclear> Close</name></measure> and the one half
+                    <lb/>part or moiety of a parcel of Land formerly named or known by the
+                    <lb/>name of <measure commodity="land" xml:id="HenryWyne"><name></name></measure> and the <measure commodity="land" xml:id="HenryWyne">one moiety or half that of a parcel of
+                    <lb/>land formely known and called by the name of <name>Pinwells Close</name></measure>
+                    <lb/>lying and being at <placeName><unclear reason="illegible">P--</unclear></placeName> and <placeName>Northampton Shire in the kingdom of
+                    <lb/><catchwords>England.</catchwords>
+                    <pb/>
+                    <lb/>England</placeName> to him and his heirs forever.
+                </p>
+                <p>Item. I doe give and bequeath the other moiety or half part of the above said three
+                    <lb/>Closes <unclear reason="illegible"></unclear> <name><unclear reason="illegible">Inclands</unclear> Close</name> <name>Pinwells Close</name> and <name>Angells Close</name> unto my Daughter
+                    <lb/><persName type="daughter" xml:id="ElizabethWyne">Elizabeth <surname>Wyne</surname></persName> to her and the heirs of her body lawfully begotten forever and in
+                    <lb/>case <unclear reason="illegible"></unclear> my son Henry Wyne or my Daughter Elizabeth Wyne shall happen
+                    <lb/>to die before they come to full age to injoy and profit the aforesaid three closes
+                    <lb/>within heirs then the moiety or half belonging to either of them <unclear reason="illegible">soe</unclear>
+                    <lb/>dieing without heirs shall be equally devided between the surviver and my
+                    <lb/>son <persName type="son">John <surname>Wyne</surname></persName> to them and their heirs forever but in case both Henry Wyne
+                    <lb/>and my Daughter Elizabeth Wyne shall die before they come to full age to enjoy
+                    <lb/>the same abd without heirs then I doe gove and bequeath unto my son John Wyne and
+                    <lb/>his heirs forever.
+                </p>
+                <p>Item. I doe give and bequeath unto my son John Wyne <measure commodity="land" unit="acres" quantity="300" xml:id="JohnWyne">all that parcel of Land lying
+                    <lb/>situate and being at <placeName>Port Tobacco in Charles County</placeName> aforesaid commmonly
+                    <lb/>known or called by the name of <name>Simpsons Delighte</name> containing three hundred acres</measure>
+                    <lb/>and three parcels of land more lying at <placeName>Port Tobacco</placeName> aforesaid the <measure commodity="land" unit="acre" quantity="200" xml:id="JohnWyne">one called
+                    <lb/><name><unclear reason="illegible">Nafell</unclear></name> containing two hundred acres of Land</measure> the <measure commodity="land" unit="acre" quantity="100" xml:id="JohnWyne">other called <name><placeName>London</placeName></name>
+                    <lb/>containing on hundred acres of Land</measure> and <measure commodity="land" unit="acre" quantity="100" xml:id="JohnWyne">>one more called <name><unclear reason="illegible">Blackseteh</unclear></name>
+                    <lb/>containing one hundred acres of Land</measure> and <measure commodity="land" unit="acre" quantity="200" xml:id="JohnWyne">a parcel of land lying situate and being
+                    <lb/>at <unclear reason="illegible">--</unclear> in <placeName>Charles County</placeName> aforesaid formerly known or called of <name><unclear reason="illegible">Glowers</unclear>
+                    <lb/>Point</name> containing two hundred acres of Land</measure> and <measure commodity="land" unit="acre" quantity="200" xml:id="JohnWyne">a parcel of Land lying <unclear reason="illegible"></unclear>
+                    <lb/>and near <unclear reason="illegible">Pesiatoway</unclear> in <placeName>Charles County</placeName> aforesaid formerly known or called by the
+                        <lb/>name of <name>Prikley</name> containing to hundred acres of Land</measure> and also three parcells
+                    <lb/>of Land lying <unclear reason="illegible">--</unclear> and being at the head of <name>Wiucomies River</name> in <placeName>Charles
+                        <lb/>County</placeName> aforesaid the <measure commodity="land" unit="acre" quantity="90" xml:id="JohnWyne">one called by the name of <name>Burton</name> containing ninety acres</measure>
+                    <lb/><measure commodity="land" unit="acre" quantity="37" xml:id="JohnWyne">the other called by the name of <name>Seidmores Adventure</name> containing thirty seven
+                        <lb/>acres of Land</measure> and <measure commodity="land" unit="acre" quantity="37" xml:id="JohnWyne">one more called by the name of <name>Susquahannah</name> containing 
+                    <lb/><catchwords>thiry</catchwords>
+                    <pb/>
+                            <lb/>thirty seven acres of Land></measure> unto him and his heirs forever out of which parcels 
+                    <lb/>of Land aforesaid I doe give and bequeath unto my loving wife <persName xml:id="ElizabethWyneWife" type="spouse">Elizabeth
+                    <lb/><surname>Wyne</surname></persName> one third part of them or any of them she haveing the choice to take
+                    <lb/>which of them she likes best for her third part of the aforesaid parcels of 
+                    <lb/>Item. Land. I do give and bequeath unto my son John Wyne one negro man
+                    <lb/>called by the name of <persName type="enslaved">Conger</persName> and one negro woman called by the
+                    <lb/>name of <persName type="enslaved"><unclear reason="illegible">black nan</unclear></persName> with her increase that she shall have if she have
+                    <lb/>any to be deliveted unto my son John Wyne above <unclear reason="illegible">--</unclear> when he shal arrive
+                    <lb/>at the age of twenty one years and also I give and bequeath unto my son
+                    <lb/>John Wyne one hood breeding to be delivered unto him within twelve months 
+                    <lb/>after my decrease. 
+                </p>
+                <p>Sighed sealed published &amp; declared to be
+                    <lb/>his last will and testament 
+                    <lb/>In the presence of us
+                    <lb/><unclear reason="illegible">his might--</unclear>
+                    <lb/><persName type="witness">George M Graves</persName> <persName type="witness">Robert R Pricr</persName> <persName type="witness"><unclear reason="illegible"></unclear> Lomar</persName>
+                    <lb/>Francis Wyne
+                </p>
+                <p>On the back of the aforegoing will was endoresed the following probate to will,
+                    <lb/><date when="1681-03-06">March the 6th 1681/2</date> The come before me <persName type="witness">Robert <surname>Henley</surname></persName> one of his Lordship Justice for
+                    <lb/><placeName>Charles County</placeName> <persName type="witness">George Robert <surname>Price</surname></persName> and <persName type="witness"><unclear reason="illegible">Cleto--</unclear> <surname>Lomas</surname></persName> the three witnesses
+                    <lb/>to the within written will and d fexecid in common form orice the same by their 
+                    <lb/>oaths that Francis Wyne dec. did own the same to be his <unclear reason="illegible">oath</unclear> and died and
+                    <lb/>published the same in the presence of the them take his last will and testamant
+                    <lb/>and also administrated the oaths of an Executor to the within named Elizabeth
+                    <lb/>Wyne Executor of the said last will and testament and administrated also the
+                    <lb/>oath of appraises unto <persName>Mr. Thomas <surname><unclear reason="illegible">C--</unclear></surname></persName> and Mr. John Wyne
+                    <lb/><catchwords>the</catchwords>
+                    <pb/>
+                    <lb/>the two appraises appointed for the appointment of the goods and chattles of
+                    <lb/>the sd Francis Wyne dec.d by viture of a commision from the <unclear reason="illegible">hand--</unclear> the
+                    <lb/>Chancellor Chief Judge in testimenley causes and for probate of wills and
+                    <lb/>granting of adminestrations leaving take the <date when="1681-01-31">31st day of January 1681/2</date>
+                    <lb/>9 1/4 sides
+                    <lb/>Robert Henley
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_072_1683_Henly" xml:lang="en">Robert Henly. Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>"Maryland, Register of Wills Records, 1629-1999." 
+                    Images. FamilySearch. <ref target="http://FamilySearch.org">http://FamilySearch.org</ref>: 3 December 2024. 
+                    Citing Prerogative Court. Hall of Records, Annapolis.</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p><ref target="https://www.familysearch.org/ark:/61903/3:1:33S7-9YMZ-6NM?wc=SNYZ-DPN%3A146535701%2C148429801%26cc%3D1803986&amp;cc=1803986&amp;lang=en&amp;i=71">Robert Henly. Will.</ref></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Robert Henly. Will.</head>
+                <p>In the name of God Amen the <date when="1683-02-15">15th day of February in the year
+                <lb/>of our Lord One Thousand and Six hundred and eighty three</date> I <persName type="author">Robert <surname>Henly</surname></persName> of <placeName><unclear reason="illegible">Py--con</unclear>
+                <lb/>in Charles County</placeName> Gen. being sick of body but of good and perfect memory thankful
+                    <lb/>to almighty God &amp; calling to rememberanve the uncertain Estate of this transitory
+                    <lb/>life that all flesh must yield unto Death when it shall please God to call
+                    <lb/>do make constitute ordain and Declare this to be my last will and testament
+                    <lb/>in manner and form following working and annulling by these oresents all
+                    <lb/>declared either by word or writing and this to be taken only for my last will &amp;
+                    <lb/>testament &amp; none other first being permitent and sorry from the bottom of my
+                    <lb/>heart for my sins past most humbly desiring foregiveness for the same
+                    <lb/>I give and commit my soul to almighty God my saviour &amp; redeemer in <unclear reason="illegible">whome?</unclear>
+                    <lb/>and by the merits of Jesus Christ I trust &amp; believe <unclear reason="illegible">--</unclear> to be saved &amp; to have
+                    <lb/><catchwords>full</catchwords>
+                    <pb/>
+                    <lb/>full <unclear reason="illegible">--</unclear> and foregiveness of all my sins that my soul with my
+                    <lb/>body at the general day of resurrection shall rise again with joy &amp;
+                    <lb/>through the merits of Christs Death &amp; passions shall Profet and inherit the
+                    <lb/>kingdom of heaven performed for his elect and chosen and my body to be
+                    <lb/>buried in such place where it shall please my Executor gereafter named to
+                    <lb/>appoint and now for the sitting of my temporal Estate &amp; such goods
+                    <lb/>chattles &amp; debts as it hath please Almigty God for above my <unclear reason="illegible">D--</unclear> to
+                    <lb/>bestowe upon me I do order give and dispose the same in manner &amp;
+                    <lb/>form following (that is to say)
+                </p>
+                <p><unclear reason="illegible">I--</unclear> I will that all those debts and duties that I owe in rightor consience to any
+                    <lb/>manner of person or persons whatsoever shall be well and truly contended &amp;
+                    <lb/>paid within convenient time after my decease by my Executor hereafter named
+                </p>
+                <p>Ite I do give and bequeath unto my beloved Grand Daughter <persName type="granddaughter" xml:id="CharityCourte">Charity
+                <lb/><surname>Courte</surname></persName> the Daughter of <persName>John</persName> and <persName>Charity <surname>Courte</surname></persName> two negro girls the one named
+                    <lb/><persName type="enslaved">Elizabeth</persName> the other <persName type="enslaved">Sarah</persName> to have &amp; to hold the s.d two negro girls with their
+                    <lb/>future increase unto her the s.d Charity Courte and her heirs forever also I do
+                    <lb/>give and bequeath unto the said Charity Courte one <measure commodity="furniture" quantity="1" xml:id="CharityCourte">one feather bed</measure> and <measure commodity="furniture">furniture
+                    <lb/>with chair</measure> and other <unclear reason="illegible">--</unclear> things fitting and convenient for the furnishing
+                    <lb/>of one Room with all &amp; once <measure commodity="houseware" quantity="1" xml:id="CharityCourte">one silvr bowle</measure> which I desire maybe sent to
+                    <lb/><placeName>England</placeName> that the s.d bowle may turned into a silver tankard for her &amp;
+                    <lb/><unclear reason="illegible">--</unclear> I do give and bequeath unto the said Charity Courte <measure commodity="livestock" quantity="6" xml:id="CharityCourte">six cowes</measure> with
+                    <lb/>their future increase to her and her heirs <unclear reason="illegible"></unclear>
+                </p>
+                <p>It. I do give and bequeath unto <persName type="beneficiary">Thomas <surname>Harris</surname></persName> the son of Thomas Harris one
+                    <lb/>one negro boy called <persName type="enslaved">Jupiter</persName> to serve him seven years after my decease &amp; in case
+                    <lb/>the said negro boy shall run away &amp; absent himself out of the s.d Thomas Harris
+                    <lb/>his service during the manner of time aforesaid the s.d Thomas Harris shall
+                    <lb/><unclear reason="illegible">receive?</unclear> noe damange <unclear reason="illegible">ag--</unclear> s.d negro boy for his <unclear reason="illegible">--</unclear> running away or absenting
+                    <lb/>himself out of his servive during the term of time aforesai and at the end &amp;
+                    <lb/><catchwords><unclear reason="illegible">--ination</unclear></catchwords>
+                    <pb/>
+                    <lb/><unclear reason="illegible">--ination</unclear> of s.d sevent years servitute the aforesaid negro boy Jupiter to
+                    <lb/>be free and discharged from all manner of service to be claimed by any
+                    <lb/>manner of person or persons whatsoever <unclear reason="illegible"></unclear>
+                </p>
+                <p>It. I do give and between unto <persName type="beneficiary" xml:id="BethshebaHarris">Bethsheba <surname>Harris</surname></persName> the Daughter of Thomas Harris
+                    <lb/><measure commodity="livestock" quantity="4" xml:id="BethshebaHarris">four sheepe</measure> and <measure commodity="livestock" quantity="2" xml:id="BethshebaHarris">two cowes</measure> with their future increase into her &amp; her heirs &amp;
+                    <lb/><measure commodity="livestock" quantity="2" xml:id="BethshebaHarris">two caves</measure> with their future increase to her and her heirs <unclear reason="illegible">forever?</unclear>
+                </p>
+                <p>It. I do give and bequeath unto <persName type="beneficiary" xml:id="ElizabethNichols">Elizabeth <surname>Nichols</surname></persName> <measure commodity="livestock" quantity="2" xml:id="ElizabethNichols">two caves</measure> with their future increase
+                    <lb/>to her and her heirs forever and as for <measure commodity="estate" xml:base="JohnCourte">the rest of my Estate both real and personall
+                    <lb/><unclear reason="illegible">virtue?</unclear> all my Land &amp; tenements that I am <unclear reason="illegible">possessed?</unclear> wieth in the county ot
+                    <lb/>any other place whatsoever togther with my stock of cattle hogs sheep horses
+                    <lb/>&amp; mares &amp; all other goods &amp; chattles whatsoever I do give and bequeath unto my
+                    <lb/>well beloved son in law <persName type="son-in-law" xml:id="JohnCourte">John <surname>Courte</surname></persName> <unclear reason="illegible">--</unclear> &amp; unto my well beloved Daughter 
+                    <lb/><persName type="daughter" xml:id="CharityCourteDaughter">Charity</persName> his wife to have and to &amp; to hold the s.d land &amp; tenements with all the <unclear reason="illegible">--</unclear>
+                        <lb/>belongings</measure> unto the same unto them the said John Courte &amp; Charity his wife
+                    <lb/>and the heirs of their bodies Lawfully begotten forever together with my <unclear reason="illegible">stake?</unclear>
+                    <lb/>of cattle hogs sheep horses &amp; mares &amp; all other goods &amp; chattles whatsoever to them &amp;
+                    <lb/>their heirs to be delivered amonst them forever &amp; I do hereby ordaine &amp; appoint
+                    <lb/>my well beloved son in law John Courte <unclear reason="illegible">J--</unclear> to be the hole and sole Executor of this
+                    <lb/>my last will &amp; testament In witness wheteof I have hereunto set my hand &amp; 
+                    <lb/>seal the day &amp; year first above written
+                </p>
+                <p>Signed sealed delivered &amp; published
+                    <lb/>In the presence of us hereunder written
+                    <lb/>his
+                    <lb/><persName type="witness">Edward <surname>Lee</surname></persName> <persName type="witness">Richard R <surname><unclear reason="illegible">Tent?</unclear></surname></persName> <persName type="witness"><unclear reason="illegible">C--</unclear> <surname>Lomas</surname></persName>
+                    <lb/>mark
+                    <lb/>his
+                    <lb/>Robert C. Henly
+                    <lb/>mark
+                </p>
+                <p>On the back of the foregoing will was the following Endorsement (to will)
+                    <lb/>By virtue of a commission fromm the honorable <unclear reason="illegible">C--</unclear> <persName>Henry <surname>Darnell</surname></persName> and <unclear reason="illegible">C--</unclear> <persName>William
+                    <lb/><surname>Diggs</surname></persName> Chief judges in yesya,emtry causes to me Directed bearing date the <date when="--02-28">28th
+                    <lb/><catchwords>day</catchwords>
+                    <pb/>
+                    <lb/>day of February</date> last part I have called before me the witnesses within named
+                    <lb/>&amp; by their oaths accordinng to commission form have proved the within written
+                    <lb/>will and testament &amp; viz!, by the paths of Edward Lee Richard Gent. Cleborn?
+                    <lb/>Lomas and <persName type="witness">Margarett <surname>Maeyslis?</surname></persName> this <date when="1685-03-08">8th day of March <unclear reason="illegible">--</unclear> <unclear reason="illegible">168?</unclear></date> and did then
+                    <lb/>likewise administer to the within named John Courte <unclear reason="illegible">J--</unclear> the oath of Executor
+                    <lb/>By viture of the same commission I have also called before me <persName>John <surname>Fanning</surname></persName>
+                    <lb/>and <persName>Thomas <surname><unclear reason="illegible">--</unclear></surname></persName> &amp; given <unclear reason="illegible">th--</unclear> their oaths as appraisers to the said
+                    <lb/>Estate of Robert Henly deceased as witness my hand and seal this <date when="1684-03-31">31st day
+                    <lb/>of March Anno Domino 1684</date>.
+                    <lb/>9 1/2 Sides
+                    <lb/><persName>James <surname>Tyler</surname></persName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

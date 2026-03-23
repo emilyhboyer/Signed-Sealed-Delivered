@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_067_1683_Bodkin" xml:lang="en">James Bodkin. Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>"Maryland, Register of Wills Records, 1629-1999." 
+                    Images. FamilySearch. <ref target="http://FamilySearch.org">http://FamilySearch.org</ref>: 3 December 2024. 
+                    Citing Prerogative Court. Hall of Records, Annapolis.</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p><ref target="https://pve.msa.maryland.gov/pages/viewer.aspx?BLvaCen0+jrVS%2faClfJL1lFv3BD2JPESyI2yzbU3Prr6ttlAzNYDe0Kf5MXavGyktCj%2fJ9lE0Wx4OgHoH+opYA=%3d">James Bodkin. Will.</ref></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">James Bodkin. Will.</head>
+                <p>In the name of God amen I <persName type="author">James <surname>Bodkin</surname></persName> of <placeName>Charles County in
+                <lb/>province of Maryland</placeName> Merchant one of the Executors of <persName type="brother" xml:id="DominickBodkin"><unclear reason="illegible">Dominick</unclear> <surname>Bodkin</surname></persName>
+                    <lb/>of <placeName>Galloway in the Kingdom of Ireland</placeName>, merchant although sick and
+                    <lb/>weak of body yet of perfect and sound minde and memory praise be therefore
+                    <lb/>given to almighty God do maake and ordaine this my last will and testament
+                    <lb/>in manner and form following that is to say first and princeipally I comment
+                    <lb/>my soule into the hands of almighty God hoping the <unclear reason="illegible">meritts</unclear> death and <unclear reason="illegible">passions</unclear>
+                    <lb/>of my saviour Jesus Christ to have fill and thee pardon and foregiveness of all
+                    <lb/>my sinns and to inherit everlasting life and my body I commit to the earth
+                    <lb/>to be decently buried at the discression of my Executor hereafter named and
+                    <lb/>touching the distinction of all such worldy Estate as it hath pleased
+                    <lb/>almighty God to bestowe on me I give and bestow thereof as followeth
+                </p>
+                <p>First I will that my Debts and funeral charges shall be paid and discharged
+                    <lb/>thereas by right of my Executor <unclear reason="illegible">s--</unclear> of the aforesaid Dominick Bodkin <unclear reason="illegible">I--</unclear>
+                    <lb/>possessed with a will at the head of <placeName>Westwood <unclear reason="illegible">C--</unclear> in Charles County</placeName> and 
+                    <lb/>concerned with mu deceased until the aforesaid Dominick Bodkin in his late
+                    <lb/><unclear reason="illegible">voiage</unclear> that if he should <unclear reason="illegible">--</unclear> the said will at my own proper cost and charge
+                    <lb/>paying until them <measure commodity="crop" unit="pounds" quantity="30000" xml:id="FrancisChapling"></measure>thirty thousand pounds of tobacco and ship there clear of 
+                    <lb/>all charge consigned unto <persName type="beneficiary" xml:id="FranicChapling">Mr Francis <surname>Chapling</surname></persName> Hon. merchants in <placeName>Bruges</placeName>
+                    <lb/><catchwords>in</catchwords>
+                    <pb/>
+                    <lb/>in <placeName>Flanders</placeName> by which contract I am <unclear reason="illegible">p--</unclear> of the said will in my own
+                    <lb/>right which said contract being accomplished I do give and bequeath 
+                    <lb/>al my tight title and interest in the said will unto my loving brother
+                    <lb/>Dominick Bodkin now resident in the <placeName>Island of Antegae</placeName> and his heirs
+                    <lb/>forever and in case that my brith at the time of my decease be not
+                    <lb/>living that then I do give and bequeath the said will unto my
+                    <lb/>loving brother <persName type="brother" xml:id="EdwardBodkin">Edward <surname>Bodkin</surname></persName> late resident in <placeName>Galloway in Ireland</placeName>
+                    <lb/>and to his heirs forever and in case that my two brothers be not living
+                    <lb/>at the time of my decease that then I give and bequeath the said will
+                    <lb/>unto my younger brother <persName type="youngerbrother" xml:id="AugustinBodkin">Augustin <surname>Bodkin</surname></persName> and to his heirs forever and
+                    <lb/>in case at the time of my deacease all my said brothers should be deceased
+                    <lb/>without I <unclear reason="illegible">--</unclear> that then I do and bequeath the said will unto my lov.
+                    <lb/>cosen <persName type="cousin" xml:id="AndrewBodkin">Andrew <surname>Bodkin</surname></persName> son and heir of my deceased uncle <persName type="uncle">Dominick Bodkin</persName>
+                    <lb/>all my right title and interest in the said will and his heirs forever
+                    <lb/>he the said Andrew paying unto my loving sisters <persName type="sister" xml:id="AnnBodkin">Ann</persName> <persName type="sister" xml:id="JaneBodkin">Jane</persName> and <persName type="sister" xml:id="ElenorBodkin">Elenor</persName> 
+                    <lb/>Bodkin each <measure commodity="currency" unit="shilling" quantity="20">twenty pound sterling</measure> and in case any of my sisters should
+                    <lb/>decease before they are married my will and desire is that the legacy so
+                    <lb/>given be paid unto my Honoured father <persName type="father" xml:id="PatrickBodkin">Patrick <surname>Bodkin</surname></persName> and in case
+                    <lb/>that my honoured father be at such time deceased that there the said legacy  
+                    <lb/>be paid unto my honored mother <persName type="mother" xml:id="OnoniasBodkin">Ononias <surname>Bodkin</surname></persName>.
+                </p>
+                <p>Whereas I have aright and title to <measure commodity="land" unit="acre" quantity="300" xml:id="DominickBodkin">a tract of land by grant from the right
+                    <lb/>honorable Lord <unclear reason="illegible">pro--</unclear> lying in <placeName>St. Marys County</placeName> called <name>Charles Borough
+                        <lb/>Swamp</name> containing three hundred acres</measure> as also <measure commodity="land" unit="acre" quantity="250" xml:id="DominickBodkin">one other tract of land lying
+                    <lb/>in <placeName>Charles County</placeName> containing two hundred and fifty acres</measure> which said
+                    <lb/>tract of land I do give and bequeath unto my lo. brother Patrick Bodkin
+                    <lb/>and his heirs forever and in case that my brother at the time of my
+                    <lb/>decease be not living that then I do and bequeath the said two tracts
+                    <lb/>of land unto my borther Edward Bodkin and his heirs forever and
+                    <lb/><catchwords>in case</catchwords>
+                    <pb/>
+                    <lb/>in case my foresaid brother be not living at the time of my decease <unclear reason="illegible">I--</unclear>
+                    <lb/>I do bequeath all the said two tracts of land unto my younger brother
+                    <lb/>Augustin Bodkin and his heirs forever and in case all my brothers should
+                    <lb/>be deceased at the time of my decease without issue then I do give and bequeath
+                    <lb/>the said two tracts of lands unto my cousin Andrew Bodkin and his heirs forever
+                    <lb/>the aforesaid tracts of land of tehe two hundred and fifty acres lying in <placeName>Charles County</placeName>
+                    <lb/>called <name>Saturday Word</name>. 
+                </p>
+                <p>Item. I give unto <unclear reason="illegible">mayo</unclear> <persName type="beneficiary" xml:id="WilliamBoarman">William <surname>Boarman</surname></persName> my <measure commodity="houseware" xml:id="WilliamBoarman">plate <unclear reason="illegible">bullons</unclear></measure>
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary" xml:id="MichaelFoster">Mr. Michael <surname>Foster</surname></persName> <persName type="beneficiary" xml:id="ThomasG">Mr. Thomas <surname><unclear reason="illegible">Gan--</unclear></surname></persName> <persName type="beneficiary" xml:id="FrancisPrinington">Mr Francis
+                <lb/><surname>Prinington</surname></persName> and <persName type="beneficiary" xml:id="ThomasM">Mr. Thomas <surname><unclear reason="illegible">Mapey?</unclear></surname></persName> each <measure commodity="crop" unit="pounds" quantity="400">four hundre pounds of tobacco</measure>.
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary" xml:id="RichardHobart">Mr. Richard <surname>Hobart</surname></persName> <measure commodity="crop" unit="pounds" quantity="600" xml:id="RichardHobart">six hundred pounds of tobacco</measure>
+                </p>
+                <p>I do give and bequeath unto loving cousin <persName type="cousin" xml:id="JamesBodkin">James <surname>Bodkin</surname></persName> <measure commodity="clothes" quantity="6" xml:id="JamesBodkin">six holland shirts</measure> <measure commodity="clothing" quantity="2" xml:id="JamesBodkin">two
+                    <lb/>Dawles shirts</measure> <measure commodity="clothes" quantity="4" xml:id="JamesBodkin">four laced cravatts</measure> and my <measure commodity="other" quantity="1">crop sorell horse saddle</measure> &amp; <measure commodity="furniture">furniture</measure>
+                </p>
+                <p>Item. I give and bequeath into <persName type="beneficiary" xml:id="CharlesQuigley">Charles <surname>Quigley</surname></persName> my <measure commodity="weapon" quantity="1" xml:id="CharlesQuigley">sword and belt</measure> and all the
+                    <lb/>remainder of my <measure commodity="clothes" xml:id="CharlesQuigley">waring apparell linens and woolin</measure> and <measure commodity="weapon"><unclear reason="illegible" xml:id="CharlesQuigley">--</unclear> blade</measure>
+                </p>
+                <p>Item. My will and desire is the said Quigley be allowed <measure commodity="crop" unit="pounds" quantity="5000" xml:id="CharlesQuigley">five thousand
+                <lb/>pounds of tobacco</measure> for his years sallary according to agreement deducting
+                    <lb/>thereout what he stands indebted unto me by book or otherwise and my will
+                    <lb/>is that all my servants wages be duly paid according to agreement and my
+                    <lb/>will and desire is that whatsoever debts I have contracted in this province
+                    <lb/>for the recovery of the said will of the amendment tehreof or otherwise
+                    <lb/>to happen that there be not afects enought to pay them then my will is that
+                    <lb/>my Executor hereafter named bind <unclear reason="illegible">--</unclear> the said will unto some honest
+                    <lb/>ingenius person for some term of years such as my Executr shall
+                    <lb/>approve of for the satisfaction of my debts and thatby creditors may be
+                    <lb/>allowed reasonable consideration for the time of the for baranee of this debts
+                    <lb/><catchwords>item.</catchwords>
+                </p>
+                <pb/>
+                <p>Item. I do give and bequeath unto <persName type="beneficiary" xml:id="MaryBoarman">Mary <surname>Boarman</surname></persName> wife of <persName>Maj. William
+                <lb/><surname>Boarman</surname></persName> <measure commodity="crop" unit="pounds" quantity="800" xml:id="MaryBoarman">eight hundred pounds of tobacco</measure> to buy her a ring.
+                </p>
+                <p>Item I give and bequeath unto <persName type="beneficiary">Thomasin <surname>Gibbins</surname></persName> servant of mayo. William
+                    <lb/>Boarman <measure commodity="crop" unit="pounds" quantity="200">two hundred pounds of tobacco</measure>. 
+                </p>
+                <p>Item. I give and bequeath unto <persName type="beneficiary" xml:id="JanePhilips">Jane <surname>Philips</surname></persName> my servant woman <measure commodity="livestock" quantity="1" xml:id="JanePhilips">a young
+                    <lb/>black heifer</measure> <measure commodity="livestock" quantity="1" xml:id="JanePhilips">one breeding sow</measure>. 
+                </p>
+                <p>Item. I do give and bequeath unto <persName xml:id="JamesRobinson" type="beneficiary">James <surname>Robinson</surname></persName> servant to <unclear reason="illegible">D--</unclear> <persName>Patrick <surname><unclear reason="illegible">J--</unclear></surname></persName>
+                    <lb/><measure commodity="crop" unit="pounds" quantity="200" xml:id="JamesRobinson">two hundred pounds of tobacco</measure> Item I do give and bequeath unto <persName type="beneficiary" xml:id="JamesEllis">James
+                    <lb/><surname>Ellis</surname></persName> of <placeName>St Marys County</placeName> <measure commodity="crop" unit="pounds" quantity="200" xml:id="JamesEllis">four hundred pounds of tobacco</measure>.
+                </p>
+                <p>Item. I do and bequeath unto <persName type="beneficiary" xml:id="RobertCarich">Robert <surname><unclear reason="illegible">Carich</unclear></surname></persName> <measure type="other" xml:id="RobertC" quantity="1">one fowling piece</measure> and
+                    <lb/>I do nominate and declare and appoint and do hereby request Mr. <persName type="executor">Clement <surname>Hill</surname></persName> and Mr. Robert Carich both of <placeName>St. Marys County</placeName> to be Executors of this
+                    <lb/>my last will and testament and I do hereby rewoke <unclear reason="illegible">dis--</unclear> and make
+                    <lb/>void all former wills and testaments by me heretofore made In witness
+                    <lb/>whereof to this my last will and testament I have set my hand and <unclear reason="illegible">off-</unclear>
+                    <lb/>my seal the <date when="1683-08-21">twenty third day of August Anno Domino 1683</date>.
+                </p>
+                <p>Sgned sealed and published
+                    <lb/>In the presence of us
+                    <lb/><persName type="witness">Patrick <surname>Sines</surname></persName> <persName type="witness">Francis <surname>Green</surname></persName>
+                    <lb/><persName type="witness">Thomas <surname>Clark</surname></persName>
+                    <lb/>James Bodkin
+                </p>
+                <p>On the back of the aforegoing was the following Endorseent (to wet)
+                    <lb/>This day appeased before me Clement Hill and Robert Carich of <placeName>St. Marys</placeName>
+                    <lb/>Gen. Ex. of the last will and testamnet of James Bodkin Gen dec. at 
+                    <lb/><placeName>Newton in the St. Marys County</placeName> and took the oath of Ex. and duly administarted
+                    <lb/>the said Estate of the dec. according to Law and to <unclear reason="illegible">--</unclear> Inventory
+                    <lb/>in this marks as witness my hand this <date when="--12-12">twelth day of December</date>
+                    <lb/>H Digges
+                    <pb/>
+                    <lb/><date when="1683-01-08">January 8th Anno 1683</date> Then come before me under writtem Francis Green and 
+                    <lb/>Thomas Clark and made oath that the within will the set and deed
+                    <lb/>of James Bodkin and that they see him the within mentioned Bodkin sign
+                    <lb/>and seal the samee as witness my hand the day and year <unclear reason="illegible">--</unclear> above
+                    <lb/>written
+                    <lb/>12 1/2 Sides
+                    <lb/><persName>Jo. <surname><unclear reason="illegible">Pi--</unclear></surname></persName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

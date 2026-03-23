@@ -42,8 +42,8 @@
                 <lb/>gray mare</measure> and <measure commodity="horse" quantity="1" xml:id="GilesTomkins">fole</measure> being in his possession and all my debts that is due unto me in
                     <lb/><placeName>Maryland</placeName> that is to say by a debt due to me from <persName type="beneficiary" xml:id="JohnEwlson">John <surname><unclear reason="illegible">Ewlson</unclear></surname></persName> from my 
                     <lb/><unclear reason="illegible">crappe</unclear> to the value of <measure commodity="crop" quantity="1450" unit="pounds" xml:id="JohnEwlson">one thousand four hundred and fifty pounds of good
-                    <lb/>Tobacco</measure> also debt due to me from <persName>John <surname>Hodgeon</surname></persName> being fr Labour done by
-                    <lb/>me to the value of <measure commodity="crop" quantity="790" unit="pounds">seven hundred and ninety pounds of good Tobacco</measure>.
+                    <lb/>Tobacco</measure> also debt due to me from <persName xml:id="JohnHodgeon">John <surname>Hodgeon</surname></persName> being fr Labour done by
+                    <lb/>me to the value of <measure commodity="crop" quantity="790" unit="pounds" xml:id="JohnHodgeon">seven hundred and ninety pounds of good Tobacco</measure>.
                 </p>
                 <p>Item. I doe freely give and bequeath unto my trusty and well beloved friend
                     <lb/><persName type="beneficiary" xml:id="JohMueton">John <surname>Mueton</surname></persName> planter my servant <unclear reason="illegible">Igy</unclear> by name <persName type="servant">Edward <surname>Brides</surname></persName> &amp; now

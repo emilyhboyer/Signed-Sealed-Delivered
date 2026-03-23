@@ -46,8 +46,8 @@
                     <lb/>Eldest sunn Edward and <persName type="daughter" xml:id="ElizabethSmoot">Elizabeth</persName> <persName type="youngestson" xml:id="WilliamSmoot">William</persName> and <persName type="daughter" xml:id="ElonorSmoot">Elonor</persName> are to have and equall
                     <lb/>share of all my goods and well within <unclear reason="illegible">doores</unclear> are without.
                 </p>
-                <p>It. I make constitute ordaine and appooint my loving Brothers <persName type="overseer" xml:id="WilliamBarton">William <surname>Barton</surname></persName> and
-                    <lb/><persName type="overseer" xml:id="RobertRowlands">Robert <surname>Rowlands</surname></persName> overseers of this my last will and testament in witness hereof
+                <p>It. I make constitute ordaine and appooint my loving Brothers <persName type="executor" xml:id="WilliamBarton">William <surname>Barton</surname></persName> and
+                    <lb/><persName type="executor" xml:id="RobertRowlands">Robert <surname>Rowlands</surname></persName> overseers of this my last will and testament in witness hereof
                     <lb/>I have hereunto set my hand and seale the <date>23rd day of April in the year of our
                     <lb/>Lord God one thousand six hundred seventy and six.</date>
                 </p>

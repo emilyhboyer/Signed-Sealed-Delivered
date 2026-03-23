@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="file:/Users/emilyboyer/Desktop/ssdmain/repo/ssd.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title xml:id="MD_CC_PRO_070_1683_Wahob" xml:lang="en">Archibald Wahob. Will.</title>
+                <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
+                <editor>Emily Boyer</editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>"Maryland, Register of Wills Records, 1629-1999." 
+                    Images. FamilySearch. <ref target="http://FamilySearch.org">http://FamilySearch.org</ref>: 3 December 2024. 
+                    Citing Prerogative Court. Hall of Records, Annapolis.</publisher>
+                
+            </publicationStmt>
+            <sourceDesc>
+                <p><ref target="https://www.familysearch.org/ark:/61903/3:1:33SQ-GYMZ-FNT?wc=SNYZ-DPN%3A146535701%2C148429801%26cc%3D1803986&amp;cc=1803986&amp;lang=en&amp;i=69">Archibald Wahob. Will.</ref></p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    
+    <text>
+        <body>
+            <div>
+                <head rend="align(center)">Archibald Wahob. Will.</head>
+                <p>In the name of God Amen. The <date when="1682-12-01">first day of December in the year of
+                    <lb/>our Lord one thousand six hundred eighty and three</date> I <persName type="author">Archibald <surname>Wahob</surname></persName> of
+                    <lb/><placeName>Fort Tobacco in Charles County</placeName> being sick of body but of god annd perfect memory
+                    <lb/>thanks be to almighty God and calling to remembrance the uncertain Estate of
+                    <lb/>this transitory life and that all flesh must yield unto Death when it
+                    <lb/>shall please god to call do make Constitute ordain and declare this to be
+                    <lb/>my last will and Testament in manner and form following revvoking and 
+                    <lb/>annuling by these presents all and very testamnet and testamnets will and 
+                    <lb/>wills heretofore made and declare either by word or writing and this
+                    <lb/>to be taken only for my last will and testament and none other and first
+                    <lb/>being <unclear reason="illegible">pernitent?</unclear> and sorry from the bottom of my heart for my sins past
+                    <lb/>humbly desiring foregiveness for the same I give and commit my soule unto
+                    <lb/>almighty God my saviour and redeemer in whome and by the merits
+                    <lb/>of Jesus Christ I trust and believe <unclear reason="illegible">a--</unclear> to be saved &amp; to have <unclear reason="illegible">--</unclear> &amp;
+                    <lb/>day of resurrection shall rise again with Joy and throughout the merits of Chirst
+                    <lb/>death and passion shall profit and inherit the kingdom of heaven <unclear reason="illegible">p--</unclear>
+                    <lb/>for his elect and chosen and my body to be buried in such place whee it shall
+                    <lb/>please my executor or Executors hereafter to appoint and now for the 
+                    <lb/><catchwords>setling</catchwords>
+                    <pb/>
+                    <lb/>setling of my teporal Estate &amp; such good Chattles and debts as it shall
+                    <lb/>okeased almighty God for above my <unclear reason="illegible">d--</unclear> to bestowe upon me
+                    <lb/>I doe order give and <unclear reason="illegible">d--</unclear> the same in manner and form following
+                    <lb/>(that is to say <unclear reason="illegible">--</unclear>) I will that all those debts and duties that I owe in
+                    <lb/>right or <unclear reason="illegible">con--</unclear> to any manner of person or persons what <unclear reason="illegible">--</unclear> shall
+                    <lb/>be well and truly contented an paid within convenient time hereafter
+                    <lb/>my decease by my Executor or Executors hereafter named
+                </p>
+                <p>I do give and bequeath unti my well beloved wife <persName type="spouse" xml:id="ElizabethWahob">Elizabeth  <surname>Wahob</surname></persName> all
+                    <lb/><measure type="land" unit="acre" quantity="200" xml:id="ElizabethWahob"><name>Port Tobacco <unclear reason="illegible">C--</unclear></name> in <placeName>Charles County</placeName> one hundred acres of land</measure>
+                    <lb/>to hold to her and her <unclear reason="illegible">--</unclear> and the <unclear reason="illegible">apportenances?</unclear> thereunto belinging to have &amp;
+                    <lb/>after the decease of my beloved wife I do give and bequeath the afores.
+                    <lb/><measure commodity="land" unit="acre" quantity="100">hundred acres</measure> unto my beloved Daughter <persName type="daughter" xml:id="MargaretLemaine">Margaret <surname>Lemaine</surname></persName> the
+                    <lb/>wife of <persName type="son-in-law">John <surname>Lemaine</surname></persName> to have and to hold the said land with the <unclear reason="illegible">--</unclear>
+                    <lb/>tenants unto her &amp; her heirs forever alsoe I do gove and bequeath unto
+                    <lb/>situate and being at <unclear reason="illegible">un--</unclear> in <placeName>Charles County</placeName> <unclear reason="illegible">--</unclear> adjoining to
+                        <lb/>the land of <persName xml:id="JohnWheeler">Maj. John <surname>Wheeler</surname></persName> to have and to hold to her and her <unclear reason="illegible">--</unclear>
+                    <lb/>during her natural life and after the decease of my beloved wife I do
+                    <lb/>give and bequeath the s. two hundred acres of Land unto my well beloved 
+                    <lb/>daughter <persName type="daughter" xml:id="ElizabethHoskins">Elizabeth <surname>Hoskins</surname></persName> the wife of <persName type="son-in-law" xml:id="PhilipHoskins">Philip <surname>Hoskins</surname></persName> to have and to hold
+                    <lb/>to her and her heirs with the <unclear reason="illegible">app-</unclear> forever but in case my well
+                    <lb/>beloved wife Elizabeth Wahob should prove with child and by the blessing
+                    <lb/>of God should bring forth either a son or Daughter then the aforesaid two
+                    <lb/>parcells of land shall be enjoyed and <unclear reason="illegible">p--</unclear> by the said Child <unclear reason="illegible">--</unclear>
+                    <lb/>of her body after her decease to her or her heirs forever with the <unclear reason="illegible">--</unclear>
+                    <lb/>not with <unclear reason="illegible">--</unclear> things above mentioned but if she have no child
+                    <lb/><catchwords>then</catchwords>
+                    <pb/>
+                    <lb/>then the aforesaid two parcells of Land to be enjoyed and <unclear reason="illegible">p--</unclear> by the aforesaid
+                    <lb/>Margaret Lemaine and Elizabeth Hoskins as above mentioned.
+                </p>
+                <p>Item. I do give and bequeath unto my wel beloved Daughter Margaret Lemaine
+                    <lb/><measure commodity="currency" unit="shilling" quantity="1" xml:id="MargaretLemaine">one shilling sterling money</measure>. I do give and bequeath unto my well beloved
+                    <lb/>Daughter Elizabeth Hoskins <measure commodity="currency" unit="shilling" quantity="1">one shilling sterling money.</measure>
+                </p>
+                <p>It. I do give and bequeath unto my two grand children <persName type="granddaughter">Benedicta <surname>Hoskins</surname></persName> &amp; <persName type="granddaugter">Jane <surname>Hoskins</surname></persName>
+                    <lb/>the Daughter of Philip &amp; Elizabeth Hoskins each of them <measure commodity="livestock" quantity="1">a heifer</measure> take delivered
+                    <lb/>to them within convenient time after my decease.
+                </p>
+                <p>It. I do give and bequeath all the rest of my person Estate that is hath please
+                    <lb/>almighty God to bestow upon me unto my well beloved wife Elizabeth
+                    <lb/>Wahob &amp; I do hereby ordain and appoint her to be the hole and sole Exector
+                    <lb/>of this last will and testament In witness hereof I have hereunto put my hand
+                    <lb/>and seal the day &amp; year above written.
+                </p>
+                <p> Signed sealed delivered &amp; published
+                    <lb/>In the presence of
+                    <lb/>his
+                    <lb/><persName type="witness">Peter P. <surname><unclear reason="illegible">Farnandis?</unclear></surname></persName>
+                    <lb/>mark
+                    <lb/><persName type="witness">John <surname>Bayne</surname></persName>.<persName type="witness"><unclear reason="illegible">-- <surname>Lomas</surname></unclear></persName>
+                    <lb/>Archibald Wahol
+                    <lb/>his mark
+                </p>
+                <p>On the back of the aforegoing will was Endorsed the following probate (to will)
+                    <lb/><date when="1683-03-10">March 10th 1683</date> This will was proved in common form by the oath of John
+                    <lb/>Bayne Peter Farnandis&amp; <persName><unclear reason="illegible">-- <surname>Lomas</surname></unclear></persName> the witnesses to the same before me
+                    <lb/>8 sides
+                    <lb/><persName><unclear reason="illegible">-- <surname>Chandler</surname></unclear></persName>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
