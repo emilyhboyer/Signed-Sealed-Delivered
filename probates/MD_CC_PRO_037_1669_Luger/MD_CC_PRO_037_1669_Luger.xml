@@ -16,7 +16,7 @@
                 
             </publicationStmt>
             <sourceDesc>
-                <p>This is the source</p>
+                <p><ref target="https://www.familysearch.org/ark:/61903/3:1:33S7-9YMZ-6VH?wc=SNYZ-DPN%3A146535701%2C148429801%26cc%3D1803986&amp;cc=1803986&amp;lang=en&amp;i=36">John Luger. Will</ref></p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -31,36 +31,35 @@
                     <lb/>good and perfect memory praised be god do make and ordain this my
                     <lb/>last will and testament in manner and form following
                 </p>
-                
-                <p><unclear reason="illegible"></unclear> I recommend my soul into the hands of God my Creator <unclear reason="illegible"></unclear>
-                    <lb/>through the <unclear reason="illegible"></unclear> of Jesus Christ my redeemer to be made <unclear reason="illegible"></unclear>
-                    <lb/>of life everlasting and I commend my body to the earth where of it <unclear reason="illegible">tis</unclear> made
-                    <lb/>desiring it may be <unclear reason="illegible">enterned</unclear> in a Christian manner and for the small Estate
-                    <lb/>which it hath pleased God to find me and my will and <unclear reason="illegible">require</unclear> is it be
-                    <lb/>dispersed in manner following I will and desire is that my two <unclear reason="spelling">soons</unclear>
+                <p><unclear reason="illegible"></unclear> I recommend my soul into the hands of God my Creator <unclear reason="illegible">--</unclear>
+                    <lb/>through the <unclear reason="illegible"></unclear> of Jesus Christ my redeemer to be made <unclear reason="illegible">--</unclear>
+                    <lb/>of life everlasting and I commend my body to the earth where of it <unclear reason="illegible">tis--</unclear> made
+                    <lb/>desiring it may be <unclear reason="illegible">enterned?</unclear> in a Christian manner and for the small Estate
+                    <lb/>which it hath pleased God to find me and my will and <unclear reason="illegible">require?</unclear> is it be
+                    <lb/>dispersed in manner following I will and desire is that my two <unclear reason="spelling">sons?</unclear>
                     <lb/><persName type="son">John <surname>Luger</surname></persName> and <persName type="son" xml:id="ThomasLuger">Thomas <surname>Luger</surname></persName> shall have my manor of <measure commodity="estate" quantity="1000" unit="acre" xml:id="JohnLuger">one thousand acres
                     <lb/>called by Paten St. Barbany Manner</measure> and my desire is likewise that my
                     <lb/>Daughter <persName type="daughter" xml:id="ElizabethLuger">Elizabeth <surname>Luger</surname></persName> shall have <measure commodity="land" quantity="300" unit="acre" xml:id="ElizabethLuger">three hundred acres</measure> joining to the
                     <lb/>manner on the North side and my will and bequeath is that my said Daughter
                     <lb/>shall have my <measure commodity="livestock" quantity="1" xml:id="ElizabethLuger">cow called <name>mealy mouth</name></measure> with all her inrease and I will and
                     <lb/>bequeath that my loving wife shall have and enjoy <measure type="livestock" quantity="1" xml:id="MarthaLuger">one cow called <name>mully</name></measure>-
-                    <lb/>with all her increase my will and bequeath is that <placeName type="witness">Thomas <surname>Gully</surname></placeName> and <placeName type="overseer">John 
-                    <lb/><surname>Ward</surname></placeName> be overseers of my <unclear reason="illegible">Cheloreno</unclear> Estate my will and bequeath is that my
+                    <lb/>with all her increase my will and bequeath is that <placeName type="executor">Thomas <surname>Gully</surname></placeName> and <placeName type="executor">John 
+                    <lb/><surname>Ward</surname></placeName> be overseers of my <unclear reason="illegible">Cheloreno?</unclear> Estate my will and bequeath is that my
                     <lb/>Dear and Loving wife <persName type="spouse" xml:id="MarthaLuger">Martha <surname>Luger</surname></persName> shall have and enjoy all the rest
                     <lb/>of my Estate and I do hereby revoke and null very other forms <catchwords>wills</catchwords>
                     <pb/>
-                    <lb/>Testaments Legacies bequeaths and died of <unclear reason="illegible"></unclear> promises or Grants whatsoever
-                    <lb/>In <unclear reason="illegible"></unclear> whereof I have <unclear reason="illegible"></unclear> set my hand and seal this the <date>26th
+                    <lb/>Testaments Legacies bequeaths and died of <unclear reason="illegible">--</unclear> promises or Grants whatsoever
+                    <lb/>In <unclear reason="illegible">--</unclear> whereof I have <unclear reason="illegible">--</unclear> set my hand and seal this the <date>26th
                     <lb/>day of November 1669</date>. 
                 </p>
                 <p>Signed Sealed and Delivered
                     <lb/>In the presents of us-
                     <lb/>the
-                    <lb/>Thomas <unclear reason="illegible"></unclear> Gully
+                    <lb/>Thomas <unclear reason="illegible">--</unclear> Gully
                     <lb/>mark of
                     <lb/><persName type="witness">George <surname>Ledge</surname></persName>
                 </p>
-                <p>At the bottom of the forgoing will was the following <unclear reason="illegible"></unclear> to <unclear reason="illegible"></unclear>
+                <p>At the bottom of the forgoing will was the following <unclear reason="illegible"></unclear> to <unclear reason="illegible">--</unclear>
                     <lb/><date>December the 9th 1669</date> the above written will by the oaths of Thomas
                     <lb/>Gully and George Ledge witness thereunto in solem forme proved
                     <lb/>before me

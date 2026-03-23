@@ -15,7 +15,7 @@
                 
             </publicationStmt>
             <sourceDesc>
-                <p>This is the source</p>
+                <p><ref target="https://www.familysearch.org/ark:/61903/3:1:33SQ-GYMZ-F6Z?wc=SNYZ-DPN%3A146535701%2C148429801%26cc%3D1803986&amp;cc=1803986&amp;lang=en&amp;i=35">William Allen Will</ref></p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -32,7 +32,7 @@
                     <lb/>and first of all I bequeath my soule into the hands of almighty God who 
                     <lb/>gave it and my body unto the ground from where it came and for–
                     <lb/>what small estate it haith please God to lend me I desire it may be–
-                    <lb/>bestowed in manner following–
+                    <lb/>bestowed in manner following
                 </p>
                 <p><unclear reason="illegible"></unclear>I give and bequeath all my Estate hereafter <unclear></unclear> unto my Daughter
                     <lb/><persName type="daughter" xml:id="ElizabethAllen">Elizabeth <surname>Allen</surname></persName>.</p>
@@ -40,17 +40,17 @@
                     <lb/>untill my said Daughter comes to age and if it please God to take her before 
                     <lb/>she comes to age I give and bequeath it unto my wife Martha Allen and her heirs 
                     <lb/>Item I give and bequeath unto my goddaughter <persName type="goddaughter" xml:id="MaryHarrison">Mary <surname>Harrison</surname></persName> Daughter of 
-                    <lb/><persName>Joseph Harrison</persName> <measure commodity="livestock" unit="1" xml:id="MaryHarrison">one brown cow</measure> commonly called by the name <name>Mealey</name>
-                    <lb/>now <unclear reason="illegible"></unclear> about the plantation of <persName>John <surname>Wheeler</surname></persName> together with all her 
-                    <lb/>future increase the said cow is <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> on the right ear &amp;
+                    <lb/><persName>Joseph <surname>Harrison</surname></persName> <measure commodity="livestock" unit="1" xml:id="MaryHarrison">one brown cow</measure> commonly called by the name <name>Mealey</name>
+                    <lb/>now <unclear reason="illegible">--</unclear> about the plantation of <persName>John <surname>Wheeler</surname></persName> together with all her 
+                    <lb/>future increase the said cow is <unclear reason="illegible">--</unclear> <unclear reason="illegible">--</unclear> on the right ear &amp;
                     <lb/>to her the said [many the heirs?] forever</p> 
                 <p>Item  I give and bequeath unto <persName type="beneficiary" xml:id="LukeGreene">Luke <surname>Greene</surname></persName> of <placeName>Charles County</placeName> <measure commodity="livestock" unit="1" xml:id="LukeGreene">one red heifer</measure> age 
-                    <lb/>about two years <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> of the same age being marked with the abovesaid 
+                    <lb/>about two years <unclear reason="illegible">--</unclear> <unclear reason="illegible">--</unclear> of the same age being marked with the abovesaid 
                     <lb/>ear mark now <unclear reason="illegible"></unclear> at or about the plantation of <persName>John <surname><unclear reason="illegible">Ash</unclear></surname></persName>
                     <lb/>to him the said Luke Greene &amp; his heirs forever.
                 </p>
                 <p>Item I give and bequeath unto <persName type="nephew" xml:id="JohnMunJr">John <surname>Mun</surname></persName> son of <persName type="brother-in-law" xml:id="JohnMun">John <surname>Mun</surname></persName> <measure commodity="livestock" unit="1" xml:id="JohnMunJr">one brown cow</measure> called 
-                    <lb/>by the name of <name>Double <unclear reason="illegible"></unclear></name> of the <unclear reason="illegible"></unclear> ear mark to him the said John 
+                    <lb/>by the name of <name>Double <unclear reason="illegible">--</unclear></name> of the <unclear reason="illegible">--</unclear> ear mark to him the said John 
                     <lb/>Mun this &amp; his heirs forever. </p>
                 <p>Item I give and bequeath my <measure commodity="weapon" unit="1" xml:id="RogerVeritas">Gun</measure> &amp; <measure commodity="papergoods" xml:id="RogerVeritas">Bible</measure> unto <persName type="beneficiary" xml:id="RogerVeritas">Roger <surname></surname><unclear reason="illegible">Veritas</unclear></persName></p>
                     <p>Item I make &amp; ordaine my brother in Law John Mun Executor of thus my Last 
@@ -58,15 +58,15 @@
                     <lb/>and Testament <unclear reason="illegible"></unclear> him to be careful to see it performed In Testimony 
                     <lb/>hereof I have hereunto set my hand &amp; seal the day &amp; year above is written</p>
                     <p>Signed sealed and Delivered 
-                    <lb/>In presents of us…						
+                    <lb/>In presents of us					
                     <lb/><persName type="witness">Matthew <surname>Moopher</surname></persName>
                     <lb/>Mark of
                     <lb/><persName type="witness">Charles <surname>Mooley</surname></persName>
                     <lb/><signatures>William Allen</signatures></p>
                     <p>On the back of the foregoing will was this Endorsed to will 
                     <lb/><date>July 13th</date> Know all <unclear reason="illegible">new</unclear> by these presents that I John Mun of <placeName>Charles
-                    <lb/>County</placeName> doe freely &amp; of my <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> all the Interest and 
-                    <lb/>last <unclear reason="illegible"></unclear> unto me by brother in law <persName type="brother-in-law">Will <surname>Allen</surname></persName> of this his last 
+                    <lb/>County</placeName> doe freely &amp; of my <unclear reason="illegible">--</unclear> <unclear reason="illegible">--</unclear> all the Interest and 
+                    <lb/>last <unclear reason="illegible">--</unclear> unto me by brother in law <persName type="brother-in-law">Will <surname>Allen</surname></persName> of this his last 
                     <lb/>will and Testament unto <persName><unclear>Gerrard</unclear><surname> Bronner</surname></persName> as <unclear reason="illegible"></unclear> my hand and 
                     <lb/>Seal
                     </p>
@@ -79,32 +79,26 @@
                 <p>By virtue of a <unclear reason="illegible">Comm.</unclear> from the hand of <persName>Mr. William Talbot Baronet Chief
                     <lb/>Judge in Testimony</persName> causes within This <placeName>province of Maryland</placeName> leaving 
                     <lb/>take the <date>eleventh day of August</date> in the <unclear reason="illegible"></unclear> year of the Dominion of 
-                    <lb/><unclear reason="illegible"></unclear> &amp;c. Army from <date>1621</date> to me <unclear reason="illegible"></unclear> and me <unclear reason="illegible"></unclear>
+                    <lb/><unclear reason="illegible">--</unclear> &amp;c. Army from <date>1621</date> to me <unclear reason="illegible">--</unclear> and me <unclear reason="illegible">--</unclear>
                     <lb/>to call before me John Mun the Executor of the last will and testament
                     <lb/>of William Allen late of <placeName>Charles County</placeName> deceased and take his acknowledgement 
-                    <lb/>of his <unclear reason="illegible"></unclear> of the trust of an Executor <unclear reason="illegible"></unclear> in him by the said 
-                    <lb/>deceased <unclear reason="illegible"></unclear> to call the <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> and cause the same 
+                    <lb/>of his <unclear reason="illegible">--</unclear> of the trust of an Executor <unclear reason="illegible">--</unclear> in him by the said 
+                    <lb/>deceased <unclear reason="illegible">--</unclear> to call the <unclear reason="illegible">--</unclear> <unclear reason="illegible">--</unclear> and cause the same 
                     <lb/>by their paths to be from these are humbly to certify that on the <date>thirteenth 
                     <lb/>day of September</date> in the year above. Came before me John Mum. 
-                    <lb/><unclear reason="illegible"></unclear> Executor above <unclear reason="illegible"></unclear> and did acknowledge the <unclear reason="illegible"></unclear> of the 
+                    <lb/><unclear reason="illegible">--</unclear> Executor above <unclear reason="illegible">--</unclear> and did acknowledge the <unclear reason="illegible">--</unclear> of the 
                     <lb/><catchwords>Trust</catchwords>
                     <pb/>
-                    <lb/>Trust of an Exectutor <unclear reason="illegible"></unclear> in him by Mr. Allen deceased as above written–
-                    <lb/>Likewise then came <persName>Charles<surname> <unclear reason="illegible">Molly</unclear></surname></persName> one of the <unclear reason="illegible">nitne</unclear> to the within written will–
+                    <lb/>Trust of an Exectutor <unclear reason="illegible">--</unclear> in him by Mr. Allen deceased as above written–
+                    <lb/>Likewise then came <persName>Charles<surname> <unclear reason="illegible">Molly</unclear></surname></persName> one of the <unclear reason="illegible">nitne</unclear> to the within written will
                     <lb/>and made oath that he saw the within writing signed sealed and–
                     <lb/>published by the within named William Allen as his last will and 
-                    <lb/>Testament, and further that the <unclear reason="illegible">unclear</unclear> Mr. William Allen was in sound <unclear reason="illegible">senee</unclear> and 
-                    <lb/>memory when he <unclear reason="illegible"></unclear> the same
+                    <lb/>Testament, and further that the <unclear reason="illegible">--</unclear> Mr. William Allen was in sound <unclear reason="illegible">senee</unclear> and 
+                    <lb/>memory when he <unclear reason="illegible">--</unclear> the same
                     <lb/>End
                     <lb/>6 sides
                     <lb/><persName>Benj. <surname>Rozer</surname></persName>
                 </p>
-                    
-                    
-               
-                    
-                  
-                
             </div>
         </body>
     </text>
