@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title xml:id="xx" xml:lang="en"><!-- Title ex. John Smith. Will --></title>
+                <title xml:id="MD_CC_PRO_074_1683_Clarke" xml:lang="en">George Clarke Will</title>
                 <!-- xml: id ex. MD_CC_PRO_034_1665_Lumbrozo -->
                 <editor>Emily Boyer</editor>
             </titleStmt>
@@ -15,7 +15,7 @@
                 
             </publicationStmt>
             <sourceDesc>
-                <p><ref><!-- link to primary source here --></ref></p>
+                <p><ref>George Clarke Will</ref></p>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
@@ -23,9 +23,53 @@
     <text>
         <body>
             <div>
-                <head rend="align(center)"><!-- John Smith. Will --></head>
-                <p><!--text starts here. subsequent lines use the lb element -->
-                    <lb/>
+                <head rend="align(center)">George Clarke Will</head>
+                <p>In the name of God Amen this <date when="1683-07-13">thirteenth day of July in the year of
+                <lb/>our Lord One Thousand six hundred eighty and three</date> I <persName type="author">George <surname>Clarke</surname></persName> of
+                    <lb/><placeName>Charles County in the provinence of Maryland</placeName> planter being weake and sick
+                    <lb/>but of good and perfect memory thanks be to almighty God and <unclear reason="illegible">--aving</unclear>
+                    <lb/>well the uncertaintie of this transitory life do in manner and form ordain
+                    <lb/>and appoint this to be my last will and testament reworking and 
+                    <lb/>dismantling all former wills and testaments by me heretofore made
+                    <lb/><unclear reason="illegible">--</unclear> I give and bequeath my soule to God Almighty disirig the forergiveness and
+                    <lb/><unclear reason="illegible">--</unclear> of all my sins hoping through the merits of Christ Jesus my saviour
+                    <lb/>that at the last day my body with my soule shall rise to eternall life and I also give
+                    <lb/>my body to be decently buried accoring to the direction of my Executor hereafter
+                    <lb/>named and as for what personal Estate it hath pleased God Almighty for 
+                    <lb/>above my <unclear reason="illegible">dire--</unclear> to bestowe upon me I do order and disperse of in manner 
+                    <lb/>and form following my Just Debts and Funeral expenses ini the first place being well
+                    <lb/><catchwords>and</catchwords>
+                    <pb/>
+                    <lb/>and truly satisfied and contented.
+                </p>
+                <p><unclear reason="illegible">I--</unclear> I do give and bequeath until <persName type="godson" xml:id="RichardHill">Richard <surname>Hall</surname></persName> my god son the son of <persName>Richard</persName> and <persName>Mary
+                <lb/>Hall</persName> of this county <measure commodity="livestock" quantity="2" xml:id="RichardHall">one heifer aged between two and three years of age</measure> with her
+                    <lb/>future increase to have and to hold to him and his heirs forever.
+                </p>
+                <p>It. I do give and bequeath unto my well beloved friend <persName type="beneficiary" xml:id="WilliamFrost">William <surname>Frost</surname></persName> <measure commodity="horse" quantity="1" xml:id="WilliamFrost">one young horse
+                <lb/>aged about three years</measure> to be delivered within convenient time after my decease
+                </p>
+                <p>It. I do give and bequeath unto my beloved friend <persName type="beneficiary" xml:id="FrancisAdams">Francis <surname>Adams</surname></persName> <measure commodity="livestock" quantity="1" xml:id="FrancisAdams">one cow</measure> with her
+                    <lb/>future increase to have and to hold to him and his hiers forever. And after the rest
+                    <lb/>of my personal Estate that it hath pleased God Almighty to bestowe upon me
+                    <lb/>I do give anf bequeath unto my well beloved friend <persName type="beneficiary" xml:id="JohnGodshall">John <surname>Godshall</surname></persName> to have &amp; 
+                    <lb/>to hold to him and his hiers forever anf I do hereby further appoint &amp; ordaine the
+                    <lb/>In witness whereof I have hereunto set my hand and seal the day and year
+                    <lb/>first above written
+                </p>
+                <p>Signed sealed &amp; delivered
+                    <lb/>In presence of
+                    <lb/>signed his
+                    <lb/><persName type="witness">John X <surname>Wilkenson?</surname></persName>-<persName type="witness">Joseph <unclear reason="illegible">--</unclear> <surname>-alph</surname></persName>
+                    <lb/><persName type="witness">C-- <surname>Lomas</surname></persName>
+                </p>
+                <p>On the back of the foregoing was endorsed the following probate (to will),
+                    <lb/><date when="1684-08-12">August 12th 1684</date> <unclear reason="illegible">Came?</unclear> he Evidences the within written and made oath upon the
+                    <lb/>holy Evangelist that they saw the within named George Clarke sign seal and
+                    <lb/>Deliver the within will as his <unclear reason="illegible">--</unclear> and deed and that he was of good <unclear reason="illegible">dis--</unclear>
+                    <lb/>mind at the signing and sealing thereof witness
+                    <lb/>4 1/4 Sides
+                    <lb/><persName>Robert Dayne</persName>
                 </p>
             </div>
         </body>

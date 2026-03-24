@@ -24,7 +24,7 @@
         <body>
             <div>
                 <head rend="align(center)">John Lumbrozo. Will</head>
-                <p>In the name of God amen, the <date>24th day of February 1665</date>
+                <p>In the name of God amen, the <date when="1665-02-24">24th day of February 1665</date>
                     <lb/>I <persName type="author">John <surname>Lumbrozo</surname></persName> of <unclear reason="illegible">Mangemil?</unclear> in the <placeName>province of Maryland</placeName> being
                     <lb/>in <unclear reason="illegible">perfect</unclear> sound health &amp; memory &amp; calling to mind the
                     <lb/>Transitory estate of all <unclear reason="illegible">sublunary</unclear> things do make and <unclear reason="illegible">dulane/</unclear>
@@ -60,9 +60,7 @@
                 
                     <p>4 If my wife should not acknowledge herself to be my executor
                     <lb/><catchwords>and</catchwords>
-                    
                         <pb/>
-                   
                         <lb/>and that she will not prove or take notice of this my will then my desire is that
                         <lb/>all my plantation and all the Land appertaining to it shall bee sold &amp; <unclear reason="illegible"></unclear>
                         <lb/>only reserving her things during her life and the tobacco that it is sold for 
@@ -73,9 +71,9 @@
                     <lb/>Will &amp; Testament and to look that all things herein contained bee as
                     <lb/>exactly performed as with all <unclear reason="illegible">profitable</unclear> Convenience my be
                 </p>
-                <p>6 by This is my last and absolute Will &amp; Testament as <unclear reason="illegible"></unclear> my hand &amp;
+                <p>6 by This is my last and absolute Will &amp; Testament as <unclear reason="illegible">--</unclear> my hand &amp;
                     <lb/>seal the day and year above written after these words on the other side
-                    <lb/><unclear reason="illegible">interlined</unclear> between the 23 and 24th ;ome <unclear reason="illegible"></unclear> <unclear reason="illegible"></unclear> the 25th and 26th
+                    <lb/><unclear reason="illegible">interlined</unclear> between the 23 and 24th; <unclear reason="illegible">--</unclear> <unclear reason="illegible"></unclear> the 25th and 26th
                     <lb/>line <unclear reason="illegible">--</unclear> &amp; that she her <unclear reason="illegible">--</unclear> Executors Administrators or <unclear reason="illegible">--</unclear> shall enjoy
                     <lb/>my paid Estate both reall and personall forever-
                     <lb/>his
