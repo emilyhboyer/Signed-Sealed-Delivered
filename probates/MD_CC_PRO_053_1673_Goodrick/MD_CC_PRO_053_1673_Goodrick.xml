@@ -25,7 +25,7 @@
         <body>
             <div>
                 <head rend="align(center)">George Goodrick Will</head>
-                <p>In the name of God Amen. The <date>26th of July anno Dominion
+                <p>In the name of God Amen. The <date when="1673-07-26">26th of July anno Dominion
                 <lb/>thousand six hundred seventie three</date> I <persName type="author">George <surname>Goodrick</surname></persName> of <placeName>Charles County
                 <lb/>in the prov. of Maryland</placeName> <unclear reason="illegible">Gen.</unclear> being sick and weake of bodie but of
                     <lb/>sound and perfect memory praise be given to God and knowing the 
@@ -46,24 +46,24 @@
                 </p>
                 <p>Itm. f. I give and bequeath unto my two sonnes <persName type="son" xml:id="RobertGoodrick">Robert</persName> and <persName type="son" xml:id="FrancisGoodrick">Francis <surname>Goodrick</surname></persName> six
                 <lb/>hunedred acres which I have by patent  that is to say <measure commodity="land" quantity="300" unit="acre" xml:id="RobertGoodrick">thee hundred</measure> to Robert
-                    <lb/>Goodrick and <measure commodity="land" quantity="300" unit="acre">three hundred</measure> to Francis Goodrick next adjoining to the 
+                    <lb/>Goodrick and <measure commodity="land" quantity="300" unit="acre" xml:id="FrancisGoodrick">three hundred</measure> to Francis Goodrick next adjoining to the 
                     <lb/>plantation where they now live <unclear reason="illegible">leyaline</unclear> drawn equalie between them
                     <lb/>and to them and their heirs forever which division may be made by the
                     <lb/>bounds expressed in my said patent.
                 </p> 
-                <p>2 I doe give and to my Daughter <persName type="daughter" xml:id="Stapleford">Stapleford</persName> <unclear reason="illegible"></unclear> two years old
+                <p>2 I doe give and to my Daughter <persName type="daughter" xml:id="StaplefordGoodrick">Stapleford</persName> <measure xml:id="StaplefordGoodrick"><unclear reason="illegible"></unclear>-"-"</measure> two years old
                     <lb/>with <unclear reason="illegible">adesine</unclear> that my dear child unintelegable may have the
                     <lb/>3 increase and <unclear reason="illegible"></unclear> other wares to be dispersed of I give and bequeath
-                    <lb/>to my daughter <persName type="daughter" xml:id="Guntryt"><unclear reason="illegible">Guntryt</unclear></persName> <measure commodity="livestock" quantity="1">on heifer</measure> more of the same age with the same 
-                    <lb/>intent and desire that my grandchild <persName type="grandchild" xml:id="ConstantGuntryt">Constant <surname>Guntryt</surname></persName> my have the
+                    <lb/>to my daughter <persName type="daughter" xml:id="DaughterGunby"><unclear reason="illegible"><surname>Gunby?</surname></unclear></persName> <measure commodity="livestock" quantity="1" xml:id="DaughterGunby">one heifer</measure> more of the same age with the same 
+                    <lb/>intent and desire that my grandchild <persName type="grandchild" xml:id="ConstantGunby">Constant <surname>Gunby</surname></persName> my have the
                     <lb/>increase also
-                    <lb/>4 I give and bequeath unto my sonne<persName type="son" xml:id="FrancisGoodrick">Francis <surname>Goodrick</surname></persName> <measure commodity="livestock" quantity="1" xml:id="FrancisGoodrick">one cow</measure> with a cow 
-                        <lb/>calf and the calf to be for my grand child <persName type="granddaughter" xml:id="ElizabethGoodrick">Elizabeth <surname>Goodrick</surname></persName> and the
+                    <lb/>4 I give and bequeath unto my sonne<persName type="son" xml:id="FrancisGoodrick">Francis <surname>Goodrick</surname></persName> <measure commodity="livestock" quantity="1" xml:id="FrancisGoodrick">one cow</measure> <measure commodity="livestock" quantity="1" xml:id="ElizabethGoodrick">with a cow 
+                        <lb/>calf and the calf to be for my grand child</measure> <persName type="granddaughter" xml:id="ElizabethGoodrick">Elizabeth <surname>Goodrick</surname></persName> and the
                     <lb/>increase forever.
                 </p>
-                <p>5 also I give and bequeath unto my sonn Francis Goodrick <measure commodity="furniture" quantity="1">an old feather 
+                <p>5 also I give and bequeath unto my sonn Francis Goodrick <measure commodity="furniture" quantity="1" xml:id="FrancisGoodrick">an old feather 
                 <lb/>bed</measure> with the absolute belonging to it which I brought out of England 
-                    <lb/>6 and my <measure commodity="houseware">large iron pot</measure> and my least <measure commodity="houseware" quantity="1" xml:id="FrancisGoodrick"><unclear reason="illegible">Brass</unclear> pot</measure> <measure commodity="houseware" xml:id="FrancisGoodrick">two pueter dishes</measure>
+                    <lb/>6 and my <measure commodity="houseware">large iron pot</measure> and my least <measure commodity="houseware" quantity="1" xml:id="FrancisGoodrick"><unclear reason="illegible">Brass</unclear> pot</measure> <measure commodity="houseware" quantity="2" xml:id="FrancisGoodrick">two pueter dishes</measure>
                     <lb/><catchwords>and</catchwords>
                     <pb/>
                     <lb/>and <measure commodity="textile" quantity="1" xml:id="FrancisGoodrick">a bed rug</measure> for a bed. All the rest of my godds and chattles whatsoever

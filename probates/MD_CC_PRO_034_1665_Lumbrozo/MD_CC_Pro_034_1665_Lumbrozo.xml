@@ -47,14 +47,14 @@
                     <lb/>two years after my decease she shall shall employ all my Estate 
                     <lb/><unclear reason="illegible">&amp; sent to <placeName>Holland</placeName> or any the conditional place</unclear>
                         <lb/>both reall and personall Dowery <measure commodity="crop" quantity="4000" unit="pounds" xml:id="ElizabethLumbrozo">four thousand pounds of good &amp; 
-                    <lb/>well conditioned Tobacco</measure> and <measure commodity="livestock">Cattle</measure> bee delivered to dearly beloved sister
+                            <lb/>well conditioned Tobacco</measure> and <measure commodity="livestock" xml:id="ElizabethLumbrozo">Cattle</measure> bee delivered to dearly beloved sister
                     <lb/><persName type="sister"><unclear reason="illegible">Phiffisa</unclear> <surname>Lumbrozo</surname></persName> &amp; 2 years that the same quantity of four thousand
                     <lb/>pounds of good &amp; well Conditioned tobacco <unclear reason="illegible">H--</unclear> to be delivered-
                     <lb/>Likewise to my aforeaid Loving sister <persName type="sister" xml:id="PhiffisaLumbrozo"><unclear reason="illegible">Phiffisa</unclear> <surname>Lumbrozo</surname></persName>-
                     <lb/>what follows <unclear reason="illegible">unitelligible</unclear></p>
-                <p>3 <unclear reason="faded">--</unclear> I will &amp; bequeath my dearly beloved friend <persName type="beneficiary" xml:id="EdwardRichardson">Edward <surname>Richardson</surname></persName> <measure commodity="land" quantity="50" unit="acres" xml:id="EdwardRichardson"></measure> 50
+                <p>3 <unclear reason="faded">--</unclear> I will &amp; bequeath my dearly beloved friend <persName type="beneficiary" xml:id="EdwardRichardson">Edward <surname>Richardson</surname></persName> <measure commodity="land" quantity="50" unit="acres" xml:id="EdwardRichardson"> 50
                     
-                        <lb/>acres of Land <unclear reason="illegible">lying in mengeme?</unclear> <unclear reason="illegible"></unclear> called <placeName type="plantation">Lumbrozo's discovery</placeName>-
+                    <lb/>acres of Land <unclear reason="illegible">lying in mengeme?</unclear> <unclear reason="illegible"></unclear> called <placeName type="plantation">Lumbrozo's discovery</placeName>-</measure>
                     <lb/>adjoining to <persName>Richard <surname><unclear reason="illegible">Touds?</unclear></surname></persName> land on the on side and <persName>Roger <surname>Dickinson's</surname></persName> on 
                     <lb/>the other side.</p>
                 

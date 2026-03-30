@@ -32,11 +32,11 @@
                     <lb/>I commit my soule to God that gave it and my body to the ground to be buried in
                     <lb/>Christian buriel.
                 </p>
-                <p>It. I give and beqeauth unto my eldest sonn <persName type="eldestson" xml:id="RichardSmoot">Richard <surname>Smoot</surname></persName> that <measure commodity="plantation">plantation</measure>
+                <p>It. I give and beqeauth unto my eldest sonn <persName type="eldestson" xml:id="RichardSmoot">Richard <surname>Smoot</surname></persName> that <measure commodity="plantation" xml:id="RichardSmoot">plantation</measure>
                     <lb/>that I am dwelling upon when he shall come to the full age of one and
                     <lb/>twenty years.
                 </p>
-                <p>It. I give and bequeath unto my <persName type="secondson" xml:id="EdwardSmoot">Edward <surname>Smoot</surname></persName> the <measure commodity="plantation" quantity="100" unit="acres">new plantation 
+                <p>It. I give and bequeath unto my <persName type="secondson" xml:id="EdwardSmoot">Edward <surname>Smoot</surname></persName> the <measure commodity="plantation" quantity="100" unit="acres" xml:id="EdwardSmoot">new plantation 
                     <lb/>Called <name>Smoot Purchase</name> containing one hundred acres of land</measure> be it near or
                     <lb/>left when he shall come to the full age of one and twenty years to have and to
                     <lb/>hold the same to him &amp; his heirs fore ever.

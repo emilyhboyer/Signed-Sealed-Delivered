@@ -55,11 +55,11 @@
                     <lb/>of <name>Ould Coale</name></measure> Likewise I give and bequeath unto <persName type="beneficiary" xml:id="JonathanMarker">Jonathan <surname>Marker</surname></persName> <measure commodity="livestock" quantity="1" xml:id="JonathanMarker">one cowe
                     <lb/>known &amp; commonly called by the name <name>young Coale</name></measure>. Item I give &amp; bequeath unto 
                     <lb/><persName type="beneficiary" xml:id="ElizabethCormichill">Elizabeth <surname>Cormichill</surname></persName> <measure commodity="horse" quantity="1" xml:id="ElizabethCormichill">one bat mare aged five years</measure> or the afords 
-                    <lb/>likewise I give to the said Elizabeth Cormichill <measure commodity="horse" quantity="1">one young bay filly with a tan
+                    <lb/>likewise I give to the said Elizabeth Cormichill <measure commodity="horse" quantity="1" xml:id="ElizabethCormichill">one young bay filly with a tan
                         <lb/>in it forehead</measure> further I give to the said Elizabeth Cormichill <measure commodity="livestock" quantity="1" xml:id="ElizabethCormichill">one cow called
                     <lb/>and <unclear reason="illegible"></unclear> by the name of black bird</measure>.
                 </p>
-                <p>Item I give and bequeath <measure commodity="livestock" quantity="1" xml:id="ElizabethCormichill">one young heifer</measure> and <measure commodity="livestock" quantity="3">three sterns</measure> for the use and behest 
+                <p>Item I give and bequeath <measure commodity="livestock" quantity="1" xml:id="ElizabethCormichill">one young heifer</measure> and <measure commodity="livestock" quantity="3" xml:id="ElizabethCormichill">three sterns</measure> for the use and behest 
                    of she Elizabeth Cormichill
                 </p>
                 <p>I give also <measure commodity="livestock" quantity="1" xml:id="ThomasBakers">one cow</measure> at <persName type="beneficiary" xml:id="ThomasBakers">Thomas <surname>Bakers</surname></persName> I purchase of him and all the <unclear reason="illegible"></unclear>

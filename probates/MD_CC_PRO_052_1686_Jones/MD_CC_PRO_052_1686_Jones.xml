@@ -33,12 +33,12 @@
                 <p><unclear reason="illegible"></unclear> I commit my soule to God the father of our Lord Jesus Christ by whome
                     <lb/><unclear reason="illegible"></unclear> Death &amp; passion I hope for salvation.
                 </p>
-                <p>I give and bequeath unto my son <persName type="son" xml:id="RichardJonesJr">Richard <surname>Jones</surname></persName> item <measure commodity="livestock" ><unclear reason="illegible">cows</unclear> mare to
+                <p>I give and bequeath unto my son <persName type="son" xml:id="RichardJonesJr">Richard <surname>Jones</surname></persName> item <measure commodity="livestock" xml:id="RichardJonesJr" ><unclear reason="illegible">more</unclear> cows to
                     <lb/>be under three years of age</measure> and then to enjoy the benefit of his Estate in
                     <lb/>his own hands and to bee free from all servitude at he age of sixteen
                     <lb/>either from his mother or any other person whatsoever.
                 </p>
-                <p>I give and bequeath unto my Daughter <persName type="daughter">Ann <surname>Jones</surname></persName> <unclear reason="illegible">item</unclear> <measure commodity="livestock">cows more to bee
+                <p>I give and bequeath unto my Daughter <persName type="daughter" xml:id="AnnJones">Ann <surname>Jones</surname></persName> <unclear reason="illegible">item</unclear> <measure commodity="livestock" xml:id="AnnJones">cows more to bee
                 <lb/>under three year old</measure> and to enjoy the Benefit of the <unclear reason="illegible"></unclear> at sixteen years
                     <lb/>old and to have the free possession of them in her own hands to be free
                     <lb/>from all servitude either from her mother or any other person whatsoever
@@ -91,7 +91,7 @@
                     </row>
                     
                     <row role="data">
-                        <cell><persName type="beneficiary" xml:id="DH"><unclear reason="illegible">D</unclear> <unclear reason="illegible">H</unclear></persName> <measure quantity="1360" xml:id="DH"></measure>thirteen hundred and sixty
+                        <cell><persName type="beneficiary" xml:id="DoctorHofsa">Doctor <unclear reason="illegible">Hofsa</unclear></persName> <measure quantity="1360" xml:id="DH"></measure>thirteen hundred and sixty
                         </cell>
                         
                         <cell>1360</cell>
